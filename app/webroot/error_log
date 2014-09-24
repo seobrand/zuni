@@ -1,0 +1,491 @@
+[06-Jan-2011 01:46:30] PHP Fatal error:  Class 'SearchRecord' not found in /home/seobrand/public_html/ishop/app/controllers/counties_controller.php on line 297
+[06-Jan-2011 01:46:53] PHP Fatal error:  Class 'SearchRecord' not found in /home/seobrand/public_html/ishop/app/controllers/counties_controller.php on line 297
+[06-Jan-2011 01:47:08] PHP Fatal error:  Class 'SearchRecord' not found in /home/seobrand/public_html/ishop/app/controllers/counties_controller.php on line 297
+[06-Jan-2011 01:50:38] PHP Fatal error:  Class 'SearchRecord' not found in /home/seobrand/public_html/ishop/app/controllers/counties_controller.php on line 309
+[06-Jan-2011 01:55:35] PHP Fatal error:  Class 'SearchRecord' not found in /home/seobrand/public_html/ishop/app/controllers/counties_controller.php on line 297
+[06-Jan-2011 01:57:26] PHP Fatal error:  Class 'SearchRecord' not found in /home/seobrand/public_html/ishop/app/controllers/counties_controller.php on line 297
+[06-Jan-2011 01:57:44] PHP Fatal error:  Class 'SearchRecord' not found in /home/seobrand/public_html/ishop/app/controllers/counties_controller.php on line 297
+[06-Jan-2011 01:57:57] PHP Fatal error:  Class 'SearchRecord' not found in /home/seobrand/public_html/ishop/app/controllers/counties_controller.php on line 297
+[06-Jan-2011 01:58:06] PHP Fatal error:  Class 'SearchRecord' not found in /home/seobrand/public_html/ishop/app/controllers/counties_controller.php on line 297
+[06-Jan-2011 06:31:08] PHP Fatal error:  Call to undefined method commonComponent::adminDetails() in /home/seobrand/public_html/ishop/app/controllers/categories_controller.php on line 548
+[30-Sep-2011 11:50:38] PHP Parse error:  syntax error, unexpected $end in /home/ladilapp/public_html/ishop_live/app/controllers/components/common.php on line 1030
+[30-Sep-2011 12:32:07] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting '(' in /home/ladilapp/public_html/ishop_live/app/controllers/advertiser_profiles_controller.php on line 460
+[03-Oct-2011 07:00:15] PHP Parse error:  syntax error, unexpected '{' in /home/ladilapp/public_html/ishop_live/app/controllers/advertiser_profiles_controller.php on line 413
+[03-Oct-2011 07:01:05] PHP Parse error:  syntax error, unexpected '{' in /home/ladilapp/public_html/ishop_live/app/controllers/advertiser_profiles_controller.php on line 413
+[03-Oct-2011 07:01:11] PHP Parse error:  syntax error, unexpected '{' in /home/ladilapp/public_html/ishop_live/app/controllers/advertiser_profiles_controller.php on line 413
+[03-Oct-2011 07:01:13] PHP Parse error:  syntax error, unexpected '{' in /home/ladilapp/public_html/ishop_live/app/controllers/advertiser_profiles_controller.php on line 413
+[03-Oct-2011 07:01:39] PHP Parse error:  syntax error, unexpected $end in /home/ladilapp/public_html/ishop_live/app/controllers/advertiser_profiles_controller.php on line 868
+[02-Dec-2011 14:27:31] PHP Fatal error:  Cannot use string offset as an array in /home/ladilapp/public_html/ishop_live/app/controllers/pages_controller.php on line 1024
+[02-Dec-2011 14:32:56] PHP Fatal error:  Cannot use string offset as an array in /home/ladilapp/public_html/ishop_live/app/controllers/pages_controller.php on line 1024
+[07-Dec-2011 10:55:48] PHP Fatal error:  Call to a member function getCatoptions_register() on a non-object in /home/ladilapp/public_html/ishop_live/app/views/elements/popup_new.ctp on line 267
+[07-Dec-2011 10:55:49] PHP Fatal error:  Call to a member function getCatoptions_register() on a non-object in /home/ladilapp/public_html/ishop_live/app/views/elements/popup_new.ctp on line 267
+[07-Dec-2011 11:03:27] PHP Parse error:  syntax error, unexpected T_IF in /home/ladilapp/public_html/ishop_live/app/controllers/videos_controller.php on line 78
+[07-Dec-2011 11:38:38] PHP Parse error:  syntax error, unexpected '{' in /home/ladilapp/public_html/ishop_live/app/views/videos/index.ctp on line 84
+[07-Dec-2011 12:10:01] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/ladilapp/public_html/ishop_live/app/controllers/videos_controller.php on line 90
+[15-Dec-2011 12:30:51] PHP Fatal error:  Cannot use string offset as an array in /home/ladilapp/public_html/ishop_live/app/controllers/pages_controller.php on line 1327
+[15-Dec-2011 12:30:59] PHP Fatal error:  Cannot use string offset as an array in /home/ladilapp/public_html/ishop_live/app/controllers/pages_controller.php on line 1327
+[10-Feb-2012 10:36:51 UTC] PHP Fatal error:  Call to a member function getCountyDefaultImage() on a non-object in /home/ladilapp/public_html/ishop_live/app/views/layouts/default.ctp on line 116
+[10-Feb-2012 10:36:57 UTC] PHP Fatal error:  Call to a member function getCountyDefaultImage() on a non-object in /home/ladilapp/public_html/ishop_live/app/views/layouts/default.ctp on line 116
+[10-Feb-2012 10:38:42 UTC] PHP Fatal error:  Call to a member function getCountyDefaultImage() on a non-object in /home/ladilapp/public_html/ishop_live/app/views/layouts/default.ctp on line 116
+[10-Feb-2012 10:38:51 UTC] PHP Fatal error:  Call to a member function getCountyDefaultImage() on a non-object in /home/ladilapp/public_html/ishop_live/app/views/layouts/default.ctp on line 116
+[10-Feb-2012 13:55:57 UTC] PHP Fatal error:  Call to a member function getCountyDefaultImage() on a non-object in /home/ladilapp/public_html/ishop_live/app/views/layouts/default.ctp on line 116
+[10-Feb-2012 13:56:13 UTC] PHP Fatal error:  Call to a member function getCountyDefaultImage() on a non-object in /home/ladilapp/public_html/ishop_live/app/views/layouts/default.ctp on line 116
+[13-Feb-2012 04:59:26 UTC] PHP Fatal error:  Call to a member function getCountyDefaultImage() on a non-object in /home/ladilapp/public_html/ishop_live/app/views/layouts/default.ctp on line 116
+[15-Feb-2012 13:47:53 UTC] PHP Fatal error:  Call to a member function getCountyDefaultImage() on a non-object in /home/ladilapp/public_html/ishop_live/app/views/layouts/default.ctp on line 116
+[23-Feb-2012 15:34:04 UTC] PHP Fatal error:  Call to a member function getCountyDefaultImage() on a non-object in /home/ladilapp/public_html/ishop_live/app/views/layouts/default.ctp on line 116
+[24-Feb-2012 13:08:27 UTC] PHP Fatal error:  Call to a member function getCountyDefaultImage() on a non-object in /home/ladilapp/public_html/ishop_live/app/views/layouts/default.ctp on line 116
+[24-Feb-2012 15:56:56 UTC] PHP Fatal error:  Call to a member function getCountyDefaultImage() on a non-object in /home/ladilapp/public_html/ishop_live/app/views/layouts/default.ctp on line 116
+[24-Feb-2012 15:56:59 UTC] PHP Fatal error:  Call to a member function getCountyDefaultImage() on a non-object in /home/ladilapp/public_html/ishop_live/app/views/layouts/default.ctp on line 116
+[19-Mar-2012 14:08:34 UTC] PHP Fatal error:  Call to undefined method commonComponent::getCompanyDetails_url() in /home/ladilapp/public_html/ishop_live/app/app_controller.php on line 20
+[19-Mar-2012 14:08:49 UTC] PHP Parse error:  syntax error, unexpected $end in /home/ladilapp/public_html/ishop_live/app/controllers/components/common.php on line 2138
+[19-Apr-2012 11:44:19 UTC] PHP Fatal error:  Class 'ContestUser' not found in /home/ladilapp/public_html/ishop_live/app/controllers/components/common.php on line 2830
+[19-Apr-2012 14:28:02 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/ladilapp/public_html/ishop_live/app/controllers/front_users_controller.php on line 879
+[19-Apr-2012 14:47:09 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/ladilapp/public_html/ishop_live/app/controllers/front_users_controller.php on line 879
+[19-Apr-2012 14:47:59 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/ladilapp/public_html/ishop_live/app/controllers/front_users_controller.php on line 879
+[19-Apr-2012 14:54:34 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/ladilapp/public_html/ishop_live/app/controllers/front_users_controller.php on line 879
+[19-Apr-2012 14:54:39 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/ladilapp/public_html/ishop_live/app/controllers/front_users_controller.php on line 879
+[19-Apr-2012 14:55:48 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/ladilapp/public_html/ishop_live/app/controllers/front_users_controller.php on line 879
+[19-Apr-2012 15:06:16 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/ladilapp/public_html/ishop_live/app/controllers/front_users_controller.php on line 879
+[19-Apr-2012 15:08:19 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/ladilapp/public_html/ishop_live/app/controllers/front_users_controller.php on line 879
+[19-Apr-2012 15:19:37 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/ladilapp/public_html/ishop_live/app/controllers/front_users_controller.php on line 879
+[24-May-2012 06:21:06] PHP Warning:  Unexpected character in input:  ''' (ASCII=39) state=1 in /home/willzuni/public_html/zuni/app/controllers/pages_controller.php on line 149
+[24-May-2012 06:21:06] PHP Parse error:  syntax error, unexpected $end in /home/willzuni/public_html/zuni/app/controllers/pages_controller.php on line 149
+[24-May-2012 06:21:08] PHP Parse error:  syntax error, unexpected $end in /home/willzuni/public_html/zuni/app/controllers/pages_controller.php on line 926
+[24-May-2012 06:21:10] PHP Parse error:  syntax error, unexpected $end in /home/willzuni/public_html/zuni/app/controllers/pages_controller.php on line 1432
+[24-May-2012 06:30:12] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/willzuni/public_html/zuni/app/controllers/pages_controller.php on line 18
+[24-May-2012 06:30:15] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/willzuni/public_html/zuni/app/controllers/pages_controller.php on line 18
+[24-May-2012 06:30:31] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/willzuni/public_html/zuni/app/controllers/pages_controller.php on line 18
+[24-May-2012 06:30:33] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/willzuni/public_html/zuni/app/controllers/pages_controller.php on line 18
+[24-May-2012 06:30:34] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/willzuni/public_html/zuni/app/controllers/pages_controller.php on line 18
+[24-May-2012 06:30:34] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/willzuni/public_html/zuni/app/controllers/pages_controller.php on line 18
+[24-May-2012 06:46:55] PHP Warning:  Unexpected character in input:  ''' (ASCII=39) state=1 in /home/willzuni/public_html/zuni/app/controllers/components/common.php on line 1399
+[24-May-2012 06:46:55] PHP Parse error:  syntax error, unexpected $end, expecting ']' in /home/willzuni/public_html/zuni/app/controllers/components/common.php on line 1399
+[24-May-2012 06:48:06] PHP Parse error:  syntax error, unexpected T_IF, expecting ',' or ';' in /home/willzuni/public_html/zuni/app/controllers/components/common.php on line 1095
+[24-May-2012 06:48:08] PHP Parse error:  syntax error, unexpected T_IF, expecting ',' or ';' in /home/willzuni/public_html/zuni/app/controllers/components/common.php on line 1095
+[24-May-2012 06:58:19] PHP Parse error:  syntax error, unexpected $end in /home/willzuni/public_html/zuni/app/controllers/pages_controller.php on line 1495
+[25-May-2012 11:31:45] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 71 bytes) in /home/willzuni/public_html/zuni/cake/libs/model/datasources/datasource.php on line 443
+[25-May-2012 11:32:07] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 71 bytes) in /home/willzuni/public_html/zuni/cake/libs/model/datasources/datasource.php on line 443
+[25-May-2012 11:33:29] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 71 bytes) in /home/willzuni/public_html/zuni/cake/libs/model/datasources/datasource.php on line 443
+[25-May-2012 11:37:51] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 71 bytes) in /home/willzuni/public_html/zuni/cake/libs/model/datasources/datasource.php on line 443
+[25-May-2012 11:53:30] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 1636 bytes) in /home/willzuni/public_html/zuni/cake/libs/model/datasources/dbo_source.php on line 2087
+[25-May-2012 12:18:31] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 1380 bytes) in /home/willzuni/public_html/zuni/cake/libs/model/datasources/dbo_source.php on line 2087
+[25-May-2012 12:19:19] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 1380 bytes) in /home/willzuni/public_html/zuni/cake/libs/model/datasources/dbo_source.php on line 2087
+[25-May-2012 12:22:05] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 71 bytes) in /home/willzuni/public_html/zuni/cake/libs/model/datasources/datasource.php on line 443
+[25-May-2012 12:35:26] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 1380 bytes) in /home/willzuni/public_html/zuni/cake/libs/model/datasources/dbo_source.php on line 2087
+[25-May-2012 12:42:47] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2790 bytes) in /home/willzuni/public_html/zuni/cake/libs/model/datasources/dbo_source.php on line 2087
+[25-May-2012 12:46:31] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2790 bytes) in /home/willzuni/public_html/zuni/cake/libs/model/datasources/dbo_source.php on line 2087
+[25-May-2012 13:55:59] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 78 bytes) in /home/willzuni/public_html/zuni/app/webroot/simplexls.class.php on line 1149
+[25-May-2012 13:56:35] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 24 bytes) in /home/willzuni/public_html/zuni/app/webroot/simplexls.class.php on line 932
+[30-May-2012 14:01:34] PHP Fatal error:  Call to a member function getCountyDefaultImage() on a non-object in /home/willzuni/public_html/zuni/app/views/layouts/default.ctp on line 248
+[01-Jun-2012 15:00:11] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/willzuni/public_html/zuni/cake/libs/model/model.php on line 971
+[01-Jun-2012 15:01:17] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/willzuni/public_html/zuni/cake/libs/model/datasources/dbo_source.php on line 2087
+[08-Jun-2012 13:45:07] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/willzuni/public_html/zuni/app/controllers/fundraisers_controller.php on line 240
+[08-Jun-2012 13:45:09] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/willzuni/public_html/zuni/app/controllers/fundraisers_controller.php on line 240
+[08-Jun-2012 13:45:12] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/willzuni/public_html/zuni/app/controllers/fundraisers_controller.php on line 240
+[08-Jun-2012 13:45:13] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/willzuni/public_html/zuni/app/controllers/fundraisers_controller.php on line 240
+[08-Jun-2012 13:45:14] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/willzuni/public_html/zuni/app/controllers/fundraisers_controller.php on line 240
+[12-Jun-2012 12:39:06] PHP Fatal error:  Call to a member function find() on a non-object in /home/willzuni/public_html/zuni/app/controllers/advertiser_profiles_controller.php on line 1548
+[13-Jun-2012 06:23:17] PHP Fatal error:  Call to a member function find() on a non-object in /home/willzuni/public_html/zuni/app/controllers/advertiser_profiles_controller.php on line 1548
+[13-Jun-2012 06:28:15] PHP Fatal error:  Call to a member function find() on a non-object in /home/willzuni/public_html/zuni/app/controllers/advertiser_profiles_controller.php on line 1548
+[13-Jun-2012 06:55:30] PHP Fatal error:  Call to a member function find() on a non-object in /home/willzuni/public_html/zuni/app/controllers/advertiser_profiles_controller.php on line 1548
+[13-Jun-2012 10:21:06] PHP Fatal error:  Call to a member function find() on a non-object in /home/willzuni/public_html/zuni/app/controllers/advertiser_profiles_controller.php on line 1548
+[14-Jun-2012 16:57:50] PHP Fatal error:  Call to a member function find() on a non-object in /home/willzuni/public_html/zuni/app/controllers/fundraisers_controller.php on line 275
+[20-Jun-2012 13:30:05] PHP Parse error:  syntax error, unexpected T_ECHO, expecting ',' or ';' in /home/willzuni/public_html/zuni/app/controllers/components/common.php on line 3128
+[20-Jun-2012 13:30:07] PHP Parse error:  syntax error, unexpected T_ECHO, expecting ',' or ';' in /home/willzuni/public_html/zuni/app/controllers/components/common.php on line 3128
+[05-Jul-2012 13:52:01] PHP Parse error:  syntax error, unexpected $end in /home/willzuni/public_html/zuni/app/controllers/front_users_controller.php on line 1175
+[12-Jul-2012 06:50:41] PHP Parse error:  syntax error, unexpected '/' in /home/willzuni/public_html/zuni/app/views/work_orders/work_order_detail.ctp on line 23
+[12-Jul-2012 07:07:26] PHP Parse error:  syntax error, unexpected '[' in /home/willzuni/public_html/zuni/app/models/work_order.php on line 12
+[13-Jul-2012 14:43:26] PHP Fatal error:  Call to a member function randomPassword() on a non-object in /home/willzuni/public_html/zuni/app/views/layouts/default.ctp on line 186
+[13-Jul-2012 17:11:22] PHP Fatal error:  Call to a member function randomPassword() on a non-object in /home/willzuni/public_html/zuni/app/views/layouts/default.ctp on line 186
+[17-Jul-2012 19:45:30] PHP Fatal error:  Call to a member function randomPassword() on a non-object in /home/willzuni/public_html/zuni/app/views/layouts/default.ctp on line 187
+[15-Oct-2012 05:59:10] PHP Fatal error:  Call to undefined function getPackagePrice() in /home/willzuni/public_html/zuni/app/controllers/advertiser_profiles_controller.php on line 3054
+[15-Oct-2012 05:59:32] PHP Fatal error:  Call to undefined function getPackagePrice() in /home/willzuni/public_html/zuni/app/controllers/advertiser_profiles_controller.php on line 3054
+[15-Oct-2012 05:59:53] PHP Fatal error:  Call to undefined function getPackagePrice() in /home/willzuni/public_html/zuni/app/controllers/advertiser_profiles_controller.php on line 3054
+[15-Oct-2012 06:00:06] PHP Fatal error:  Call to undefined function getPackagePrice() in /home/willzuni/public_html/zuni/app/controllers/advertiser_profiles_controller.php on line 3054
+[15-Oct-2012 06:00:18] PHP Fatal error:  Call to undefined function getPackagePrice() in /home/willzuni/public_html/zuni/app/controllers/advertiser_profiles_controller.php on line 3054
+[15-Oct-2012 06:00:26] PHP Fatal error:  Call to undefined function getPackagePrice() in /home/willzuni/public_html/zuni/app/controllers/advertiser_profiles_controller.php on line 3054
+[15-Oct-2012 06:02:03] PHP Fatal error:  Call to undefined function getPackagePrice() in /home/willzuni/public_html/zuni/app/controllers/advertiser_profiles_controller.php on line 3054
+[15-Oct-2012 06:03:25] PHP Fatal error:  Call to undefined function getPackagePrice() in /home/willzuni/public_html/zuni/app/controllers/advertiser_profiles_controller.php on line 3054
+[25-Oct-2012 13:46:39] PHP Warning:  Unexpected character in input:  ''' (ASCII=39) state=1 in /home/willzuni/public_html/zuni/app/controllers/components/common.php on line 502
+[25-Oct-2012 13:46:39] PHP Parse error:  syntax error, unexpected $end, expecting ')' in /home/willzuni/public_html/zuni/app/controllers/components/common.php on line 502
+[25-Oct-2012 13:46:42] PHP Parse error:  syntax error, unexpected $end in /home/willzuni/public_html/zuni/app/controllers/components/common.php on line 1643
+[25-Oct-2012 13:46:48] PHP Warning:  Unexpected character in input:  ''' (ASCII=39) state=1 in /home/willzuni/public_html/zuni/app/controllers/components/common.php on line 3019
+[25-Oct-2012 13:46:48] PHP Parse error:  syntax error, unexpected $end, expecting ')' in /home/willzuni/public_html/zuni/app/controllers/components/common.php on line 3019
+[27-Oct-2012 11:20:51] PHP Fatal error:  Class 'Job' not found in /home/willzuni/public_html/zuni/app/controllers/careers_controller.php on line 33
+[27-Oct-2012 11:20:57] PHP Fatal error:  Class 'Job' not found in /home/willzuni/public_html/zuni/app/controllers/careers_controller.php on line 33
+[27-Oct-2012 11:21:39] PHP Fatal error:  Class 'Job' not found in /home/willzuni/public_html/zuni/app/controllers/careers_controller.php on line 33
+[27-Oct-2012 11:22:10] PHP Fatal error:  Class 'Job' not found in /home/willzuni/public_html/zuni/app/controllers/careers_controller.php on line 33
+[29-Oct-2012 09:28:35] PHP Warning:  Unterminated comment starting line 604 in /home/willzuni/public_html/zuni/app/config/core.php on line 604
+[29-Oct-2012 09:28:35] PHP Fatal error:  fatal flex scanner internal error--end of buffer missed in /home/willzuni/public_html/zuni/app/config/core.php on line 604
+[29-Oct-2012 14:16:45] PHP Warning:  Unexpected character in input:  ''' (ASCII=39) state=1 in /home/willzuni/public_html/zuni/app/views/careers/jobs.ctp on line 51
+[29-Oct-2012 14:16:45] PHP Parse error:  syntax error, unexpected $end, expecting ')' in /home/willzuni/public_html/zuni/app/views/careers/jobs.ctp on line 51
+[29-Oct-2012 17:23:48] PHP Fatal error:  Call to a member function save() on a non-object in /home/willzuni/public_html/zuni/app/controllers/advertiser_profiles_controller.php on line 2530
+[29-Oct-2012 17:49:50] PHP Fatal error:  Call to a member function save() on a non-object in /home/willzuni/public_html/zuni/app/controllers/advertiser_profiles_controller.php on line 2530
+[30-Oct-2012 07:35:37] PHP Parse error:  syntax error, unexpected T_STRING in /home/willzuni/public_html/zuni/app/views/advertiser_orders/pdf.ctp on line 333
+[30-Oct-2012 12:12:12] PHP Fatal error:  Cannot re-assign $this in /home/willzuni/public_html/zuni/app/controllers/advertiser_orders_controller.php on line 1719
+[30-Oct-2012 12:12:15] PHP Fatal error:  Cannot re-assign $this in /home/willzuni/public_html/zuni/app/controllers/advertiser_orders_controller.php on line 1719
+[30-Oct-2012 08:14:14] PHP Fatal error:  Call to a member function getCategoryName() on a non-object in /home/willzuni/public_html/zuni/app/controllers/advertiser_orders_controller.php on line 1845
+[30-Oct-2012 12:15:33] PHP Parse error:  syntax error, unexpected $end in /home/willzuni/public_html/zuni/app/controllers/advertiser_orders_controller.php on line 1249
+[31-Oct-2012 01:49:23] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 139520 bytes) in /home/willzuni/public_html/zuni/app/vendors/tcpdf/tcpdf.php on line 6634
+[31-Oct-2012 02:06:00] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 491520 bytes) in /home/willzuni/public_html/zuni/app/webroot/MPDF54/classes/grad.php on line 299
+[31-Oct-2012 02:30:50] PHP Fatal error:  Allowed memory size of 25165824 bytes exhausted (tried to allocate 71 bytes) in /home/willzuni/public_html/zuni/app/vendors/tcpdf/unicode_data.php on line 1056
+[31-Oct-2012 14:36:28] PHP Fatal error:  Class 'Mobile_Detect' not found in /home/willzuni/public_html/zuni/app/config/routes.php on line 34
+[31-Oct-2012 14:36:32] PHP Fatal error:  Class 'Mobile_Detect' not found in /home/willzuni/public_html/zuni/app/config/routes.php on line 34
+[31-Oct-2012 14:36:32] PHP Fatal error:  Class 'Mobile_Detect' not found in /home/willzuni/public_html/zuni/app/config/routes.php on line 34
+[31-Oct-2012 14:36:34] PHP Fatal error:  Class 'Mobile_Detect' not found in /home/willzuni/public_html/zuni/app/config/routes.php on line 34
+[31-Oct-2012 14:36:36] PHP Fatal error:  Class 'Mobile_Detect' not found in /home/willzuni/public_html/zuni/app/config/routes.php on line 34
+[31-Oct-2012 14:36:37] PHP Fatal error:  Class 'Mobile_Detect' not found in /home/willzuni/public_html/zuni/app/config/routes.php on line 34
+[31-Oct-2012 14:36:39] PHP Fatal error:  Class 'Mobile_Detect' not found in /home/willzuni/public_html/zuni/app/config/routes.php on line 34
+[31-Oct-2012 14:36:41] PHP Fatal error:  Class 'Mobile_Detect' not found in /home/willzuni/public_html/zuni/app/config/routes.php on line 34
+[31-Oct-2012 14:36:44] PHP Fatal error:  Class 'Mobile_Detect' not found in /home/willzuni/public_html/zuni/app/config/routes.php on line 34
+[31-Oct-2012 14:36:48] PHP Fatal error:  Class 'Mobile_Detect' not found in /home/willzuni/public_html/zuni/app/config/routes.php on line 34
+[31-Oct-2012 14:36:52] PHP Fatal error:  Class 'Mobile_Detect' not found in /home/willzuni/public_html/zuni/app/config/routes.php on line 34
+[31-Oct-2012 15:01:24] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/willzuni/public_html/zuni/cake/libs/cake_log.php on line 256
+[31-Oct-2012 15:04:46] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/willzuni/public_html/zuni/cake/libs/model/datasources/dbo_source.php on line 1455
+[31-Oct-2012 15:07:44] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/willzuni/public_html/zuni/cake/libs/model/datasources/dbo_source.php on line 534
+[31-Oct-2012 15:11:09] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/willzuni/public_html/zuni/cake/libs/model/datasources/dbo_source.php on line 1951
+[31-Oct-2012 15:12:09] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/willzuni/public_html/zuni/cake/libs/model/model.php on line 982
+[31-Oct-2012 15:25:09] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/willzuni/public_html/zuni/cake/libs/model/datasources/dbo_source.php on line 2268
+[31-Oct-2012 15:32:59] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/willzuni/public_html/zuni/cake/libs/model/model.php on line 2145
+[31-Oct-2012 15:39:43] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/willzuni/public_html/zuni/cake/libs/model/model.php on line 2082
+[31-Oct-2012 15:41:56] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/willzuni/public_html/zuni/cake/libs/model/datasources/dbo_source.php on line 2288
+[31-Oct-2012 23:10:08] PHP Fatal error:  Call to a member function save() on a non-object in /home/willzuni/public_html/zuni/app/controllers/advertiser_profiles_controller.php on line 2530
+[01-Nov-2012 09:42:18] PHP Fatal error:  Call to undefined function is_resource() in /home/willzuni/public_html/zuni/cake/libs/file.php on line 281
+[01-Nov-2012 15:11:44] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/willzuni/public_html/zuni/cake/libs/model/datasources/dbo_source.php on line 2104
+[01-Nov-2012 15:12:41] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/willzuni/public_html/zuni/cake/basics.php on line 130
+[01-Nov-2012 15:13:39] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/willzuni/public_html/zuni/cake/libs/model/model.php on line 2052
+[02-Nov-2012 13:23:14] PHP Fatal error:  Call to a member function save() on a non-object in /home/willzuni/public_html/zuni/app/controllers/advertiser_profiles_controller.php on line 2569
+[02-Nov-2012 14:08:57] PHP Warning:  Unexpected character in input:  ''' (ASCII=39) state=1 in /home/willzuni/public_html/zuni/app/controllers/components/common.php on line 293
+[02-Nov-2012 14:08:57] PHP Parse error:  syntax error, unexpected '<' in /home/willzuni/public_html/zuni/app/controllers/components/common.php on line 293
+[02-Nov-2012 14:08:57] PHP Warning:  Unexpected character in input:  ''' (ASCII=39) state=1 in /home/willzuni/public_html/zuni/app/controllers/components/common.php on line 293
+[02-Nov-2012 14:08:57] PHP Parse error:  syntax error, unexpected '<' in /home/willzuni/public_html/zuni/app/controllers/components/common.php on line 293
+[02-Nov-2012 14:09:08] PHP Warning:  Unexpected character in input:  ''' (ASCII=39) state=1 in /home/willzuni/public_html/zuni/app/controllers/components/common.php on line 2518
+[02-Nov-2012 14:09:08] PHP Parse error:  syntax error, unexpected $end in /home/willzuni/public_html/zuni/app/controllers/components/common.php on line 2518
+[02-Nov-2012 14:09:11] PHP Parse error:  syntax error, unexpected $end, expecting ')' in /home/willzuni/public_html/zuni/app/controllers/components/common.php on line 3588
+[02-Nov-2012 14:09:14] PHP Warning:  Unexpected character in input:  ''' (ASCII=39) state=1 in /home/willzuni/public_html/zuni/app/controllers/components/emailhtml.php on line 49
+[02-Nov-2012 14:09:14] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/willzuni/public_html/zuni/app/controllers/components/emailhtml.php on line 49
+[03-Nov-2012 06:59:44] PHP Fatal error:  Call to a member function save() on a non-object in /home/willzuni/public_html/zuni/app/controllers/advertiser_profiles_controller.php on line 2568
+[03-Nov-2012 07:01:23] PHP Fatal error:  Call to a member function save() on a non-object in /home/willzuni/public_html/zuni/app/controllers/advertiser_profiles_controller.php on line 2568
+[03-Nov-2012 10:24:05] PHP Warning:  Unexpected character in input:  ''' (ASCII=39) state=1 in /home/willzuni/public_html/zuni/app/controllers/advertiser_profiles_controller.php on line 1137
+[03-Nov-2012 10:24:05] PHP Parse error:  syntax error, unexpected $end in /home/willzuni/public_html/zuni/app/controllers/advertiser_profiles_controller.php on line 1137
+[03-Nov-2012 11:18:03] PHP Fatal error:  Call to a member function save() on a non-object in /home/willzuni/public_html/zuni/app/controllers/advertiser_orders_controller.php on line 432
+[05-Nov-2012 07:09:32] PHP Warning:  Unexpected character in input:  ''' (ASCII=39) state=1 in /home/willzuni/public_html/zuni/app/config/routes.php on line 53
+[05-Nov-2012 07:09:32] PHP Parse error:  syntax error, unexpected $end, expecting ')' in /home/willzuni/public_html/zuni/app/config/routes.php on line 53
+[05-Nov-2012 09:47:28] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/willzuni/public_html/zuni/cake/libs/configure.php on line 1065
+[05-Nov-2012 09:47:35] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/willzuni/public_html/zuni/cake/libs/file.php on line 154
+[05-Nov-2012 09:48:05] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/willzuni/public_html/zuni/cake/libs/file.php on line 409
+[05-Nov-2012 09:49:05] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/willzuni/public_html/zuni/cake/libs/configure.php on line 1065
+[05-Nov-2012 09:49:23] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/willzuni/public_html/zuni/cake/libs/configure.php on line 1065
+[05-Nov-2012 09:49:24] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/willzuni/public_html/zuni/cake/libs/configure.php on line 1065
+[05-Nov-2012 09:49:30] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/willzuni/public_html/zuni/cake/libs/configure.php on line 1065
+[05-Nov-2012 09:49:41] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/willzuni/public_html/zuni/cake/libs/file.php on line 409
+[05-Nov-2012 09:49:52] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/willzuni/public_html/zuni/cake/libs/configure.php on line 1063
+[05-Nov-2012 09:49:52] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/willzuni/public_html/zuni/cake/libs/file.php on line 409
+[05-Nov-2012 09:50:04] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/willzuni/public_html/zuni/cake/libs/file.php on line 154
+[05-Nov-2012 09:50:38] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/willzuni/public_html/zuni/cake/libs/configure.php on line 1065
+[05-Nov-2012 09:50:45] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/willzuni/public_html/zuni/cake/libs/file.php on line 409
+[05-Nov-2012 09:50:50] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/willzuni/public_html/zuni/cake/libs/file.php on line 409
+[05-Nov-2012 09:50:59] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/willzuni/public_html/zuni/cake/libs/configure.php on line 1065
+[06-Nov-2012 07:47:06] PHP Parse error:  syntax error, unexpected ')' in /home/willzuni/public_html/zuni/app/models/video.php on line 20
+[06-Nov-2012 07:47:09] PHP Parse error:  syntax error, unexpected ')' in /home/willzuni/public_html/zuni/app/models/video.php on line 20
+[06-Nov-2012 07:47:11] PHP Parse error:  syntax error, unexpected ')' in /home/willzuni/public_html/zuni/app/models/video.php on line 20
+[06-Nov-2012 07:47:25] PHP Parse error:  syntax error, unexpected ')' in /home/willzuni/public_html/zuni/app/models/video.php on line 20
+[06-Nov-2012 07:47:27] PHP Parse error:  syntax error, unexpected ')' in /home/willzuni/public_html/zuni/app/models/video.php on line 20
+[06-Nov-2012 07:47:29] PHP Parse error:  syntax error, unexpected ')' in /home/willzuni/public_html/zuni/app/models/video.php on line 20
+[06-Nov-2012 07:47:30] PHP Parse error:  syntax error, unexpected ')' in /home/willzuni/public_html/zuni/app/models/video.php on line 20
+[06-Nov-2012 07:47:30] PHP Parse error:  syntax error, unexpected ')' in /home/willzuni/public_html/zuni/app/models/video.php on line 20
+[06-Nov-2012 07:47:30] PHP Parse error:  syntax error, unexpected ')' in /home/willzuni/public_html/zuni/app/models/video.php on line 20
+[06-Nov-2012 07:47:30] PHP Parse error:  syntax error, unexpected ')' in /home/willzuni/public_html/zuni/app/models/video.php on line 20
+[06-Nov-2012 07:47:30] PHP Parse error:  syntax error, unexpected ')' in /home/willzuni/public_html/zuni/app/models/video.php on line 20
+[06-Nov-2012 07:47:30] PHP Parse error:  syntax error, unexpected ')' in /home/willzuni/public_html/zuni/app/models/video.php on line 20
+[06-Nov-2012 07:47:30] PHP Parse error:  syntax error, unexpected ')' in /home/willzuni/public_html/zuni/app/models/video.php on line 20
+[06-Nov-2012 07:47:30] PHP Parse error:  syntax error, unexpected ')' in /home/willzuni/public_html/zuni/app/models/video.php on line 20
+[06-Nov-2012 07:47:30] PHP Parse error:  syntax error, unexpected ')' in /home/willzuni/public_html/zuni/app/models/video.php on line 20
+[06-Nov-2012 07:47:30] PHP Parse error:  syntax error, unexpected ')' in /home/willzuni/public_html/zuni/app/models/video.php on line 20
+[06-Nov-2012 07:47:30] PHP Parse error:  syntax error, unexpected ')' in /home/willzuni/public_html/zuni/app/models/video.php on line 20
+[06-Nov-2012 07:47:30] PHP Parse error:  syntax error, unexpected ')' in /home/willzuni/public_html/zuni/app/models/video.php on line 20
+[06-Nov-2012 07:47:30] PHP Parse error:  syntax error, unexpected ')' in /home/willzuni/public_html/zuni/app/models/video.php on line 20
+[06-Nov-2012 07:47:30] PHP Parse error:  syntax error, unexpected ')' in /home/willzuni/public_html/zuni/app/models/video.php on line 20
+[06-Nov-2012 07:47:31] PHP Parse error:  syntax error, unexpected ')' in /home/willzuni/public_html/zuni/app/models/video.php on line 20
+[06-Nov-2012 07:47:31] PHP Parse error:  syntax error, unexpected ')' in /home/willzuni/public_html/zuni/app/models/video.php on line 20
+[06-Nov-2012 07:47:45] PHP Parse error:  syntax error, unexpected ')' in /home/willzuni/public_html/zuni/app/models/video.php on line 20
+[06-Nov-2012 07:50:07] PHP Parse error:  syntax error, unexpected ')' in /home/willzuni/public_html/zuni/app/models/video.php on line 20
+[06-Nov-2012 09:21:20] PHP Warning:  Unexpected character in input:  ''' (ASCII=39) state=1 in /home/willzuni/public_html/zuni/app/config/routes.php on line 35
+[06-Nov-2012 09:21:20] PHP Parse error:  syntax error, unexpected $end in /home/willzuni/public_html/zuni/app/config/routes.php on line 35
+[08-Nov-2012 06:25:30] PHP Fatal error:  Call to a member function setFlash() on a non-object in /home/willzuni/public_html/zuni/app/controllers/jobs_controller.php on line 169
+[08-Nov-2012 06:25:39] PHP Fatal error:  Call to a member function setFlash() on a non-object in /home/willzuni/public_html/zuni/app/controllers/jobs_controller.php on line 169
+[08-Nov-2012 06:25:48] PHP Fatal error:  Call to a member function setFlash() on a non-object in /home/willzuni/public_html/zuni/app/controllers/jobs_controller.php on line 169
+[08-Nov-2012 06:26:38] PHP Fatal error:  Call to a member function setFlash() on a non-object in /home/willzuni/public_html/zuni/app/controllers/jobs_controller.php on line 137
+[08-Nov-2012 06:28:15] PHP Fatal error:  Call to a member function setFlash() on a non-object in /home/willzuni/public_html/zuni/app/controllers/careers_controller.php on line 81
+[08-Nov-2012 06:29:57] PHP Fatal error:  Call to a member function setFlash() on a non-object in /home/willzuni/public_html/zuni/app/controllers/careers_controller.php on line 81
+[08-Nov-2012 10:40:39] PHP Fatal error:  Call to a member function setFlash() on a non-object in /home/willzuni/public_html/zuni/app/controllers/advertiser_orders_controller.php on line 291
+[08-Nov-2012 10:40:50] PHP Fatal error:  Call to a member function setFlash() on a non-object in /home/willzuni/public_html/zuni/app/controllers/advertiser_orders_controller.php on line 291
+[08-Nov-2012 10:40:59] PHP Fatal error:  Call to a member function setFlash() on a non-object in /home/willzuni/public_html/zuni/app/controllers/advertiser_orders_controller.php on line 291
+[08-Nov-2012 10:41:42] PHP Fatal error:  Call to a member function setFlash() on a non-object in /home/willzuni/public_html/zuni/app/controllers/advertiser_orders_controller.php on line 291
+[09-Nov-2012 13:01:30] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home/willzuni/public_html/zuni/app/webroot/smtp.php on line 23
+[09-Nov-2012 13:01:30] PHP Parse error:  syntax error, unexpected T_STRING in /home/willzuni/public_html/zuni/app/webroot/smtp.php on line 23
+[10-Nov-2012 09:00:19] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_FUNCTION in /home/willzuni/public_html/zuni/app/webroot/smtp_class.php on line 4
+[10-Nov-2012 09:01:09] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_FUNCTION in /home/willzuni/public_html/zuni/app/webroot/smtp_class.php on line 4
+[10-Nov-2012 09:05:48] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_FUNCTION in /home/willzuni/public_html/zuni/app/webroot/smtp_class.php on line 4
+[10-Nov-2012 10:39:17] PHP Parse error:  syntax error, unexpected T_IF in /home/willzuni/public_html/zuni/app/controllers/advertiser_profiles_controller.php on line 2646
+[10-Nov-2012 10:39:26] PHP Parse error:  syntax error, unexpected T_IF in /home/willzuni/public_html/zuni/app/controllers/advertiser_profiles_controller.php on line 2646
+[10-Nov-2012 10:40:22] PHP Parse error:  syntax error, unexpected T_IF in /home/willzuni/public_html/zuni/app/controllers/advertiser_profiles_controller.php on line 2646
+[10-Nov-2012 10:41:23] PHP Parse error:  syntax error, unexpected T_IF in /home/willzuni/public_html/zuni/app/controllers/advertiser_profiles_controller.php on line 2646
+[10-Nov-2012 10:42:34] PHP Parse error:  syntax error, unexpected T_IF in /home/willzuni/public_html/zuni/app/controllers/advertiser_profiles_controller.php on line 2646
+[10-Nov-2012 10:43:52] PHP Parse error:  syntax error, unexpected T_IF in /home/willzuni/public_html/zuni/app/controllers/advertiser_profiles_controller.php on line 2646
+[12-Nov-2012 12:06:34] PHP Warning:  Unexpected character in input:  ''' (ASCII=39) state=1 in /home/willzuni/public_html/zuni/app/config/routes.php on line 35
+[12-Nov-2012 12:06:34] PHP Parse error:  syntax error, unexpected $end in /home/willzuni/public_html/zuni/app/config/routes.php on line 35
+[21-Nov-2012 13:47:49] PHP Parse error:  syntax error, unexpected $end in /home/willzuni/public_html/zuni/app/controllers/components/emailhtml.php on line 90
+[21-Nov-2012 13:51:02] PHP Parse error:  syntax error, unexpected $end in /home/willzuni/public_html/zuni/app/controllers/advertiser_profiles_controller.php on line 1785
+[21-Nov-2012 13:51:22] PHP Warning:  Unexpected character in input:  ''' (ASCII=39) state=1 in /home/willzuni/public_html/zuni/app/controllers/components/common.php on line 237
+[21-Nov-2012 13:51:22] PHP Parse error:  syntax error, unexpected $end, expecting ')' in /home/willzuni/public_html/zuni/app/controllers/components/common.php on line 237
+[21-Nov-2012 13:51:32] PHP Warning:  Unexpected character in input:  ''' (ASCII=39) state=1 in /home/willzuni/public_html/zuni/app/controllers/components/common.php on line 2534
+[21-Nov-2012 13:51:32] PHP Parse error:  syntax error, unexpected $end, expecting ')' in /home/willzuni/public_html/zuni/app/controllers/components/common.php on line 2534
+[21-Nov-2012 14:01:41] PHP Parse error:  syntax error, unexpected $end in /home/willzuni/public_html/zuni/app/app_controller.php on line 119
+[22-Nov-2012 01:47:29] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/willzuni/public_html/zuni/cake/libs/model/datasources/dbo_source.php on line 2281
+[22-Nov-2012 01:48:04] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/willzuni/public_html/zuni/cake/libs/model/datasources/dbo_source.php on line 2087
+[22-Nov-2012 01:48:40] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/willzuni/public_html/zuni/cake/libs/model/datasources/dbo_source.php on line 2261
+[22-Nov-2012 08:43:13] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/willzuni/public_html/zuni/app/webroot/mail_test.php on line 148
+[22-Nov-2012 08:44:03] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/willzuni/public_html/zuni/app/webroot/mail_test.php on line 147
+[23-Nov-2012 08:11:03] PHP Warning:  include(Cake/bootstrap.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/willzuni/public_html/zuni/app/webroot/cron_dispatcher.php on line 77
+[23-Nov-2012 08:11:03] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'Cake/bootstrap.php' for inclusion (include_path='/home/willzuni/public_html/zuni/lib:.:/usr/lib/php:/usr/local/lib/php') in /home/willzuni/public_html/zuni/app/webroot/cron_dispatcher.php on line 77
+[23-Nov-2012 08:11:03] PHP Fatal error:  CakePHP core could not be found.  Check the value of CAKE_CORE_INCLUDE_PATH in APP/webroot/index.php.  It should point to the directory containing your /cake core directory and your /vendors root directory. in /home/willzuni/public_html/zuni/app/webroot/cron_dispatcher.php on line 86
+[23-Nov-2012 08:12:02] PHP Warning:  include(Cake/bootstrap.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/willzuni/public_html/zuni/app/webroot/cron_dispatcher.php on line 77
+[23-Nov-2012 08:12:02] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'Cake/bootstrap.php' for inclusion (include_path='/home/willzuni/public_html/zuni/lib:.:/usr/lib/php:/usr/local/lib/php') in /home/willzuni/public_html/zuni/app/webroot/cron_dispatcher.php on line 77
+[23-Nov-2012 08:12:02] PHP Fatal error:  CakePHP core could not be found.  Check the value of CAKE_CORE_INCLUDE_PATH in APP/webroot/index.php.  It should point to the directory containing your /cake core directory and your /vendors root directory. in /home/willzuni/public_html/zuni/app/webroot/cron_dispatcher.php on line 86
+[23-Nov-2012 08:13:02] PHP Warning:  include(Cake/bootstrap.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/willzuni/public_html/zuni/app/webroot/cron_dispatcher.php on line 77
+[23-Nov-2012 08:13:02] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'Cake/bootstrap.php' for inclusion (include_path='/home/willzuni/public_html/zuni/lib:.:/usr/lib/php:/usr/local/lib/php') in /home/willzuni/public_html/zuni/app/webroot/cron_dispatcher.php on line 77
+[23-Nov-2012 08:13:02] PHP Fatal error:  CakePHP core could not be found.  Check the value of CAKE_CORE_INCLUDE_PATH in APP/webroot/index.php.  It should point to the directory containing your /cake core directory and your /vendors root directory. in /home/willzuni/public_html/zuni/app/webroot/cron_dispatcher.php on line 86
+[23-Nov-2012 08:14:03] PHP Warning:  include(Cake/bootstrap.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/willzuni/public_html/zuni/app/webroot/cron_dispatcher.php on line 77
+[23-Nov-2012 08:14:03] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'Cake/bootstrap.php' for inclusion (include_path='/home/willzuni/public_html/zuni/lib:.:/usr/lib/php:/usr/local/lib/php') in /home/willzuni/public_html/zuni/app/webroot/cron_dispatcher.php on line 77
+[23-Nov-2012 08:14:03] PHP Fatal error:  CakePHP core could not be found.  Check the value of CAKE_CORE_INCLUDE_PATH in APP/webroot/index.php.  It should point to the directory containing your /cake core directory and your /vendors root directory. in /home/willzuni/public_html/zuni/app/webroot/cron_dispatcher.php on line 86
+[23-Nov-2012 08:15:11] PHP Warning:  include(Cake/bootstrap.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/willzuni/public_html/zuni/app/webroot/cron_dispatcher.php on line 77
+[23-Nov-2012 08:15:11] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'Cake/bootstrap.php' for inclusion (include_path='/home/willzuni/public_html/zuni/lib:.:/usr/lib/php:/usr/local/lib/php') in /home/willzuni/public_html/zuni/app/webroot/cron_dispatcher.php on line 77
+[23-Nov-2012 08:15:11] PHP Fatal error:  CakePHP core could not be found.  Check the value of CAKE_CORE_INCLUDE_PATH in APP/webroot/index.php.  It should point to the directory containing your /cake core directory and your /vendors root directory. in /home/willzuni/public_html/zuni/app/webroot/cron_dispatcher.php on line 86
+[23-Nov-2012 08:16:02] PHP Warning:  include(Cake/bootstrap.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/willzuni/public_html/zuni/app/webroot/cron_dispatcher.php on line 77
+[23-Nov-2012 08:16:02] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'Cake/bootstrap.php' for inclusion (include_path='/home/willzuni/public_html/zuni/lib:.:/usr/lib/php:/usr/local/lib/php') in /home/willzuni/public_html/zuni/app/webroot/cron_dispatcher.php on line 77
+[23-Nov-2012 08:16:02] PHP Fatal error:  CakePHP core could not be found.  Check the value of CAKE_CORE_INCLUDE_PATH in APP/webroot/index.php.  It should point to the directory containing your /cake core directory and your /vendors root directory. in /home/willzuni/public_html/zuni/app/webroot/cron_dispatcher.php on line 86
+[23-Nov-2012 08:17:02] PHP Warning:  include(Cake/bootstrap.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/willzuni/public_html/zuni/app/webroot/cron_dispatcher.php on line 77
+[23-Nov-2012 08:17:02] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'Cake/bootstrap.php' for inclusion (include_path='/home/willzuni/public_html/zuni/lib:.:/usr/lib/php:/usr/local/lib/php') in /home/willzuni/public_html/zuni/app/webroot/cron_dispatcher.php on line 77
+[23-Nov-2012 08:17:02] PHP Fatal error:  CakePHP core could not be found.  Check the value of CAKE_CORE_INCLUDE_PATH in APP/webroot/index.php.  It should point to the directory containing your /cake core directory and your /vendors root directory. in /home/willzuni/public_html/zuni/app/webroot/cron_dispatcher.php on line 86
+[23-Nov-2012 08:18:02] PHP Warning:  include(Cake/bootstrap.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/willzuni/public_html/zuni/app/webroot/cron_dispatcher.php on line 77
+[23-Nov-2012 08:18:02] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'Cake/bootstrap.php' for inclusion (include_path='/home/willzuni/public_html/zuni/lib:.:/usr/lib/php:/usr/local/lib/php') in /home/willzuni/public_html/zuni/app/webroot/cron_dispatcher.php on line 77
+[23-Nov-2012 08:18:02] PHP Fatal error:  CakePHP core could not be found.  Check the value of CAKE_CORE_INCLUDE_PATH in APP/webroot/index.php.  It should point to the directory containing your /cake core directory and your /vendors root directory. in /home/willzuni/public_html/zuni/app/webroot/cron_dispatcher.php on line 86
+[23-Nov-2012 08:19:02] PHP Warning:  include(Cake/bootstrap.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/willzuni/public_html/zuni/app/webroot/cron_dispatcher.php on line 77
+[23-Nov-2012 08:19:02] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'Cake/bootstrap.php' for inclusion (include_path='/home/willzuni/public_html/zuni/lib:.:/usr/lib/php:/usr/local/lib/php') in /home/willzuni/public_html/zuni/app/webroot/cron_dispatcher.php on line 77
+[23-Nov-2012 08:19:02] PHP Fatal error:  CakePHP core could not be found.  Check the value of CAKE_CORE_INCLUDE_PATH in APP/webroot/index.php.  It should point to the directory containing your /cake core directory and your /vendors root directory. in /home/willzuni/public_html/zuni/app/webroot/cron_dispatcher.php on line 86
+[23-Nov-2012 08:20:03] PHP Warning:  include(Cake/bootstrap.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/willzuni/public_html/zuni/app/webroot/cron_dispatcher.php on line 77
+[23-Nov-2012 08:20:03] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'Cake/bootstrap.php' for inclusion (include_path='/home/willzuni/public_html/zuni/lib:.:/usr/lib/php:/usr/local/lib/php') in /home/willzuni/public_html/zuni/app/webroot/cron_dispatcher.php on line 77
+[23-Nov-2012 08:20:03] PHP Fatal error:  CakePHP core could not be found.  Check the value of CAKE_CORE_INCLUDE_PATH in APP/webroot/index.php.  It should point to the directory containing your /cake core directory and your /vendors root directory. in /home/willzuni/public_html/zuni/app/webroot/cron_dispatcher.php on line 86
+[23-Nov-2012 08:21:02] PHP Warning:  include(Cake/bootstrap.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/willzuni/public_html/zuni/app/webroot/cron_dispatcher.php on line 77
+[23-Nov-2012 08:21:02] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'Cake/bootstrap.php' for inclusion (include_path='/home/willzuni/public_html/zuni/lib:.:/usr/lib/php:/usr/local/lib/php') in /home/willzuni/public_html/zuni/app/webroot/cron_dispatcher.php on line 77
+[23-Nov-2012 08:21:02] PHP Fatal error:  CakePHP core could not be found.  Check the value of CAKE_CORE_INCLUDE_PATH in APP/webroot/index.php.  It should point to the directory containing your /cake core directory and your /vendors root directory. in /home/willzuni/public_html/zuni/app/webroot/cron_dispatcher.php on line 86
+[23-Nov-2012 08:22:02] PHP Warning:  include(Cake/bootstrap.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/willzuni/public_html/zuni/app/webroot/cron_dispatcher.php on line 77
+[23-Nov-2012 08:22:02] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'Cake/bootstrap.php' for inclusion (include_path='/home/willzuni/public_html/zuni/lib:.:/usr/lib/php:/usr/local/lib/php') in /home/willzuni/public_html/zuni/app/webroot/cron_dispatcher.php on line 77
+[23-Nov-2012 08:22:02] PHP Fatal error:  CakePHP core could not be found.  Check the value of CAKE_CORE_INCLUDE_PATH in APP/webroot/index.php.  It should point to the directory containing your /cake core directory and your /vendors root directory. in /home/willzuni/public_html/zuni/app/webroot/cron_dispatcher.php on line 86
+[23-Nov-2012 08:23:02] PHP Warning:  include(Cake/bootstrap.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/willzuni/public_html/zuni/app/webroot/cron_dispatcher.php on line 77
+[23-Nov-2012 08:23:02] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'Cake/bootstrap.php' for inclusion (include_path='/home/willzuni/public_html/zuni/lib:.:/usr/lib/php:/usr/local/lib/php') in /home/willzuni/public_html/zuni/app/webroot/cron_dispatcher.php on line 77
+[23-Nov-2012 08:23:02] PHP Fatal error:  CakePHP core could not be found.  Check the value of CAKE_CORE_INCLUDE_PATH in APP/webroot/index.php.  It should point to the directory containing your /cake core directory and your /vendors root directory. in /home/willzuni/public_html/zuni/app/webroot/cron_dispatcher.php on line 86
+[23-Nov-2012 08:24:02] PHP Warning:  include(Cake/bootstrap.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/willzuni/public_html/zuni/app/webroot/cron_dispatcher.php on line 77
+[23-Nov-2012 08:24:02] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'Cake/bootstrap.php' for inclusion (include_path='/home/willzuni/public_html/zuni/lib:.:/usr/lib/php:/usr/local/lib/php') in /home/willzuni/public_html/zuni/app/webroot/cron_dispatcher.php on line 77
+[23-Nov-2012 08:24:02] PHP Fatal error:  CakePHP core could not be found.  Check the value of CAKE_CORE_INCLUDE_PATH in APP/webroot/index.php.  It should point to the directory containing your /cake core directory and your /vendors root directory. in /home/willzuni/public_html/zuni/app/webroot/cron_dispatcher.php on line 86
+[23-Nov-2012 08:25:08] PHP Warning:  include(Cake/bootstrap.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/willzuni/public_html/zuni/app/webroot/cron_dispatcher.php on line 77
+[23-Nov-2012 08:25:08] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'Cake/bootstrap.php' for inclusion (include_path='/home/willzuni/public_html/zuni/lib:.:/usr/lib/php:/usr/local/lib/php') in /home/willzuni/public_html/zuni/app/webroot/cron_dispatcher.php on line 77
+[23-Nov-2012 08:25:08] PHP Fatal error:  CakePHP core could not be found.  Check the value of CAKE_CORE_INCLUDE_PATH in APP/webroot/index.php.  It should point to the directory containing your /cake core directory and your /vendors root directory. in /home/willzuni/public_html/zuni/app/webroot/cron_dispatcher.php on line 86
+[23-Nov-2012 08:26:02] PHP Warning:  include(Cake/bootstrap.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/willzuni/public_html/zuni/app/webroot/cron_dispatcher.php on line 77
+[23-Nov-2012 08:26:02] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'Cake/bootstrap.php' for inclusion (include_path='/home/willzuni/public_html/zuni/lib:.:/usr/lib/php:/usr/local/lib/php') in /home/willzuni/public_html/zuni/app/webroot/cron_dispatcher.php on line 77
+[23-Nov-2012 08:26:02] PHP Fatal error:  CakePHP core could not be found.  Check the value of CAKE_CORE_INCLUDE_PATH in APP/webroot/index.php.  It should point to the directory containing your /cake core directory and your /vendors root directory. in /home/willzuni/public_html/zuni/app/webroot/cron_dispatcher.php on line 86
+[23-Nov-2012 08:27:02] PHP Warning:  include(Cake/bootstrap.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/willzuni/public_html/zuni/app/webroot/cron_dispatcher.php on line 77
+[23-Nov-2012 08:27:02] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'Cake/bootstrap.php' for inclusion (include_path='/home/willzuni/public_html/zuni/lib:.:/usr/lib/php:/usr/local/lib/php') in /home/willzuni/public_html/zuni/app/webroot/cron_dispatcher.php on line 77
+[23-Nov-2012 08:27:02] PHP Fatal error:  CakePHP core could not be found.  Check the value of CAKE_CORE_INCLUDE_PATH in APP/webroot/index.php.  It should point to the directory containing your /cake core directory and your /vendors root directory. in /home/willzuni/public_html/zuni/app/webroot/cron_dispatcher.php on line 86
+[23-Nov-2012 08:28:03] PHP Warning:  include(Cake/bootstrap.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/willzuni/public_html/zuni/app/webroot/cron_dispatcher.php on line 77
+[23-Nov-2012 08:28:03] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'Cake/bootstrap.php' for inclusion (include_path='/home/willzuni/public_html/zuni/lib:.:/usr/lib/php:/usr/local/lib/php') in /home/willzuni/public_html/zuni/app/webroot/cron_dispatcher.php on line 77
+[23-Nov-2012 08:28:03] PHP Fatal error:  CakePHP core could not be found.  Check the value of CAKE_CORE_INCLUDE_PATH in APP/webroot/index.php.  It should point to the directory containing your /cake core directory and your /vendors root directory. in /home/willzuni/public_html/zuni/app/webroot/cron_dispatcher.php on line 86
+[23-Nov-2012 08:29:02] PHP Warning:  include(Cake/bootstrap.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/willzuni/public_html/zuni/app/webroot/cron_dispatcher.php on line 77
+[23-Nov-2012 08:29:02] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'Cake/bootstrap.php' for inclusion (include_path='/home/willzuni/public_html/zuni/lib:.:/usr/lib/php:/usr/local/lib/php') in /home/willzuni/public_html/zuni/app/webroot/cron_dispatcher.php on line 77
+[23-Nov-2012 08:29:02] PHP Fatal error:  CakePHP core could not be found.  Check the value of CAKE_CORE_INCLUDE_PATH in APP/webroot/index.php.  It should point to the directory containing your /cake core directory and your /vendors root directory. in /home/willzuni/public_html/zuni/app/webroot/cron_dispatcher.php on line 86
+[27-Nov-2012 13:26:37] PHP Parse error:  syntax error, unexpected $end in /home/willzuni/public_html/app/controllers/pages_controller.php on line 515
+[28-Nov-2012 09:32:50] PHP Warning:  Unexpected character in input:  ''' (ASCII=39) state=1 in /home/willzuni/public_html/app/controllers/components/emailhtml.php on line 176
+[28-Nov-2012 09:32:50] PHP Parse error:  syntax error, unexpected T_STRING in /home/willzuni/public_html/app/controllers/components/emailhtml.php on line 176
+[28-Nov-2012 10:23:16] PHP Parse error:  syntax error, unexpected $end in /home/willzuni/public_html/app/app_controller.php on line 23
+[28-Nov-2012 14:05:43] PHP Warning:  Unexpected character in input:  ''' (ASCII=39) state=1 in /home/willzuni/public_html/app/controllers/components/emailhtml.php on line 101
+[28-Nov-2012 14:05:43] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/willzuni/public_html/app/controllers/components/emailhtml.php on line 101
+[28-Nov-2012 14:05:48] PHP Parse error:  syntax error, unexpected $end in /home/willzuni/public_html/app/controllers/components/common.php on line 66
+[28-Nov-2012 14:05:50] PHP Warning:  Unterminated comment starting line 1077 in /home/willzuni/public_html/app/controllers/components/common.php on line 1077
+[28-Nov-2012 14:05:50] PHP Fatal error:  fatal flex scanner internal error--end of buffer missed in /home/willzuni/public_html/app/controllers/components/common.php on line 1077
+[28-Nov-2012 14:05:52] PHP Parse error:  syntax error, unexpected $end in /home/willzuni/public_html/app/controllers/components/common.php on line 2089
+[28-Nov-2012 14:08:25] PHP Parse error:  syntax error, unexpected $end in /home/willzuni/public_html/app/controllers/consumers_controller.php on line 373
+[29-Nov-2012 10:29:35] PHP Warning:  Unexpected character in input:  ''' (ASCII=39) state=1 in /home/willzuni/public_html/app/controllers/consumers_controller.php on line 612
+[29-Nov-2012 10:29:35] PHP Parse error:  syntax error, unexpected $end in /home/willzuni/public_html/app/controllers/consumers_controller.php on line 612
+[29-Nov-2012 13:26:23] PHP Parse error:  syntax error, unexpected $end, expecting ')' in /home/willzuni/public_html/app/controllers/components/common.php on line 3184
+[30-Nov-2012 11:27:01] PHP Warning:  Unexpected character in input:  ''' (ASCII=39) state=1 in /home/willzuni/public_html/app/controllers/components/common.php on line 424
+[30-Nov-2012 11:27:01] PHP Parse error:  syntax error, unexpected '<' in /home/willzuni/public_html/app/controllers/components/common.php on line 424
+[30-Nov-2012 12:45:07] PHP Parse error:  syntax error, unexpected $end in /home/willzuni/public_html/app/controllers/components/common.php on line 2791
+[30-Nov-2012 12:45:17] PHP Parse error:  syntax error, unexpected $end, expecting ')' in /home/willzuni/public_html/app/controllers/components/common.php on line 3536
+[30-Nov-2012 12:45:19] PHP Parse error:  syntax error, unexpected $end, expecting ')' in /home/willzuni/public_html/app/controllers/components/common.php on line 3536
+[30-Nov-2012 12:45:27] PHP Parse error:  syntax error, unexpected $end in /home/willzuni/public_html/app/controllers/components/common.php on line 627
+[30-Nov-2012 12:45:28] PHP Parse error:  syntax error, unexpected $end in /home/willzuni/public_html/app/controllers/components/common.php on line 627
+[30-Nov-2012 12:45:28] PHP Parse error:  syntax error, unexpected $end in /home/willzuni/public_html/app/controllers/components/common.php on line 627
+[30-Nov-2012 12:45:30] PHP Parse error:  syntax error, unexpected $end in /home/willzuni/public_html/app/controllers/components/common.php on line 627
+[30-Nov-2012 12:45:32] PHP Parse error:  syntax error, unexpected $end in /home/willzuni/public_html/app/controllers/components/common.php on line 834
+[30-Nov-2012 12:45:33] PHP Parse error:  syntax error, unexpected $end, expecting '(' in /home/willzuni/public_html/app/controllers/components/common.php on line 1105
+[30-Nov-2012 12:45:33] PHP Parse error:  syntax error, unexpected $end in /home/willzuni/public_html/app/controllers/components/common.php on line 1251
+[30-Nov-2012 12:45:33] PHP Parse error:  syntax error, unexpected $end in /home/willzuni/public_html/app/controllers/components/common.php on line 1275
+[30-Nov-2012 12:45:33] PHP Warning:  Unexpected character in input:  ''' (ASCII=39) state=1 in /home/willzuni/public_html/app/controllers/components/common.php on line 1448
+[30-Nov-2012 12:45:33] PHP Parse error:  syntax error, unexpected $end, expecting ']' in /home/willzuni/public_html/app/controllers/components/common.php on line 1448
+[30-Nov-2012 12:45:37] PHP Warning:  Unexpected character in input:  ''' (ASCII=39) state=1 in /home/willzuni/public_html/app/controllers/components/common.php on line 3817
+[30-Nov-2012 12:45:37] PHP Parse error:  syntax error, unexpected $end, expecting ')' in /home/willzuni/public_html/app/controllers/components/common.php on line 3817
+[05-Dec-2012 14:17:49] PHP Parse error:  syntax error, unexpected $end in /home/willzuni/public_html/app/controllers/components/common.php on line 2589
+[05-Dec-2012 14:18:15] PHP Warning:  Unexpected character in input:  ''' (ASCII=39) state=1 in /home/willzuni/public_html/app/controllers/components/common.php on line 3641
+[05-Dec-2012 14:18:15] PHP Parse error:  syntax error, unexpected $end, expecting ']' in /home/willzuni/public_html/app/controllers/components/common.php on line 3641
+[06-Dec-2012 12:14:51] PHP Warning:  Unexpected character in input:  ''' (ASCII=39) state=1 in /home/willzuni/public_html/app/controllers/components/common.php on line 105
+[06-Dec-2012 12:14:51] PHP Parse error:  syntax error, unexpected $end, expecting ')' in /home/willzuni/public_html/app/controllers/components/common.php on line 105
+[10-Dec-2012 12:00:27] PHP Parse error:  syntax error, unexpected $end in /home/willzuni/public_html/app/controllers/components/common.php on line 838
+[10-Dec-2012 12:00:36] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/willzuni/public_html/app/controllers/components/common.php on line 3912
+[10-Dec-2012 12:00:47] PHP Warning:  Unexpected character in input:  ''' (ASCII=39) state=1 in /home/willzuni/public_html/app/controllers/components/emailhtml.php on line 236
+[10-Dec-2012 12:00:47] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/willzuni/public_html/app/controllers/components/emailhtml.php on line 236
+[14-Dec-2012 10:15:14] PHP Warning:  Unexpected character in input:  ''' (ASCII=39) state=1 in /home/willzuni/public_html/app/controllers/components/common.php on line 3728
+[14-Dec-2012 10:15:14] PHP Parse error:  syntax error, unexpected $end in /home/willzuni/public_html/app/controllers/components/common.php on line 3728
+[07-Jan-2013 13:07:26] PHP Parse error:  syntax error, unexpected T_STRING, expecting T_FUNCTION in /home/willzuni/public_html/zuni/app/controllers/components/cronhtml.php on line 11
+[07-Jan-2013 13:08:02] PHP Parse error:  syntax error, unexpected T_STRING, expecting T_FUNCTION in /home/willzuni/public_html/zuni/app/controllers/components/cronhtml.php on line 11
+[07-Jan-2013 13:08:06] PHP Parse error:  syntax error, unexpected T_STRING, expecting T_FUNCTION in /home/willzuni/public_html/zuni/app/controllers/components/cronhtml.php on line 11
+[07-Jan-2013 13:09:01] PHP Parse error:  syntax error, unexpected T_STRING, expecting T_FUNCTION in /home/willzuni/public_html/zuni/app/controllers/components/cronhtml.php on line 11
+[07-Jan-2013 13:09:55] PHP Fatal error:  Cannot redeclare class emailhtmlComponent in /home/willzuni/public_html/zuni/app/controllers/components/cronhtml.php on line 275
+[07-Jan-2013 13:10:01] PHP Fatal error:  Cannot redeclare class emailhtmlComponent in /home/willzuni/public_html/zuni/app/controllers/components/cronhtml.php on line 275
+[11-Jan-2013 09:58:21] PHP Parse error:  syntax error, unexpected ',' in /home/willzuni/public_html/zuni/app/app_controller.php on line 11
+[11-Jan-2013 09:58:25] PHP Parse error:  syntax error, unexpected ',' in /home/willzuni/public_html/zuni/app/app_controller.php on line 11
+[11-Jan-2013 09:59:17] PHP Parse error:  syntax error, unexpected ',' in /home/willzuni/public_html/zuni/app/app_controller.php on line 11
+[11-Jan-2013 09:59:44] PHP Parse error:  syntax error, unexpected ',' in /home/willzuni/public_html/zuni/app/app_controller.php on line 10
+[11-Jan-2013 10:00:16] PHP Parse error:  syntax error, unexpected ',' in /home/willzuni/public_html/zuni/app/app_controller.php on line 10
+[15-Jan-2013 14:20:32] PHP Parse error:  syntax error, unexpected $end, expecting T_FUNCTION in /home/willzuni/public_html/zuni/app/controllers/components/common.php on line 2228
+[31-Jan-2013 11:03:31] PHP Parse error:  syntax error, unexpected $end in /home/willzuni/public_html/zuni/app/controllers/saving_offers_controller.php on line 803
+[11-Feb-2013 07:49:51] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting ')' in /home/willzuni/public_html/zuni/app/controllers/components/common.php on line 4373
+[11-Feb-2013 07:49:53] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting ')' in /home/willzuni/public_html/zuni/app/controllers/components/common.php on line 4373
+[11-Feb-2013 07:50:09] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting ')' in /home/willzuni/public_html/zuni/app/controllers/components/common.php on line 4373
+[11-Feb-2013 07:50:32] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting ')' in /home/willzuni/public_html/zuni/app/controllers/components/common.php on line 4373
+[11-Feb-2013 07:50:34] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting ')' in /home/willzuni/public_html/zuni/app/controllers/components/common.php on line 4373
+[11-Feb-2013 07:53:52] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting ')' in /home/willzuni/public_html/zuni/app/controllers/components/common.php on line 4373
+[11-Feb-2013 14:17:17] PHP Warning:  Unexpected character in input:  ''' (ASCII=39) state=1 in /home/willzuni/public_html/zuni/app/app_controller.php on line 197
+[11-Feb-2013 14:17:17] PHP Parse error:  syntax error, unexpected $end in /home/willzuni/public_html/zuni/app/app_controller.php on line 197
+[22-Feb-2013 12:34:39] PHP Fatal error:  Call to undefined method commonComponent::getMasterPasswordForUser() in /home/willzuni/public_html/zuni/app/controllers/advertiser_profiles_controller.php on line 2420
+[22-Feb-2013 12:35:02] PHP Fatal error:  Call to undefined method commonComponent::getMasterPasswordForUser() in /home/willzuni/public_html/zuni/app/controllers/advertiser_profiles_controller.php on line 2420
+[22-Feb-2013 12:56:03] PHP Fatal error:  Call to undefined method commonComponent::getMasterPasswordForUser() in /home/willzuni/public_html/zuni/app/controllers/advertiser_profiles_controller.php on line 2420
+[22-Feb-2013 13:20:20] PHP Fatal error:  Call to undefined method commonComponent::getMasterPasswordForUser() in /home/willzuni/public_html/zuni/app/controllers/advertiser_profiles_controller.php on line 2420
+[22-Feb-2013 13:22:19] PHP Fatal error:  Call to undefined method commonComponent::getMasterPasswordForUser() in /home/willzuni/public_html/zuni/app/controllers/advertiser_profiles_controller.php on line 2420
+[22-Feb-2013 13:33:57] PHP Parse error:  syntax error, unexpected $end, expecting T_FUNCTION in /home/willzuni/public_html/zuni/app/controllers/advertiser_profiles_controller.php on line 3023
+[01-Mar-2013 09:11:58] PHP Fatal error:  Call to undefined method AdvertiserProfilesController::getAdvertiserPublishStatus() in /home/willzuni/public_html/zuni/app/controllers/advertiser_profiles_controller.php on line 701
+[01-Mar-2013 09:12:24] PHP Fatal error:  Call to undefined method AdvertiserProfilesController::getAdvertiserPublishStatus() in /home/willzuni/public_html/zuni/app/controllers/advertiser_profiles_controller.php on line 701
+[01-Mar-2013 09:12:40] PHP Fatal error:  Call to undefined method AdvertiserProfilesController::getAdvertiserPublishStatus() in /home/willzuni/public_html/zuni/app/controllers/advertiser_profiles_controller.php on line 701
+[01-Mar-2013 09:12:44] PHP Fatal error:  Call to undefined method AdvertiserProfilesController::getAdvertiserPublishStatus() in /home/willzuni/public_html/zuni/app/controllers/advertiser_profiles_controller.php on line 701
+[01-Mar-2013 09:12:56] PHP Fatal error:  Call to undefined method AdvertiserProfilesController::getAdvertiserPublishStatus() in /home/willzuni/public_html/zuni/app/controllers/advertiser_profiles_controller.php on line 701
+[01-Mar-2013 09:13:32] PHP Fatal error:  Call to undefined method AdvertiserProfilesController::getAdvertiserPublishStatus() in /home/willzuni/public_html/zuni/app/controllers/advertiser_profiles_controller.php on line 701
+[01-Mar-2013 14:14:08] PHP Parse error:  syntax error, unexpected $end in /home/willzuni/public_html/zuni/app/controllers/advertiser_profiles_controller.php on line 2456
+[01-Mar-2013 14:14:10] PHP Warning:  Unexpected character in input:  ''' (ASCII=39) state=1 in /home/willzuni/public_html/zuni/app/controllers/advertiser_profiles_controller.php on line 3359
+[01-Mar-2013 14:14:10] PHP Parse error:  syntax error, unexpected $end in /home/willzuni/public_html/zuni/app/controllers/advertiser_profiles_controller.php on line 3359
+[13-Mar-2013 11:05:01] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/willzuni/public_html/zuni/app/controllers/front_users_controller.php on line 1834
+[13-Mar-2013 11:06:14] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/willzuni/public_html/zuni/app/controllers/front_users_controller.php on line 1834
+[13-Mar-2013 11:06:16] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/willzuni/public_html/zuni/app/controllers/front_users_controller.php on line 1834
+[13-Mar-2013 11:06:18] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/willzuni/public_html/zuni/app/controllers/front_users_controller.php on line 1834
+[13-Mar-2013 11:07:02] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/willzuni/public_html/zuni/app/controllers/front_users_controller.php on line 1834
+[13-Mar-2013 11:07:04] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/willzuni/public_html/zuni/app/controllers/front_users_controller.php on line 1834
+[13-Mar-2013 11:07:06] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/willzuni/public_html/zuni/app/controllers/front_users_controller.php on line 1834
+[13-Mar-2013 12:52:14] PHP Parse error:  syntax error, unexpected T_IF in /home/willzuni/public_html/zuni/app/controllers/components/common.php on line 4524
+[13-Mar-2013 12:52:17] PHP Parse error:  syntax error, unexpected T_IF in /home/willzuni/public_html/zuni/app/controllers/components/common.php on line 4524
+[13-Mar-2013 12:52:20] PHP Parse error:  syntax error, unexpected T_IF in /home/willzuni/public_html/zuni/app/controllers/components/common.php on line 4524
+[13-Mar-2013 12:52:27] PHP Parse error:  syntax error, unexpected T_IF in /home/willzuni/public_html/zuni/app/controllers/components/common.php on line 4524
+[15-Mar-2013 11:25:47] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_FUNCTION in /home/willzuni/public_html/zuni/app/controllers/cronemails_controller.php on line 296
+[15-Mar-2013 11:25:50] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_FUNCTION in /home/willzuni/public_html/zuni/app/controllers/cronemails_controller.php on line 296
+[23-Mar-2013 09:45:30] PHP Fatal error:  Call to undefined method commonComponent::loadModel() in /home/willzuni/public_html/zuni20/app/controllers/components/common.php on line 4761
+[23-Mar-2013 09:46:41] PHP Fatal error:  Call to undefined method commonComponent::loadModel() in /home/willzuni/public_html/zuni20/app/controllers/components/common.php on line 4768
+[25-Mar-2013 06:40:39] PHP Warning:  Unexpected character in input:  ''' (ASCII=39) state=1 in /home/willzuni/public_html/zuni20/app/controllers/components/common.php on line 3504
+[25-Mar-2013 06:40:39] PHP Parse error:  syntax error, unexpected $end in /home/willzuni/public_html/zuni20/app/controllers/components/common.php on line 3504
+[25-Mar-2013 07:08:48] PHP Parse error:  syntax error, unexpected $end in /home/willzuni/public_html/zuni20/app/controllers/components/common.php on line 1634
+[04-Apr-2013 14:22:50] PHP Parse error:  syntax error, unexpected $end in /home/willzuni/public_html/zuni20/app/controllers/pages_controller.php on line 875
+[09-Apr-2013 08:48:38] PHP Parse error:  syntax error, unexpected $end in /home/willzuni/public_html/zuni20/app/controllers/components/common.php on line 1481
+[09-Apr-2013 08:48:48] PHP Parse error:  syntax error, unexpected $end in /home/willzuni/public_html/zuni20/app/controllers/components/common.php on line 4541
+[09-Apr-2013 13:16:23] PHP Parse error:  syntax error, unexpected $end, expecting ')' in /home/willzuni/public_html/zuni20/app/controllers/components/common.php on line 3064
+[09-Apr-2013 13:16:26] PHP Parse error:  syntax error, unexpected $end in /home/willzuni/public_html/zuni20/app/controllers/components/common.php on line 3976
+[09-Apr-2013 13:16:29] PHP Warning:  Unexpected character in input:  ''' (ASCII=39) state=1 in /home/willzuni/public_html/zuni20/app/controllers/components/common.php on line 4915
+[09-Apr-2013 13:16:29] PHP Parse error:  syntax error, unexpected $end, expecting ')' in /home/willzuni/public_html/zuni20/app/controllers/components/common.php on line 4915
+[09-Apr-2013 13:25:31] PHP Parse error:  syntax error, unexpected $end in /home/willzuni/public_html/zuni20/app/app_controller.php on line 348
+[11-Apr-2013 14:01:53] PHP Parse error:  syntax error, unexpected $end in /home/willzuni/public_html/zuni20/app/app_controller.php on line 51
+[11-Apr-2013 14:02:48] PHP Parse error:  syntax error, unexpected $end in /home/willzuni/public_html/zuni20/app/controllers/components/common.php on line 3468
+[11-Apr-2013 14:03:48] PHP Parse error:  syntax error, unexpected $end in /home/willzuni/public_html/zuni20/app/controllers/front_users_controller.php on line 2518
+[11-Apr-2013 14:04:13] PHP Warning:  Unexpected character in input:  ''' (ASCII=39) state=1 in /home/willzuni/public_html/zuni20/app/app_controller.php on line 281
+[11-Apr-2013 14:04:13] PHP Parse error:  syntax error, unexpected $end in /home/willzuni/public_html/zuni20/app/app_controller.php on line 281
+[12-Apr-2013 14:10:55] PHP Fatal error:  Call to undefined function exif_imagetype() in /home/willzuni/public_html/zuni20/app/controllers/saving_offers_controller.php on line 921
+[12-Apr-2013 14:11:04] PHP Fatal error:  Call to undefined function exif_imagetype() in /home/willzuni/public_html/zuni20/app/controllers/saving_offers_controller.php on line 921
+[12-Apr-2013 14:11:40] PHP Fatal error:  Call to undefined function exif_imagetype() in /home/willzuni/public_html/zuni20/app/controllers/saving_offers_controller.php on line 921
+[15-Apr-2013 11:19:51] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2648 bytes) in /home/willzuni/public_html/zuni20/app/controllers/advertiser_profiles_controller.php on line 3699
+[15-Apr-2013 11:20:00] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2648 bytes) in /home/willzuni/public_html/zuni20/app/controllers/advertiser_profiles_controller.php on line 3699
+[15-Apr-2013 11:20:11] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2648 bytes) in /home/willzuni/public_html/zuni20/app/controllers/advertiser_profiles_controller.php on line 3699
+[15-Apr-2013 11:20:40] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2648 bytes) in /home/willzuni/public_html/zuni20/app/controllers/advertiser_profiles_controller.php on line 3699
+[15-Apr-2013 11:21:28] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 767 bytes) in /home/willzuni/public_html/zuni20/app/controllers/advertiser_profiles_controller.php on line 3699
+[15-Apr-2013 11:22:56] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3068 bytes) in /home/willzuni/public_html/zuni20/app/controllers/advertiser_profiles_controller.php on line 3699
+[15-Apr-2013 11:23:05] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3068 bytes) in /home/willzuni/public_html/zuni20/app/controllers/advertiser_profiles_controller.php on line 3699
+[15-Apr-2013 11:23:34] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3068 bytes) in /home/willzuni/public_html/zuni20/app/controllers/advertiser_profiles_controller.php on line 3699
+[15-Apr-2013 11:25:44] PHP Parse error:  syntax error, unexpected $end in /home/willzuni/public_html/zuni20/app/controllers/advertiser_profiles_controller.php on line 1343
+[15-Apr-2013 11:25:48] PHP Parse error:  syntax error, unexpected $end in /home/willzuni/public_html/zuni20/app/controllers/advertiser_profiles_controller.php on line 2450
+[15-Apr-2013 11:25:49] PHP Warning:  Unexpected character in input:  ''' (ASCII=39) state=1 in /home/willzuni/public_html/zuni20/app/controllers/advertiser_profiles_controller.php on line 3040
+[15-Apr-2013 11:25:49] PHP Parse error:  syntax error, unexpected $end in /home/willzuni/public_html/zuni20/app/controllers/advertiser_profiles_controller.php on line 3040
+[15-Apr-2013 11:27:24] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3068 bytes) in /home/willzuni/public_html/zuni20/app/controllers/advertiser_profiles_controller.php on line 3699
+[15-Apr-2013 11:27:29] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3068 bytes) in /home/willzuni/public_html/zuni20/app/controllers/advertiser_profiles_controller.php on line 3699
+[15-Apr-2013 11:27:58] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3068 bytes) in /home/willzuni/public_html/zuni20/app/controllers/advertiser_profiles_controller.php on line 3699
+[15-Apr-2013 11:29:05] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 6108 bytes) in /home/willzuni/public_html/zuni20/app/controllers/advertiser_profiles_controller.php on line 3683
+[15-Apr-2013 11:29:49] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 8144 bytes) in /home/willzuni/public_html/zuni20/app/controllers/advertiser_profiles_controller.php on line 3683
+[15-Apr-2013 11:32:12] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2036 bytes) in /home/willzuni/public_html/zuni20/app/controllers/advertiser_profiles_controller.php on line 3683
+[15-Apr-2013 11:33:15] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 3068 bytes) in /home/willzuni/public_html/zuni20/app/controllers/advertiser_profiles_controller.php on line 3699
+[15-Apr-2013 12:00:16] PHP Parse error:  syntax error, unexpected $end in /home/willzuni/public_html/zuni20/app/controllers/daily_discounts_controller.php on line 350
+[15-Apr-2013 12:00:19] PHP Parse error:  syntax error, unexpected $end in /home/willzuni/public_html/zuni20/app/controllers/daily_discounts_controller.php on line 916
+[15-Apr-2013 12:00:21] PHP Parse error:  syntax error, unexpected $end in /home/willzuni/public_html/zuni20/app/controllers/daily_discounts_controller.php on line 1382
+[26-Apr-2013 07:07:36] PHP Warning:  Unexpected character in input:  ''' (ASCII=39) state=1 in /home/willzuni/public_html/zuni20/app/controllers/front_users_controller.php on line 129
+[26-Apr-2013 07:07:36] PHP Parse error:  syntax error, unexpected $end in /home/willzuni/public_html/zuni20/app/controllers/front_users_controller.php on line 129
+[30-Apr-2013 14:25:24] PHP Parse error:  syntax error, unexpected $end in /home/willzuni/public_html/zuni20/app/controllers/pages_controller.php on line 714
+[01-May-2013 13:54:35] PHP Warning:  Unterminated comment starting line 1365 in /home/willzuni/public_html/zuni20/app/controllers/pages_controller.php on line 1365
+[01-May-2013 13:54:35] PHP Fatal error:  fatal flex scanner internal error--end of buffer missed in /home/willzuni/public_html/zuni20/app/controllers/pages_controller.php on line 1365
+[01-May-2013 13:54:36] PHP Parse error:  syntax error, unexpected $end in /home/willzuni/public_html/zuni20/app/controllers/pages_controller.php on line 1726
+[01-May-2013 13:55:11] PHP Warning:  Unterminated comment starting line 1521 in /home/willzuni/public_html/zuni20/app/controllers/components/common.php on line 1521
+[01-May-2013 13:55:11] PHP Fatal error:  fatal flex scanner internal error--end of buffer missed in /home/willzuni/public_html/zuni20/app/controllers/components/common.php on line 1521
+[01-May-2013 13:55:16] PHP Parse error:  syntax error, unexpected $end in /home/willzuni/public_html/zuni20/app/controllers/components/common.php on line 3835
+[01-May-2013 13:55:20] PHP Parse error:  syntax error, unexpected $end in /home/willzuni/public_html/zuni20/app/controllers/components/common.php on line 5361
+[02-May-2013 13:28:56] PHP Fatal error:  Call to undefined function is_resource() in /home/willzuni/public_html/zuni20/cake/libs/file.php on line 281
+[02-May-2013 13:53:02] PHP Parse error:  syntax error, unexpected $end in /home/willzuni/public_html/zuni20/app/controllers/states_controller.php on line 1309
+[03-May-2013 06:15:04] PHP Parse error:  syntax error, unexpected $end in /home/willzuni/public_html/zuni20/app/controllers/front_users_controller.php on line 50
+[06-May-2013 13:25:59] PHP Parse error:  syntax error, unexpected $end in /home/willzuni/public_html/app/controllers/components/common.php on line 4898
+[08-May-2013 14:17:04] PHP Warning:  Unexpected character in input:  ''' (ASCII=39) state=1 in /home/willzuni/public_html/app/controllers/components/common.php on line 1559
+[08-May-2013 14:17:04] PHP Parse error:  syntax error, unexpected $end in /home/willzuni/public_html/app/controllers/components/common.php on line 1559
+[08-May-2013 14:17:15] PHP Parse error:  syntax error, unexpected $end, expecting T_FUNCTION in /home/willzuni/public_html/app/controllers/components/common.php on line 3997
+[08-May-2013 14:17:21] PHP Warning:  Unexpected character in input:  ''' (ASCII=39) state=1 in /home/willzuni/public_html/app/controllers/components/common.php on line 5446
+[08-May-2013 14:17:21] PHP Parse error:  syntax error, unexpected $end in /home/willzuni/public_html/app/controllers/components/common.php on line 5446
+[08-May-2013 14:18:13] PHP Warning:  Unexpected character in input:  ''' (ASCII=39) state=1 in /home/willzuni/public_html/app/controllers/pages_controller.php on line 152
+[08-May-2013 14:18:13] PHP Parse error:  syntax error, unexpected $end, expecting ')' in /home/willzuni/public_html/app/controllers/pages_controller.php on line 152
+[08-May-2013 14:18:21] PHP Parse error:  syntax error, unexpected $end, expecting ')' in /home/willzuni/public_html/app/controllers/pages_controller.php on line 1538
+[09-May-2013 13:24:32] PHP Parse error:  syntax error, unexpected $end in /home/willzuni/public_html/app/controllers/front_users_controller.php on line 1228
+[09-May-2013 13:24:42] PHP Parse error:  syntax error, unexpected $end in /home/willzuni/public_html/app/controllers/front_users_controller.php on line 1228
+[09-May-2013 13:25:06] PHP Parse error:  syntax error, unexpected $end in /home/willzuni/public_html/app/controllers/front_users_controller.php on line 1228
+[09-May-2013 13:25:18] PHP Parse error:  syntax error, unexpected $end in /home/willzuni/public_html/app/controllers/front_users_controller.php on line 1228
+[09-May-2013 13:25:32] PHP Parse error:  syntax error, unexpected $end in /home/willzuni/public_html/app/controllers/front_users_controller.php on line 1228
+[09-May-2013 13:25:43] PHP Parse error:  syntax error, unexpected $end in /home/willzuni/public_html/app/controllers/front_users_controller.php on line 1228
+[09-May-2013 13:30:37] PHP Parse error:  syntax error, unexpected $end in /home/willzuni/public_html/app/controllers/front_users_controller.php on line 1228
+[09-May-2013 13:33:10] PHP Parse error:  syntax error, unexpected $end in /home/willzuni/public_html/app/controllers/front_users_controller.php on line 1228
+[09-May-2013 13:34:39] PHP Parse error:  syntax error, unexpected $end in /home/willzuni/public_html/app/controllers/front_users_controller.php on line 1228
+[09-May-2013 13:34:42] PHP Parse error:  syntax error, unexpected $end in /home/willzuni/public_html/app/controllers/front_users_controller.php on line 1228
+[09-May-2013 13:35:17] PHP Parse error:  syntax error, unexpected $end in /home/willzuni/public_html/app/controllers/front_users_controller.php on line 1228
+[09-May-2013 11:39:45] PHP Warning:  Cache not configured properly. Please check Cache::config(); in APP/config/core.php in /home/willzuni/public_html/cake/libs/configure.php on line 399
+[13-May-2013 04:20:01] PHP Fatal error:  Cannot use string offset as an array in /home/willzuni/public_html/app/controllers/cronemails_controller.php on line 216
+[13-May-2013 04:21:01] PHP Fatal error:  Cannot use string offset as an array in /home/willzuni/public_html/app/controllers/cronemails_controller.php on line 216
+[13-May-2013 04:22:01] PHP Fatal error:  Cannot use string offset as an array in /home/willzuni/public_html/app/controllers/cronemails_controller.php on line 216
+[13-May-2013 04:22:18] PHP Fatal error:  Cannot use string offset as an array in /home/willzuni/public_html/app/controllers/cronemails_controller.php on line 216
+[13-May-2013 04:22:50] PHP Fatal error:  Cannot use string offset as an array in /home/willzuni/public_html/app/controllers/cronemails_controller.php on line 216
+[13-May-2013 04:23:01] PHP Fatal error:  Cannot use string offset as an array in /home/willzuni/public_html/app/controllers/cronemails_controller.php on line 216
+[13-May-2013 04:24:02] PHP Fatal error:  Cannot use string offset as an array in /home/willzuni/public_html/app/controllers/cronemails_controller.php on line 216
+[13-May-2013 04:25:01] PHP Fatal error:  Cannot use string offset as an array in /home/willzuni/public_html/app/controllers/cronemails_controller.php on line 216
+[13-May-2013 11:26:27] PHP Parse error:  syntax error, unexpected T_STRING in /home/willzuni/public_html/app/controllers/cronemails_controller.php on line 193
+[13-May-2013 11:27:02] PHP Parse error:  syntax error, unexpected T_STRING in /home/willzuni/public_html/app/controllers/cronemails_controller.php on line 193
+[13-May-2013 07:33:02] PHP Fatal error:  Call to a member function getCountyIdByUrl() on a non-object in /home/willzuni/public_html/app/views/elements/front/left_navigation_bar.ctp on line 37
+[13-May-2013 07:33:14] PHP Fatal error:  Call to a member function getCountyIdByUrl() on a non-object in /home/willzuni/public_html/app/views/elements/front/left_navigation_bar.ctp on line 37
+[13-May-2013 07:33:35] PHP Fatal error:  Call to a member function getCountyIdByUrl() on a non-object in /home/willzuni/public_html/app/views/elements/front/left_navigation_bar.ctp on line 37
+[13-May-2013 07:34:01] PHP Fatal error:  Call to a member function getCountyIdByUrl() on a non-object in /home/willzuni/public_html/app/views/elements/front/left_navigation_bar.ctp on line 37
+[13-May-2013 07:34:07] PHP Fatal error:  Call to a member function getCountyIdByUrl() on a non-object in /home/willzuni/public_html/app/views/elements/front/left_navigation_bar.ctp on line 37
+[22-May-2013 11:15:41] PHP Parse error:  syntax error, unexpected $end in /home/willzuni/public_html/app/config/routes.php on line 54
+[23-May-2013 06:12:16] PHP Fatal error:  Call to a member function delete_refer_business() on a non-object in /home/willzuni/public_html/app/app_controller.php on line 10

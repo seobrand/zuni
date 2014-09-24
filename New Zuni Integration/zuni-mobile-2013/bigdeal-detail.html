@@ -1,0 +1,238 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width, minimum-scale=1, maximum-scale=1">
+<title>Welcome - Zuni</title>
+<link href="css/reset.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="css/idangerous.swiper.css">
+<link href="css/style.css" rel="stylesheet" type="text/css">
+<link href="css/font-face.css" rel="stylesheet" type="text/css">
+<script src="js/jquery.min.js"></script>
+<script  src="js/idangerous.swiper-1.9.1.min.js"></script>
+<!-- Swiper Scrollbar plugin -->
+<script  src="js/idangerous.swiper.scrollbar-1.2.js"></script>
+<script>
+
+$(function(){
+	
+	//Main Swiper
+	var swiper = new Swiper('.swiper1', {
+		pagination : '.pagination1',
+		loop:true,
+		grabCursor: true
+	});
+	
+	
+	//Navigation arrows
+	$('.arrow-left').click(function(e) {
+        e.preventDefault()
+		swiper.swipePrev()
+    });
+	$('.arrow-right').click(function(e) {
+        e.preventDefault()
+		swiper.swipeNext()
+    });
+    //Clickable pagination
+    $('.pagination1 .swiper-pagination-switch').click(function(){
+    	swiper.swipeTo($(this).index())
+    })
+})
+</script>
+<script src="js/script.js"></script>
+<script src="js/dropdowntabs.js"></script>
+</head>
+
+<body>
+
+<!-- header -->
+<header class="header">
+  <div class="logo"><a href="index.html"><img src="images/logo.png" width="147" height="66" alt="zuni"></a></div>
+  <div class="top_right clearfix" id="dropdownmenuTop">
+    <ul class="clearfix">
+      <li>
+        <div id="dropdown2"><a href="#" data="dropmenu2_d">Welcome Audrey</a></div>
+      </li>
+    </ul>
+  </div>
+  <div class="dropmenudiv_d" id="dropmenu2_d">
+    <div class="dropdown2">
+      <ul>
+        <li><a href="#">Redeem</a></li>
+        <li><a href="#">Refer A Friend</a></li>
+        <li><a href="#">Refer A Business</a></li>
+        <li><a href="#">My Account</a></li>
+      </ul>
+    </div>
+  </div>
+  <script type="text/javascript">
+//SYNTAX: tabdropdown.init("menu_id", [integer OR "auto"])
+tabdropdown.init("dropdownmenuTop", "auto")
+</script> 
+</header>
+<!-- /header --> 
+
+<!-- nav -->
+<div class="nav_inner clearfix">
+  <ul class="clearfix">
+    <li><a href="#">Redeem</a></li>
+    <li class="link2"><a href="#">Refer A<br>
+      Friend</a></li>
+    <li class="link3"><a href="#"> Refer A<br>
+      Business </a></li>
+    <li class="link4"><a href="#"> My<br>
+      Account </a></li>
+  </ul>
+</div>
+<!-- /nav --> 
+
+<!-- container -->
+
+<div class="dealContainer clearfix">
+  <h1>Planet Cosmo</h1>
+  <div class="dealImg"><img src="images/deal-img.jpg" width="251" height="182" alt=" "></div>
+  <div class="deal_info clearfix">
+    <h2>Color, Cut and Deep Conditioning
+      with Style </h2>
+    <p>$60 for a Color, Cut and Deep Conditioning with 
+      a Style at Planet Cosmo</p>
+  </div>
+  <div class="savingsOffer"> <strong>40%</strong> SAVINGS! <span>(Reg. $100)</span> </div>
+  <div class="gray_bg2 clearfix">
+    <div class="price_left"> $60.00<br>
+      <span>$100 retail price</span> </div>
+    <div class="buyNow_button"><a href="#"><img src="images/buy-now.png" width="126" height="36" alt="buy now"></a></div>
+  </div>
+  <div class="countdown2 clearfix">
+    <table>
+      <tr>
+        <td><span>Time Left to Buy</span><br>
+          1 day  2:56:15 </td>
+      </tr>
+    </table>
+  </div>
+  <div class="deal_des2">
+    <h3>Highlights</h3>
+    <p>Aliquam ac felis nec sapien faucibus faucibus a a magna. Quisque non rutrum sapien. Etiam arcu tortor, gravida sed tempor ut, pellentesque quis leo. Quisque interdum dignissim mattis. Proin congue magna massa. Nulla viverra hendrerit mauris sed dictum. Vivamus hendrerit est in dolor ultrices cursus. Nam tempor euismod nisi quis facilisis. </p>
+    <h3>Map &amp; Locations</h3>
+    <div class="deal_logo"> <img src="images/deal-logo.jpg" width="56" height="76" alt=" "></div>
+    <div class="deal_map">
+      <iframe width="100%" height="180" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=2030+S+Pine+Ave,+Ocala,+FL+34471,+United+States&amp;sll=29.167508,-82.137817&amp;sspn=0.007485,0.009645&amp;ie=UTF8&amp;hq=&amp;hnear=2030+S+Pine+Ave,+Ocala,+Marion,+Florida+34471&amp;t=m&amp;z=14&amp;ll=29.167508,-82.137817&amp;output=embed"></iframe>
+    </div>
+    <div class="dealAddress">
+      <p><strong>Address:</strong> 2030 S Pine Ave, Ocala, FL 34471, <br>
+        United States<br>
+        <strong>Phone:</strong>+1 352-622-4777<br>
+        <strong>Hours:</strong> Tuesday hours 11:00 am–9:00 pm <br>
+        <strong>Menu:</strong> allmenus.com<br>
+        <strong>Website:</strong> <a href="#">www.xyz.com</a> </p>
+    </div>
+  </div>
+</div>
+
+<!-- scroller -->
+<div class="gray_bg">
+  <div class="page_arrow">
+    <div class="slider_home">
+      <h1 class="head1">More Big Deals</h1>
+      <a class="arrow-left" href="#"></a> <a class="arrow-right" href="#"></a>
+      <div class="swiper-main">
+        <div class="sm-free"></div>
+        <div class="swiper-container swiper1">
+          <div class="swiper-wrapper">
+            <div class="swiper-slide">
+              <article class="offer_box relative">
+                <div class="border_radius2"></div>
+                <div class="imgCol"> <img src="images/category-img5.jpg" width="225" height="320" alt=" " class="offerImg"></div>
+                <div class="boxDes2">
+                  <div class="offer_details">
+                    <p><strong>Mesa de Notte</strong></p>
+                    <p> Appetizer </p>
+                  </div>
+                  <div class="priceOuter">
+                    <div class="priceLeft"> <span>$50</span> <strong>$60.00</strong> </div>
+                    <div class="view"> <a href="#" class="viewButton">view</a> </div>
+                  </div>
+                </div>
+                <div class="bottomStrip"><img src="images/bottom-strip3.png" width="225" height="7" alt=" "></div>
+              </article>
+            </div>
+            <div class="swiper-slide">
+              <article class="offer_box relative">
+                <div class="border_radius2"></div>
+                <div class="imgCol"> <img src="images/category-img5.jpg" width="225" height="320" alt=" " class="offerImg"></div>
+                <div class="boxDes2">
+                  <div class="offer_details">
+                    <p><strong>Mesa de Notte</strong></p>
+                    <p> Appetizer </p>
+                  </div>
+                  <div class="priceOuter">
+                    <div class="priceLeft"> <span>$50</span> <strong>$60.00</strong> </div>
+                    <div class="view"> <a href="#" class="viewButton">view</a> </div>
+                  </div>
+                </div>
+                <div class="bottomStrip"><img src="images/bottom-strip3.png" width="225" height="7" alt=" "></div>
+              </article>
+            </div>
+            <div class="swiper-slide">
+              <article class="offer_box relative">
+                <div class="border_radius2"></div>
+                <div class="imgCol"> <img src="images/category-img5.jpg" width="225" height="320" alt=" " class="offerImg"></div>
+                <div class="boxDes2">
+                  <div class="offer_details">
+                    <p><strong>Mesa de Notte</strong></p>
+                    <p> Appetizer </p>
+                  </div>
+                  <div class="priceOuter">
+                    <div class="priceLeft"> <span>$50</span> <strong>$60.00</strong> </div>
+                    <div class="view"> <a href="#" class="viewButton">view</a> </div>
+                  </div>
+                </div>
+                <div class="bottomStrip"><img src="images/bottom-strip3.png" width="225" height="7" alt=" "></div>
+              </article>
+            </div>
+            <div class="swiper-slide">
+              <article class="offer_box relative">
+                <div class="border_radius2"></div>
+                <div class="imgCol"> <img src="images/category-img5.jpg" width="225" height="320" alt=" " class="offerImg"></div>
+                <div class="boxDes2">
+                  <div class="offer_details">
+                    <p><strong>Mesa de Notte</strong></p>
+                    <p> Appetizer </p>
+                  </div>
+                  <div class="priceOuter">
+                    <div class="priceLeft"> <span>$50</span> <strong>$60.00</strong> </div>
+                    <div class="view"> <a href="#" class="viewButton">view</a> </div>
+                  </div>
+                </div>
+                <div class="bottomStrip"><img src="images/bottom-strip3.png" width="225" height="7" alt=" "></div>
+              </article>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="pagination pagination1"></div>
+    </div>
+  </div>
+</div>
+<!-- /scroller --> 
+
+<!-- /container --> 
+
+<!-- footer links -->
+<div class="footer_links clearfix">
+  <ul class="clearfix">
+    <li><a href="#">Terms of Use</a></li>
+    <li><a href="#">Privacy</a></li>
+    <li><a href="#">Contact Us</a></li>
+    <li><a href="#">About Us</a></li>
+  </ul>
+</div>
+<!-- /footer links --> 
+
+<!-- footer -->
+<footer id="splashfooter"> Copyright &copy; 2013 jtwmediagroup, llc. All rights reserved. </footer>
+<!-- /footer -->
+
+</body>
+</html>

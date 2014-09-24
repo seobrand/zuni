@@ -1,0 +1,171 @@
+@font-face {
+    font-family: 'OpenSansLight';
+    src: url('font-kit/OpenSans-Light-webfont.eot');
+    src: url('font-kit/OpenSans-Light-webfont.eot?#iefix') format('embedded-opentype'),
+         url('font-kit/OpenSans-Light-webfont.woff') format('woff'),
+         url('font-kit/OpenSans-Light-webfont.ttf') format('truetype'),
+         url('font-kit/OpenSans-Light-webfont.svg#OpenSansLight') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'OpenSansLightItalic';
+    src: url('font-kit/OpenSans-LightItalic-webfont.eot');
+    src: url('font-kit/OpenSans-LightItalic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('font-kit/OpenSans-LightItalic-webfont.woff') format('woff'),
+         url('font-kit/OpenSans-LightItalic-webfont.ttf') format('truetype'),
+         url('font-kit/OpenSans-LightItalic-webfont.svg#OpenSansLightItalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'OpenSansRegular';
+    src: url('font-kit/OpenSans-Regular-webfont.eot');
+    src: url('font-kit/OpenSans-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('font-kit/OpenSans-Regular-webfont.svg#OpenSansRegular') format('svg'),
+		 url('font-kit/OpenSans-Regular-webfont.woff') format('woff'),
+         url('font-kit/OpenSans-Regular-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'OpenSansItalic';
+    src: url('font-kit/OpenSans-Italic-webfont.eot');
+    src: url('font-kit/OpenSans-Italic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('font-kit/OpenSans-Italic-webfont.woff') format('woff'),
+         url('font-kit/OpenSans-Italic-webfont.ttf') format('truetype'),
+         url('font-kit/OpenSans-Italic-webfont.svg#OpenSansItalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'OpenSansSemibold';
+    src: url('font-kit/OpenSans-Semibold-webfont.eot');
+    src: url('font-kit/OpenSans-Semibold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('font-kit/OpenSans-Semibold-webfont.woff') format('woff'),
+         url('font-kit/OpenSans-Semibold-webfont.ttf') format('truetype'),
+         url('font-kit/OpenSans-Semibold-webfont.svg#OpenSansSemibold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'OpenSansSemiboldItalic';
+    src: url('font-kit/OpenSans-SemiboldItalic-webfont.eot');
+    src: url('font-kit/OpenSans-SemiboldItalic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('font-kit/OpenSans-SemiboldItalic-webfont.woff') format('woff'),
+         url('font-kit/OpenSans-SemiboldItalic-webfont.ttf') format('truetype'),
+         url('font-kit/OpenSans-SemiboldItalic-webfont.svg#OpenSansSemiboldItalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'OpenSansBold';
+    src: url('font-kit/OpenSans-Bold-webfont.eot');
+    src: url('font-kit/OpenSans-Bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('font-kit/OpenSans-Bold-webfont.woff') format('woff'),
+         url('font-kit/OpenSans-Bold-webfont.ttf') format('truetype'),
+         url('font-kit/OpenSans-Bold-webfont.svg#OpenSansBold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'OpenSansBoldItalic';
+    src: url('font-kit/OpenSans-BoldItalic-webfont.eot');
+    src: url('font-kit/OpenSans-BoldItalic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('font-kit/OpenSans-BoldItalic-webfont.woff') format('woff'),
+         url('font-kit/OpenSans-BoldItalic-webfont.ttf') format('truetype'),
+         url('font-kit/OpenSans-BoldItalic-webfont.svg#OpenSansBoldItalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'OpenSansExtrabold';
+    src: url('font-kit/OpenSans-ExtraBold-webfont.eot');
+    src: url('font-kit/OpenSans-ExtraBold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('font-kit/OpenSans-ExtraBold-webfont.woff') format('woff'),
+         url('font-kit/OpenSans-ExtraBold-webfont.ttf') format('truetype'),
+         url('font-kit/OpenSans-ExtraBold-webfont.svg#OpenSansExtrabold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'OpenSansExtraboldItalic';
+    src: url('font-kit/OpenSans-ExtraBoldItalic-webfont.eot');
+    src: url('font-kit/OpenSans-ExtraBoldItalic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('font-kit/OpenSans-ExtraBoldItalic-webfont.woff') format('woff'),
+         url('font-kit/OpenSans-ExtraBoldItalic-webfont.ttf') format('truetype'),
+         url('font-kit/OpenSans-ExtraBoldItalic-webfont.svg#OpenSansExtraboldItalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+@font-face {
+    font-family: 'dosisbold';
+    src: url('font-kit/dosis-bold-webfont.eot');
+    src: url('font-kit/dosis-bold-webfont.svg#dosisbold') format('svg'),
+	url('font-kit/dosis-bold-webfont.eot?#iefix') format('embedded-opentype'),
+	url('font-kit/dosis-bold-webfont.woff') format('woff'),
+	url('font-kit/dosis-bold-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+@font-face {
+    font-family: 'dosislight';
+    src: url('font-kit/dosis-light-webfont.eot');
+    src: url('font-kit/dosis-light-webfont.svg#dosislight') format('svg'),
+	url('font-kit/dosis-light-webfont.eot?#iefix') format('embedded-opentype'),
+	url('font-kit/dosis-light-webfont.woff') format('woff'),
+	url('font-kit/dosis-light-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+@font-face {
+    font-family: 'dosismedium';
+    src: url('font-kit/dosis-medium-webfont.eot');
+    src: url('font-kit/dosis-medium-webfont.svg#dosismedium') format('svg'),
+	url('font-kit/dosis-medium-webfont.eot?#iefix') format('embedded-opentype'),
+	url('font-kit/dosis-medium-webfont.woff') format('woff'),
+	url('font-kit/dosis-medium-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'dosisregular';
+    src: url('font-kit/dosis-regular-webfont.eot');
+    src: url('font-kit/dosis-regular-webfont.svg#dosisregular') format('svg'),
+	url('font-kit/dosis-regular-webfont.eot?#iefix') format('embedded-opentype'),
+	url('font-kit/dosis-regular-webfont.woff') format('woff'),
+	url('font-kit/dosis-regular-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+
+}

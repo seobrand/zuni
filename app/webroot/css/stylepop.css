@@ -1,0 +1,58 @@
+.popuph {
+	background-color: #F4ECEA;
+	border: 0px solid #333333;
+	text-align: right;
+	position: relative;
+	height: 20px;
+	width: 100%;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #333333;
+	overflow: visible;
+}
+.popupc {
+	background-color: #ffffff;
+	border-right: 0px solid #333333;
+	border-left: 0px solid #333333;
+	border-bottom: 0px solid #333333;
+	width: 100%;
+	padding: 0px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: bold;
+	overflow: visible;
+}
+.popupf {
+	width: 100%;
+	padding: 0px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: bold;
+	height: 40px;
+	overflow: visible;
+}
+.popup_bg {
+	background-color: #f4f4f4;
+	padding: 6px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #333333;
+}
+.popup_body {
+	background-color: #ffffff;
+	margin: 0px;
+	padding: 2px 4px 2px 0px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color:#666666;
+	font-weight: normal;
+}
+.popup_caption {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	padding: 2px;
+	color:#666666;
+	font-weight: normal;
+}

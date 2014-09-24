@@ -1,0 +1,60 @@
+@charset "utf-8";
+/* CSS Document */
+div.sample_box {width:40px; height:20px; border:1px solid black; background-color:#FFEE66; float:left;}
+div.sample_box_matter {width:250px; height:20px; border:0px; float:left; font-size:16px; margin-top:1px; margin-bottom:10px;}
+div.sample_box1 {width:40px; height:20px; border:1px solid black; background-color:#FFCC99; float:left;}
+div.sample_box_matter1 {width:250px; height:20px; border:0px; float:left; font-size:16px; margin-top:1px; margin-bottom:10px;}
+table.calendar {width: auto; border: 1px solid #cccccc; border-collapse: collapse; font-size:16px; margin: 0px; padding: 0px; background-color: #ffffff; clear:both;}
+table.calendar th { height:50px;background-color: #eeeeee; text-transform: none; color: #444444; padding: 4px; text-align: center; border: 1px solid #eeeeee;}
+ 
+table.calendar th.cell-prev {text-align: left;}
+table.calendar th.cell-next {text-align: right;}
+table.calendar th.cell-header {width: 115px; height:50px; border-bottom: 1px solid #cccccc;}
+table.calendar td.cell-today { font-weight:bold;} /* today in the current month */
+table.calendar td.cell-today_booked {background-color: #FFEE66;font-weight:bold;} 
+table.calendar td.cell-booked {background-color:#FFEE66;}
+table.calendar td.cell-weekend {background-color: #F3F5EB;}
+table.calendar td {border: 1px solid #cccccc; text-align: center; height:80px; font-size:16px;}
+ 
+table.calendar td div.cell-number {text-align: right; font-size: 8px; color: #444444; display: block;}
+table.calendar td div {display: block; font-size: 10px; text-align: left;}
+table.calendar thead th {border: 1px solid #cccccc;}
+
+#discount_calendar{
+display:none;
+}
+
+a:link{
+color:#0000FF;
+text-decoration:underline;
+}
+
+a:hover{
+color:#0000FF;
+text-decoration:none;
+}
+
+a:visited{
+color:#0000FF;
+}
+
+#adv_popup{
+	font-family: Arial, Tahoma, Verdana;
+	font-size: 10px;
+	color:#FFFFFF;
+}
+
+#adv_link a{
+color:#FFFF00;
+text-decoration:underline;
+}
+
+#adv_link a:hover{
+text-decoration:none;
+}
+
+#offer_status{
+margin-top:50px;
+font-size:11px;
+}
+

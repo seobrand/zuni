@@ -1,0 +1,444 @@
+
+body {
+	background:url(../images/back_img.jpg);
+	padding:0px;
+	margin:0px;
+	font:12px arial;
+	color:#000;
+}
+
+.bodynobg{
+background:none;
+}
+
+
+
+/*------------------ HTML Tags -----------------------*/
+
+h1, h2, h3, h4, h5, h6 {
+	padding:0px;
+	margin:0px;
+}
+label, select {
+	cursor:pointer;
+}
+li {
+	padding:0px;
+	margin:0px;
+}
+ol, ul {
+	padding:0px;
+	margin:0px;
+}
+p {
+	padding:0px;
+	margin:0px;
+	line-height:normal;
+}
+textarea, input, select {
+	font:11px arial, helvetica, sans-serif;
+	padding:2px;
+}
+form {
+	padding:0px;
+	margin:0px;
+}
+hr {
+	padding:0px;
+	margin:0px;
+}
+img {
+	border:0px;
+}
+b {
+	font-weight:bold;
+}
+a:focus {
+	outline:0px;
+}
+/* --------------------- custom --------------------- */
+
+.clear {
+	clear:both;
+}
+.input {
+	border:1px solid #ccc;
+	padding:2px
+}
+.page-break, .print-only {
+	display:none;
+}
+.point {
+	cursor:pointer;
+}
+.f_left {
+	float:left;
+}
+.f_right {
+	float:right;
+}
+.aligncenter {
+	text-align:center;
+}
+.alignleft {
+	text-align:left;
+}
+.alignright {
+	text-align:right;
+}
+.relative {
+	position:relative;
+}
+/* --------------------- links --------------------- */
+
+a {
+	color:inherit;
+}
+a:link, a:visited {
+	color:#00f;
+	text-decoration:underline;
+}
+a:hover, a:active {
+	color:#00f;
+	text-decoration:none;
+}
+a img {
+	border:0;
+}
+/*------------------ Wrapper -----------------------*/
+
+
+/*-------- css added by Rahul ----------*/
+.wrapper_main{
+	width:942px;
+	margin:0 auto;
+}
+
+
+/*---------- end ----------*/
+#wrappermain {
+	padding:0 0 0 32px;
+}
+#wrapper {
+ 	width:912px;
+	background:url(../images/wrapperbg.png) repeat-y;
+	padding:0 0 10px;
+	margin:0 0 0 30px;
+}
+/*------------------ Header -----------------------*/
+
+#header {
+	width:942px;
+	height:170px;
+	margin:0 auto;
+	padding:11px 0 0 0;
+}
+.logo {
+	width:323px;
+	float:left;
+ 
+}
+.topcol {
+	width:619px;
+	float:right;
+}
+/*------------------ Banner -----------------------*/
+
+#banner {
+	width:890px;
+	margin:0 auto;
+}
+/*------------------ Container -----------------------*/
+
+.main_content {
+	width:890px;
+	margin:10px auto 0;
+}
+.main_content h1 {
+	background: url(../images/h1bg.png) no-repeat;
+height:34px;
+padding:10px 0 0 20px;
+}
+.how_it_works {
+	background:#fff url(../images/howitworksbg.jpg) no-repeat top center;
+	padding:20px 0 0 15px;
+}
+.formsmain {
+	width:890px;
+	margin:0 auto;
+}
+.formsbg {
+	width:437px;
+	float:left;
+}
+
+.formsbg_top {
+	background:url(../images/topbg1.jpg) top no-repeat;
+	height:42px;
+	padding:10px 0 0 15px;
+	/*width:437px;*/
+	}
+
+.formsbg_top2 {
+	background:url(../images/topbg1.jpg) no-repeat top center;
+	height:51px;
+	padding:10px 0 0 15px;
+	width:402px;
+	}
+	
+	
+.formsbg_mid {
+	background:url(../images/midbg1.jpg) repeat-y;
+	padding:0;
+	font:12px Trebuchet MS;
+	color:#000;
+	width:437px;
+}
+
+.formsbg_mid h3{
+font: bold 14px Trebuchet MS;
+color:#000;
+margin:0px;
+padding:0px;
+}
+
+.inputbg{
+background:url(../images/inputbg.jpg) no-repeat;
+width:253px;
+height:27px;
+border:none;
+}
+
+
+.msgbg{
+
+background:url(../images/msgbg.jpg) no-repeat;
+width:458px;
+height:27px;
+border:none;
+font:12px Trebuchet MS;
+color:#919191;
+padding:1px 0 0 7px;
+}
+
+.textareabg{
+background: url(../images/textareabg.jpg) no-repeat;
+width:458px;
+height:110px;
+border:none;
+font:12px "Trebuchet MS";
+color:#919191;
+padding:8px 0 0 7px;
+}
+
+
+
+.formsbg_mid a{
+
+color:#000;
+}
+
+
+.formsbg_bot {
+	background:url(../images/botbg1.jpg) no-repeat bottom center;
+	height:20px;
+	width:437px;
+}
+.finalize {
+	width:889px;
+	margin:0 auto;
+}
+.finalizebg {
+	width:889px;
+	float:left;
+	margin:20px 0 0 0;
+}
+.finalize_top {
+	background:url(../images/topbg2.jpg) no-repeat top center;
+	height:60px;
+	padding:0 0 0 15px;
+	width:874px;
+}
+
+.finalize_top h3{
+	padding:8px 0 0 0;
+}
+
+
+.finalize_top h2{
+	padding:12px 0 0 0;
+}
+
+.finalize_mid {
+	background:url(../images/midbg2.jpg) repeat-y;
+	font:12px "Trebuchet MS";
+	color:#000;
+	width:889px;
+}
+
+
+.finalize_mid a {
+color:#000;
+ 
+}
+
+
+.finalize_bot {
+	background:url(../images/botbg2.jpg) no-repeat bottom center;
+	height:18px;
+}
+div.marginleft {
+	margin:0 0 0 15px;
+}
+#bottom {
+	background: url(../images/footer_back.png) top no-repeat;
+	height:66px;
+ 	width:912px;
+	margin:0 0 0 30px;
+}
+#copyright {
+	color:#000000;
+	font-family:"Trebuchet MS";
+	font-size:12px;
+	padding-left:25px;
+	padding-top:25px;
+	text-align:left;
+}
+#copyright a {
+	color:#000;
+	text-decoration:none;
+}
+#copyright a:hover {
+	color:#ff0000;
+	text-decoration:underline;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/*-------------------------------popup css------------------------------------------*/
+
+
+
+
+.importbg{
+width:381px;
+}
+
+.importtop{
+background:url(../images/importtop.png) no-repeat;
+width:381px;
+height:21px;
+}
+
+
+.importtop1{
+background:url(../images/importtop1.png) no-repeat;
+width:381px;
+height:21px;
+}
+
+
+.importmid{
+background:url(../images/importmid.png) repeat-y;
+font:12px "Trebuchet MS";
+color:#fff;
+width:321px;
+padding:10px 30px 0 30px;
+}
+
+.importbot{
+background:url(../images/importbot.png) no-repeat;width:381px;
+height:21px;
+}
+
+
+
+
+
+
+.emailbg{width:809px;
+font:12px "Trebuchet MS";
+color:#000000;
+}
+
+
+.emailbg span{ 
+font:14px "Trebuchet MS";
+color:#000000;
+}
+
+.emailtop{ background: url(../images/emailtop.png) no-repeat ;
+height:52px;
+padding:10px 15px 0 0;
+width:794px;
+}
+.emailtop1{ background: url(../images/emailtop1.png) no-repeat ;
+height:52px;
+padding:10px 15px 0 0;
+width:794px;
+}
+
+
+.emailtop2{ background: url(../images/termsconditions.png) no-repeat ;
+height:52px;
+padding:10px 15px 0 0;
+width:794px;
+}
+
+.emailmid{ background: url(../images/emailmid.png) repeat-y;
+ 
+ width:809px;
+
+}
+
+.emailbot{ background: url(../images/emailbot.png) no-repeat ;
+
+height:20px; 
+}
+
+td.bdr{
+border-bottom:1px dashed #c7c7c7;
+}
+
+
+
+h2{
+font:20px "Trebuchet MS";
+color:#000;
+}
+
+
+.green{
+font:17px "Trebuchet MS";
+color:#77b800;
+}
+
+
+.emailmid a{ color:#000;
+}
+
+
+
+.terms{
+background: url(../images/terms.jpg) no-repeat top;
+height:51px;
+padding:10px 10px 0 15px;
+}
+
+
+/*------------------ new css -----------------------*/
+
+.top_crv{
+	width:437px;
+	background:url(../images/top_crv.jpg) bottom no-repeat;
+	padding:0 0 10px 0;
+}

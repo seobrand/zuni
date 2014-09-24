@@ -1,0 +1,64 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Zuni</title>
+
+<!-- layout css -->
+<link href="css/reset.css" rel="stylesheet" type="text/css">
+<link href="css/style.css" rel="stylesheet" type="text/css">
+<link href="css/font-face.css" rel="stylesheet" type="text/css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<script src="js/plugins/jquery.colorbox.js"></script>
+<link href="css/plugins/colorbox.css" rel="stylesheet" type="text/css">
+
+<script>
+$(document).ready(function(){
+	$(".ajax").colorbox();
+	setInterval(function(){
+		$("#cboxClose").css({display:'none'});
+	},50);
+	
+	
+	});
+</script>
+
+<!--[if IE]>
+<script src="js/html5.js"></script>
+<script src="js/IE9.js"></script>
+<![endif]-->
+
+</head>
+
+<body>
+
+<!-- header start -->
+<header class="splashHeader">
+  <div class="logoSplash"><a href="index.html"> <img src="images/logo-splash.png" width="533" height="165" alt="zuni"> </a></div>
+</header>
+<!-- header end --> 
+
+<!-- content start -->
+<section class="splashBanner">
+  <div class="section_indent">
+    <div class="banner_text"><img src="images/banner-text.png" width="960" height="290" alt=" "></div>
+    <div class="buttons_outer">
+      <div class="create_account"><a href="#"><img src="images/create-account.png" width="468" height="70" alt="create an account"></a>
+        <div class="signin_bg">
+          <p>Already Have an Account? <a href="login.html" class="ajax">SIGN IN</a></p>
+        </div>
+      </div>
+      <div class="facebook_button"> <a href="#"><img src="images/signup-facebook.png" width="468" height="70" alt="sign up with facebook"></a></div>
+    </div>
+  </div>
+</section>
+<!-- content end --> 
+
+<!-- footer start -->
+<footer class="splashFooter">
+  <div class="copyrightSplash">Copyrigh &copy; 2013 Zunisigns, Inc. All rights reserved.</div>
+</footer>
+<!-- footer end -->
+
+</body>
+</html>

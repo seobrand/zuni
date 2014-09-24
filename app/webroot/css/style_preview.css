@@ -1,0 +1,194 @@
+#showMeResponse{
+	margin-right:-25px;
+}
+.discount_box {
+width: 476px;
+height: 190px;
+margin: 0 auto 10px auto;
+background: #EBEBEB;
+overflow: hidden;
+padding: 18px 8px 0 12px;
+}
+.discount_box h1 {
+font: 900 16px "Helvetica Neue LT Std";
+color: #930100;
+padding: 4px 0 0 0;
+text-transform: uppercase;
+}
+.discount_box h1 span {
+font: 900 12px "Helvetica Neue LT Std";
+color: black;
+text-transform: none;
+}
+.details_indent2 {
+width: 318px;
+float: left;
+}
+.counter_outer2 {
+width: 359px;
+overflow: hidden;
+float: left;
+}
+.buy_button2 {
+width: 318px;
+padding: 8px 0 0 0;
+}
+.counter_indent3 {
+width: 214px;
+overflow: hidden;
+padding: 4px 0 0 0;
+float: left;
+}
+.left_img3 {
+width: 45px;
+float: left;
+}
+img {
+border: 0px;
+}
+.counter_indent4 {
+width: 161px;
+float: right;
+padding: 7px 0 0 0;
+}
+.counter_indent4 h5 {
+font: 900 38px "Helvetica Neue LT Std";
+color: #9A1211;
+text-transform: uppercase;
+}
+.counter_indent4 h6 {
+font: 9px Arial, Helvetica, sans-serif;
+color: #9A1211;
+padding: 0 0 0 2px;
+margin: -2px 0 0 0;
+}
+.couter_bg2 {
+width: 101px;
+background: url(../img/front/counter_bg2.jpg) top no-repeat;
+height: 33px;
+margin: 5px 0 0 8px;
+}
+.couter_bg2 ul {
+margin: 0px;
+padding: 3px 0 0 0;
+}
+reset.css:13
+ol, ul {
+margin: 0px;
+padding: 0px;
+list-style-type: none;
+}
+.couter_bg2 li {
+list-style: none;
+font: bold 15px Arial, Helvetica, sans-serif;
+color: #F0EFF1;
+float: left;
+padding: 0 5px 0 10px;
+}
+.couter_bg2 li.last {
+padding-right: 0px;
+}
+.price_outer2 {
+width: 120px;
+float: right;
+overflow: hidden;
+padding: 0 12px 0 0;
+}
+table.price_data2 td {
+font: bold 11px Arial, Helvetica, sans-serif;
+color: #1C1C1C;
+padding: 4px 6px 4px 0;
+}
+table.price_data2 td strong {
+font: bold 15px Arial, Helvetica, sans-serif;
+color: #1C1C1C;
+text-transform: uppercase;
+}
+table.price_data2 td span {
+font: 12px Arial, Helvetica, sans-serif;
+color: #810006;
+}
+table.price_data2 td.bdrbottom {
+border-bottom: 1px solid #CBCACA;
+}
+table.price_data2 td b {
+font: bold 11px Arial, Helvetica, sans-serif;
+color: #1C1C1C;
+text-decoration: line-through;
+}
+table.price_data2 td.bdrbottom {
+border-bottom: 1px solid #CBCACA;
+}
+style_front.css:657
+table.price_data2 td {
+font: bold 11px Arial, Helvetica, sans-serif;
+color: #1C1C1C;
+padding: 4px 6px 4px 0;
+}
+table.price_data2 td {
+font: bold 11px Arial, Helvetica, sans-serif;
+color: #1C1C1C;
+padding: 4px 6px 4px 0;
+}
+.proimg_small {
+width: 100px;
+float: right;
+}
+.popup_outer2 {
+width: 550px;
+background: #EFEFEF;
+border: 8px solid white;
+}
+.stroke {
+border: 1px solid #E1E1E1;
+overflow: visible;
+}
+.popup_container2 {
+width: auto;
+padding: 15px 0;
+}
+.popup_indent {
+overflow: hidden;
+padding: 0 12px;
+}
+#boxes .window {
+position: absolute;
+left: 0;
+top: 0;
+width: 570px;
+height: 100%;
+display: none;
+z-index: 9999;
+padding-left:90px
+}
+.free_coffee {
+width: 336px;
+float: left;
+}
+.daily_deal {
+width: 360px;
+float: right;
+}
+.left_img {
+width: 187px;
+float: left;
+padding: 0 0 8px 0;
+}
+.right_buttons {
+width: 107px;
+float: right;
+padding: 45px 0 0 0;
+}
+.daily_deal p {
+font: 17px/18px "Trebuchet MS", Arial, Helvetica, sans-serif;
+color: #333;
+}
+.daily_deal p span {
+font: bold 22px "Trebuchet MS", Arial, Helvetica, sans-serif;
+color: #920C08;
+text-transform: uppercase;
+letter-spacing: -1px;
+}
+.clear {
+clear: both;
+}

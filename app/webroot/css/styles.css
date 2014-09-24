@@ -1,0 +1,1020 @@
+ 
+body {
+    background:#ffffff url(../img/front/bodybg.jpg) repeat-x;
+	padding:0px;
+	margin:0px;
+	font:12px arial;
+	color:#666666;
+}
+ 
+/*------------------ Wrapper -----------------------*/
+
+#wrapper {
+	margin:0 auto;
+    width:960px;
+}
+/*------------------ Header -----------------------*/
+
+#header {
+	width:961px;
+	height:269px;
+ 	margin:0 auto;
+}
+.logo {
+	width:250px; 
+	float:left;
+}
+
+
+.top_text{
+	float:left;
+	width:668px;
+	text-align:center;
+	padding:85px 0 0 0;
+}
+
+.top_text h1{
+	font:bold 58px Trebuchet Ms, Myriad Pro, Arial, Helvetica, sans-serif;
+	color:#801113;
+ 	text-transform:uppercase;
+}
+
+.top_text h2{
+	font:bold 28px Trebuchet Ms, Myriad Pro, Arial, Helvetica, sans-serif;
+	color:#801113;
+	padding:0 0 6px 0;
+	text-transform:uppercase;
+}
+
+.top_text h3{
+	font:normal 16px/18px Trebuchet Ms, Myriad Pro lighter, Arial, Helvetica, sans-serif;
+	color:#3a3a3a;
+	padding:0 0 6px 12px;
+	text-transform:uppercase;
+	text-align:left;
+}
+
+.top_text h3 strong{
+	font:bold 20px/18px Trebuchet Ms, Myriad Pro lighter, Arial, Helvetica, sans-serif;
+	color:#3a3a3a;
+ 
+	text-transform:uppercase;
+	text-align:left;
+}
+
+
+/*------------------ Banner -----------------------*/
+
+
+.banner {
+	width:961px; 
+}
+
+
+
+.company_info{
+	background:url(../img/front/company_info.jpg) no-repeat;
+	width:961px;
+	height:109px;
+	margin:15px 0 0 0;
+}
+
+.info_left{
+padding:15px 10px 20px 135px;
+width:300px;
+float:left;
+}
+
+.info_right{
+padding:20px 0 0 0;
+width:290px;
+float:right;
+font:16px/18px Arial, Helvetica, sans-serif;
+color:#4c4c4c;
+}
+
+.info_right a{
+	color:#4c4c4c;
+	text-decoration:none;
+}
+
+.info_right a:hover{
+	color:#4c4c4c;
+	text-decoration:underline;
+}
+
+.ad_col{
+	width:960px;
+	margin:10px 0 16px 0;
+}
+
+.adbg{
+background:url(../img/front/adbg.jpg) no-repeat;
+float:left;
+height:114px;
+margin:0 16px 0 0;
+padding:15px 0 0;
+text-align:center;
+width:471px;
+}
+
+div.nomargin{
+margin-right:0;
+}
+
+
+
+
+
+
+
+ 
+/*------------------ Container -----------------------*/
+
+#container {
+	width:960px;
+	margin:0 auto;
+	padding:13px 0 20px 0;
+}
+.leftcol {
+	float:left;
+	width:600px;
+}
+
+.left_content_box{
+	width:589px;
+	margin:0 0 0 12px;
+}
+
+.left_top_strip{
+	width:589px;
+}
+
+.leftcontent_mid{
+	width:589px;
+	background:url(../img/front/left_col_bg.jpg) top no-repeat;
+ }
+
+.left_bottom_strip{
+	width:589px;
+}
+
+.left_content_box h1{
+	margin:0px;
+	padding:0px;
+	text-align:center;
+}
+
+
+.coupon-box{
+	width:589px;
+	background:url(../img/front/coupon_back.jpg) top no-repeat;
+ }
+
+.coupon-box h1{
+	margin:0px;
+	padding:0px;
+	text-align:center;
+	}
+
+.coupon_indent{
+	padding:30px 25px 10px 25px;
+	}
+
+.coupon_left{
+	width:150px;
+	float:left;
+	}
+
+.coupon_right{
+	width:370px;
+	float:right;
+	}
+
+.coupon_right h2{
+	font:bold 14px Arial, Helvetica, sans-serif;
+	color:#fff;
+	padding:0 0 15px 0;
+	background:url(../img/front/line.jpg) bottom left no-repeat;
+ 	}
+
+.coupon_right h1{
+	font:bold 20px Arial, Helvetica, sans-serif;
+	color:#fff;
+	padding:10px 0 15px 0;
+	background:url(../img/front/line.jpg) bottom left no-repeat;
+	text-align:left;
+	text-transform:uppercase;
+ 	}
+
+.text {
+	font:bold 14px Arial, Helvetica, sans-serif;
+ 	color:#fff;
+	}
+
+.coupon_right h3{
+	font:bold 20px Arial, Helvetica, sans-serif;
+	color:#fff;
+	padding:10px 0 0 0;
+ 	text-align:left;
+	text-transform:uppercase;
+ 	}
+
+.coupon_right h3 span{
+ 	color:#ffd800;
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+.buttons{
+text-align:right;
+width:601px;
+margin:10px 0 0 0;
+}
+ 
+.buttons img{
+padding:0 0 0 10px;
+} 
+
+
+.rightcol {
+	float:right;
+	width:359px;
+}
+
+
+
+
+.right_menu{
+width:359px;
+padding:12px 0 10px 0;
+}
+
+.right_menu ul{
+	margin:0px;
+	padding:0px;
+}
+
+.right_menu li{
+	margin:0px;
+	padding:0px;
+	list-style:none;
+	line-height:0px;
+	}
+
+ 
+
+
+.category{
+ margin:0 0 0 25px;
+width:320px;
+ 
+}
+.coupon{
+
+	overflow-x:scroll;
+	overflow-y:scroll;
+	font: bold 11px/18px Arial,Helvetica,sans-serif;
+ 	padding:0 20px 10px 0;
+	width:320px;
+	height:180px;
+
+}
+.category p{
+font: bold 11px/18px Arial,Helvetica,sans-serif;
+padding:0 20px 10px 0;
+width:290px;
+ 
+margin:0 0 10px 0;
+}
+.county p{
+font: bold 11px/18px Arial,Helvetica,sans-serif;
+padding:0 20px 10px 0;
+width:290px;
+ 
+margin:0 0 10px 0;
+}
+
+.category p a{
+ color:#4c4c4c;
+ text-decoration:underline;
+}
+
+.category p a:hover{
+ color:#4c4c4c;
+ text-decoration:none;
+}
+
+.category h1{
+font:bold 19px Arial, Helvetica, sans-serif;
+color:#801113; text-transform:uppercase;
+}
+
+.category h2{font:bold 16px Arial, Helvetica, sans-serif;
+ text-transform:uppercase;
+ 
+}
+
+
+
+
+
+/*------------------ Footer -----------------------*/
+
+#footer {
+	width:100%;
+    background:#540c0c url(../img/front/bottombg.jpg) repeat-x;
+}
+
+
+
+
+
+.footer_inner{
+width:961px;
+margin:0 auto;
+padding:18px 0 0 0; height:139px;
+}
+
+.footer_link_box {
+	padding:0 30px 0 28px;
+	float:left;
+	background:url(../img/front/footerlink.jpg) no-repeat right center;
+}
+
+.footer_links {
+	width:570px;
+	float:left;
+}
+.footer_links ul {
+	margin:0;
+	padding:0;
+
+}
+.footer_links li {
+	margin:0;
+	padding:3px 0 3px 12px;
+	font:12px Arial, Helvetica, sans-serif;
+	color:#4c4c4c;
+    list-style:none; background:url(../img/front/arrow.jpg) no-repeat center left;
+  }
+  
+.footer_links li a{
+  color:#4c4c4c;
+  text-decoration:underline;
+  }  
+  
+.footer_links li a:hover{
+  color:#4c4c4c;
+  text-decoration:none;
+  }  
+    
+  
+ 
+.footer_links h1 {
+font: bold 14px Arial, Helvetica, sans-serif;
+color:#801113;
+text-transform:uppercase;
+padding:0 0 5px 0;
+
+}
+.copyright{
+font:11px "Trebuchet MS";
+color:#fff;width:930px; margin:0 auto;padding:20px 0;
+}
+
+
+/*....................................description_box............................*/
+
+
+
+.bannerbg {
+  width:960px;
+  /*background:url(../img/banner.jpg) no-repeat; */
+ }
+
+
+
+.description_box{
+	width:898px;
+	margin:0 auto;
+	padding:243px 0 0;
+	}
+	
+.description_top{
+ 	background:url(../img/front/description_top.png) top no-repeat;
+	height:21px;
+	width:898px; 
+ 	}
+ 	
+.description_mid{
+	width:898px;
+	margin:0px;
+	background:url(../img/front/description_mid.png) top;
+	}
+
+.description_indent{
+	margin:0 auto;
+	padding:0 0 0 24px;
+	width:799px;
+ 	}
+
+.description_indent ul{
+	margin:0px;
+	padding:0px;
+	list-style:none;
+	}
+
+.description_indent li{
+	font:12px Arial, Helvetica, sans-serif;
+	color:#000;
+ 	background:url(../img/front/left_arrow.jpg) left 6px no-repeat;
+	padding:0 0 0 15px;
+	line-height:20px;
+ 	}
+
+
+.description_bot{
+	width:898px;
+ 	background:url(../img/front/description_bot.jpg) no-repeat;
+ 	}
+
+
+
+.tabs{
+height:31px;
+margin:0 auto;
+width:640px;
+}
+
+.tabs ul{
+width:898px;
+margin:0 auto;
+}
+
+
+.tabs li{
+display:inline;
+background:url(../images/tab.png) no-repeat;
+list-style-type:none;
+font: bold 18px "Trebuchet MS";
+color:#fff; padding:6px 0 8px;
+}
+
+.tabs li a{
+ color:#fff; padding:6px 58px 9px; text-decoration:none;
+}
+
+.tabs li a:hover{
+color:#801113;background:url(../img/front/hover.png) no-repeat left bottom; padding:6px 58px 8px;
+}
+
+
+li.sel{
+color:#801113;background:url(../img/front/hover.png) no-repeat left top;padding:6px 0 8px;
+}
+
+li.sel a{
+color:#801113; 
+}
+
+
+.search{
+	font:bold 11px Arial, Helvetica, sans-serif;
+	color:#464646;
+
+}
+
+span.input_wrapper{
+	background:url(../img/front/inputbg.png) top left no-repeat;
+	font: bold 18px "Trebuchet MS";
+	height:33px;
+	width:308px;
+	border:0px;
+	color:#7aad00;
+ 	display:block;
+	padding:6px 0 14px 0 14px;
+
+}
+
+.search_input{
+ 	font: bold 18px/17px "Trebuchet MS";
+	background:#fff;
+	height:18px;
+	width:260px;
+	border:0px;
+	color:#000000;
+	margin:6px 0 0 16px;
+ 
+ }
+
+
+.search_input_combo{
+	background:url(../img/front/inputbg.png) no-repeat left;
+	font: bold 18px "Trebuchet MS";
+	height:33px;
+	width:311px;
+	border:0px;
+	color:#000000;
+	padding:5px 8px 5px 4px;
+
+}
+
+ 
+.search p{
+	padding:0px 0 0 18px;
+ }
+
+.search p a{
+	color:#464646;
+	text-decoration:underline;
+}
+
+.search p a:hover{
+	color:#464646;
+	text-decoration:none;
+}
+  
+ 
+ .search a{
+ color:#890909;
+ font-weight:normal;
+ 
+
+}
+
+
+
+.signup{
+width:610px;
+margin:0 auto; background:url(../img/front/signupbg.png) no-repeat;
+height:553px;  
+}
+.signup h1{
+font:bold 16px Arial, Helvetica, sans-serif;
+color:#4c4c4c; text-transform:uppercase; padding:10px 0 7px 0; margin:0;
+}
+.signup_top{
+width:610px;
+/*background:url(../images/signuptop.jpg) no-repeat;*/
+ 
+}
+
+.signup_mid{
+width:610px;/* background:url(../images/signupmid.png) repeat-y bottom center;*/ /*padding:0 0 15px 0;*/
+ 
+}
+
+.signup_bot{
+width:610px;/*background:url(../images/signupbot.png) no-repeat top center; *//*height:24px;*/
+ 
+}
+
+.input_back{
+background:url(../img/front/input_back.jpg) no-repeat;border:medium none;
+color:#464646;
+font:bold 16px/28px Arial,Helvetica,sans-serif;
+height:28px;
+padding:0 10px;
+width:250px;
+}
+
+.input_back1{
+background:url(../img/front/input_back1.jpg) no-repeat;color:#464646;
+font:bold 16px/28px Arial,Helvetica,sans-serif;
+height:28px;
+padding:0 10px;
+width:250px; border:none;
+}
+
+.select_back {
+	background:url(../img/front/select_back.jpg) no-repeat;
+	height:28px;
+	width:40px;border:none;
+	float:left;
+	text-transform:uppercase;
+	padding:0 0 0 20px;
+	font:bold 16px/28px Arial, Helvetica, sans-serif;
+	color:#464646; 
+}
+
+
+
+.signup_gray_box{
+	width:550px;
+}
+
+.formbg{
+width:550px;
+margin:0 auto;
+}
+
+
+.formtop{
+	background:url(../img/front/formtop.jpg) no-repeat;
+	width:550px;
+	height:10px;  
+}
+
+.formmid{
+	background:url(../img/front/formmid.jpg) top;
+	width:535px;
+	padding:10px 0 0 15px;
+	font: bold 13px Arial, Helvetica, sans-serif;
+	color:#464646;
+	text-transform:uppercase;
+	clear:left;
+  }
+
+.formmid td{
+padding:2px;
+margin:0; 
+}
+ 
+ 
+.formbot{
+background:url(../img/front/formbot.jpg) no-repeat;width:550px; height:10px;
+}
+
+
+
+.check{
+width:524px;
+margin:0 auto;
+ 
+}
+
+
+.select_menu{
+	width:84px;
+	font:12px Arial, Helvetica, sans-serif;
+	color:#000;
+}
+
+
+/*------------------------ new css added by Rahul (date:- 20-11-2010) ----------------------*/
+
+
+.buttons_bar{
+	width:589px;
+	margin:10px 0 0 12px;
+}
+
+
+.button1{
+	background:url(../img/front/blank_bt1.jpg) top no-repeat;
+	text-align:center;
+	font:bold 15px Arial, Helvetica, sans-serif;
+	color:#fff;
+	width:190px;
+	height:27px;
+	padding:10px 0 0 0;
+	float:left;
+    letter-spacing:-1px;
+	text-transform:uppercase;
+}
+
+.button1 a{
+	color:#fff;
+ 	font:bold 15px Arial, Helvetica, sans-serif;
+	text-decoration:none;
+}
+
+.button1 a:hover{
+	font:bold 15px Arial, Helvetica, sans-serif;
+	color:#fff;
+	text-decoration:none;
+}
+
+
+.button2{
+	background:url(../img/front/blank_bt2.jpg) top no-repeat;
+	text-align:center;
+	font:bold 15px Arial, Helvetica, sans-serif;
+	color:#fff;
+	width:190px;
+	height:27px;
+	padding:10px 0 0 0;
+	float:left;
+	margin:0 0 0 9px;
+	letter-spacing:-1px;
+	text-transform:uppercase; 
+	}
+
+.button2 a{
+	color:#fff;
+ 	font:bold 15px Arial, Helvetica, sans-serif;
+	text-decoration:none;
+}
+
+.button2 a:hover{
+	font:bold 15px Arial, Helvetica, sans-serif;
+	color:#fff;
+	text-decoration:none;
+}
+
+
+/*----------- PICTURES CSS -------------*/
+.gallery_wrapper{
+	width:565px;
+	margin:0 auto;
+	height:220px;
+	background:url(../img/front/gallery_back.png) top no-repeat;
+	}
+
+.gallery_indent{
+	padding:30px 17px 0 17px;
+	width:531px;
+	}
+
+.left_arrow{
+	width:26px;
+	height:40px;
+	float:left;
+	display:block;
+	margin:53px 0 0 0 ;
+	}
+
+.right_arrow{
+	width:26px;
+	height:40px;
+	float:right;
+	display:block;
+	margin:53px 0 0 0 ;
+ 	}
+
+.gallery{
+	width:450px;
+	margin:0 14px;
+	float:left;
+	}
+
+.photo{
+	width:145px;
+	float:left;
+	height:159px;
+	margin:0 7px 0 0 ;
+	}
+
+.photo1{
+	width:145px;
+	float:left;
+	height:159px;
+ 	}
+
+
+
+/*------------- HOME PAGES CSS --------*/
+.sub_categories{
+ 	width:320px;
+	float:right;
+	}
+	
+.sub{
+	
+	font: bold 11px/18px Arial,Helvetica,sans-serif;
+ 	padding:0 20px 10px 0;
+	width:300px;
+	height:585px;
+	overflow-Y:scroll;
+	}
+ 	
+.sub_categories p{
+	font: bold 11px/18px Arial,Helvetica,sans-serif;
+	padding:0 0 10px 0;
+	width:290px;
+	border-bottom:1px dashed #666;
+	margin:0 0 10px 0;
+	}
+
+.sub_categories p a{
+	 color:#4c4c4c;
+	 text-decoration:underline;
+	}
+
+.sub_categories p a:hover{
+	color:#4c4c4c;
+	text-decoration:none;
+	}
+
+.sub_categories h1{
+	font:bold 20px Arial, Helvetica, sans-serif;
+	color:#801113; text-transform:uppercase;
+	}
+
+.sub_categories h2{
+	font:bold 16px Arial, Helvetica, sans-serif;
+	text-transform:uppercase;
+	}	
+	
+.busines{
+	width:600px;
+	float:left;
+	}
+
+.busines h1{
+	font:bold 20px Arial, Helvetica, sans-serif;
+	color:#801113; 
+	text-transform:uppercase;
+	padding:0 0 10px 0;
+	}
+
+.coupon_box{
+	width:290px;
+	height:112px;
+	margin:0 10px 10px 0;
+	float:left;
+	}
+ 
+.weather{
+	width:960px;
+	margin:10px 0 0 0;
+	}
+	
+.weather ul{
+	margin:0px;
+	padding:0px;
+	list-style:none;
+	}
+
+.weather li{
+	float:left;
+	padding:0 135px 0 0 ;
+	}
+
+
+/*---------- SUBCATEGORY PAGES  ------------*/
+.subcategory{
+	width:620px;
+	float:left;
+	}
+
+.sub_inner{
+	width:620px;
+	height:590px;
+	margin:0px;
+	overflow-x:hidden;
+	overflow-y:scroll;
+	}
+
+.subcategory h1{
+	font:bold 20px Arial, Helvetica, sans-serif;
+	color:#801113; 
+	text-transform:uppercase;
+	padding:0 0 10px 0;
+	}
+
+.sub_box{
+	width:960px;
+	
+ 	}
+
+.sub_box_left{
+	float:left;
+	width:600px;
+	
+	}
+
+.sub_box_left h1{
+	font:bold 20px Arial, Helvetica, sans-serif;
+	color:#801113; 
+	text-transform:uppercase;
+	padding:0 0 10px 0;
+	}
+
+.sub-box{
+	width:600px;
+	height:170px;
+	float:left;
+	overflow-Y:scroll;
+
+	}
+	
+.sub_box_left p{
+	font: bold 11px/18px Arial,Helvetica,sans-serif;
+	padding:0 0 10px 0;
+	width:570px;
+	border-bottom:1px dashed #666;
+	margin:0 0 10px 0;
+	}
+
+.sub_box_left p a{
+	 color:#4c4c4c;
+	 text-decoration:underline;
+	}
+
+.sub_box_left p a:hover{
+	color:#4c4c4c;
+	text-decoration:none;
+	}
+ 
+.sub_box_left h2{
+	font:bold 16px Arial, Helvetica, sans-serif;
+	text-transform:uppercase;
+	}	
+
+.ishop_blog{
+	width:345px;
+	height:201px;
+	float:right;
+	padding:35px 0 0 0;
+	}
+
+.company_title{background-image:url('../img/andrew.jpg'); width:601px; height:89px; }
+
+.company_title h3{
+margin:0px; 
+padding:30px 0 0 22px;
+font:bold 22px Arial, Helvetica, sans-serif;
+color:#000;
+}
+
+.not_available
+{
+height:557px;
+width:565px;
+font-size:24px;
+padding-top:100px;
+color:white;
+}
+.banner_notavailable
+{
+height:457px;
+width:565px;
+font-size:24px;
+padding-top:100px;
+color:#663333;
+}	
+
+.no_coupon h3{
+margin:0px; 
+padding:15px 0 0 2px;
+font:bold 15px Arial, Helvetica, sans-serif;
+color:#000;
+text-align:center;
+}
+#scroller_container {
+    width:475px;
+    height:174px;
+	overflow:hidden;
+     
+  }
+
+#scroller {
+  width:475px;
+   /* = width + margin left + margin right + padding*2 + border*2  from the content rule */
+}
+.scrollNav{
+	width:495px;
+   
+       }
+	   
+.coupon-box-div{
+	width:589px;
+	background:#FFFFFF;
+ }
+

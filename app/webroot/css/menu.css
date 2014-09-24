@@ -1,0 +1,68 @@
+.glowingtabs{
+ margin:0 auto;
+width:640px;
+ }
+
+.glowingtabs ul{
+list-style-type: none;
+margin:0;
+margin-left:26px; /*Left offset of entire tab menu relative to page*/
+padding:0;
+}
+
+.glowingtabs li{
+display:inline;
+margin:0;
+padding:0;
+font:bold 18px Trebuchet MS, Myriad Pro, Helvetica, Arial;
+text-transform:uppercase;
+color:#fff;
+}
+
+.glowingtabs a{
+float:left;
+background:url(../img/glowtab-left1.png) no-repeat left top;
+margin:0;
+margin-right:3px ; /*spacing between each tab*/
+padding:0 0 0 44px;
+text-decoration:none;
+}
+
+.glowingtabs a span{
+float:left;
+display:block;
+background:url(../img/glowtab1.png) no-repeat right top;
+padding:7px 44px 7px 0;
+ color:#fff;
+}
+
+/* Commented Backslash Hack hides rule from IE5-Mac \*/
+.glowingtabs a span {float:none; text-decoration:none;}
+/* End IE5-Mac hack */
+
+.glowingtabs a:hover span {
+ color:#801113;
+text-decoration:none;
+}
+
+.glowingtabs li.selected a{ /*Selected Tab style*/
+background-position:0 -37px; text-decoration:none; /*Shift background image up to start of 2nd tab image*/
+}
+
+.glowingtabs li.selected a span{ /*Selected Tab style*/
+background-position:100% -37px; /*Shift background image up to start of 2nd tab image*/
+color:#801113;
+text-decoration:none;
+}
+
+.glowingtabs a:hover, .glowingtabs li.selected a:hover{ /*onMouseover style*/
+background-position:0% -37px;
+color:#801113; 
+text-decoration:none;
+}
+
+.glowingtabs a:hover span, .glowingtabs li.selected a:hover span{ /*onMouseover style*/
+background-position:100% -37px;
+color:#801113;
+text-decoration:none;
+}

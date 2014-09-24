@@ -1,0 +1,31 @@
+
+ 
+
+ 
+.ui-state-default .ui-icon { background: url(../img/collasp_arrow.png) no-repeat left top; }
+ 
+.ui-state-active .ui-icon {background: url(../img/collasp_arrow.png) no-repeat right top; }
+ 
+.ui-accordion { width: 100%; }
+.ui-accordion .ui-accordion-header { cursor: pointer; position: relative; margin-top: 1px; zoom: 1; }
+.ui-accordion .ui-accordion-li-fix { display: inline; }
+.ui-accordion .ui-accordion-header-active { border-bottom: 0 !important; }
+.ui-accordion .ui-accordion-header a { display: block;   padding: 10px 14px 14px 42px; }
+.ui-accordion-icons .ui-accordion-header {background:url(../img/heading_bg.png) no-repeat left top; padding-left:0px;}
+.ui-accordion-icons .ui-accordion-header a {font:15px/24px Arial, Helvetica, sans-serif; font-weight:bold; color:#870000; letter-spacing:0px; text-decoration:none; }
+.ui-accordion .ui-accordion-header .ui-icon { height: 28px;
+    left: 8px;
+    margin-top: -8px;
+    position: absolute;
+    top: 34%;
+    width: 28px; }
+.ui-accordion .ui-accordion-content  {color: #333;
+font:14px/18px Arial, Helvetica, sans-serif;
+
+padding: 4px 9px 4px 12px; height:auto !important;}
+.ui-accordion .ui-accordion-content strong{ color: #080808;
+font-family: arial; font-weight:bold;}
+.ui-accordion .ui-accordion-content a{ color: #007ca9;
+font-family: arial; text-decoration:underline;}
+.ui-accordion .ui-accordion-content a:hover{ text-decoration:none;}
+.ui-accordion .ui-accordion-content-active { display: block; }

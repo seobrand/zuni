@@ -1,0 +1,342 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width, minimum-scale=1, maximum-scale=1">
+<title>Welcome - Zuni</title>
+<link href="css/reset.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="css/idangerous.swiper.css">
+<link href="css/style.css" rel="stylesheet" type="text/css">
+<link href="css/font-face.css" rel="stylesheet" type="text/css">
+<script src="js/jquery.min.js"></script>
+<script  src="js/idangerous.swiper-1.9.1.min.js"></script>
+<!-- Swiper Scrollbar plugin -->
+<script  src="js/idangerous.swiper.scrollbar-1.2.js"></script>
+<script>
+
+$(function(){
+	
+	//Main Swiper
+	var swiper = new Swiper('.swiper1', {
+		pagination : '.pagination1',
+		loop:true,
+		grabCursor: true
+	});
+	
+	
+	//Navigation arrows
+	$('.arrow-left').click(function(e) {
+        e.preventDefault()
+		swiper.swipePrev()
+    });
+	$('.arrow-right').click(function(e) {
+        e.preventDefault()
+		swiper.swipeNext()
+    });
+    //Clickable pagination
+    $('.pagination1 .swiper-pagination-switch').click(function(){
+    	swiper.swipeTo($(this).index())
+    })
+})
+</script>
+<script src="js/script.js"></script>
+<script src="js/dropdowntabs.js"></script>
+</head>
+
+<body>
+
+<!-- header -->
+<header class="header">
+  <div class="logo"><a href="index.html"><img src="images/logo.png" width="147" height="66" alt="zuni"></a></div>
+  <div class="top_right clearfix" id="dropdownmenuTop">
+    <ul class="clearfix">
+      <li>
+        <div id="dropdown2"><a href="#" data="dropmenu2_d">Welcome Audrey</a></div>
+      </li>
+    </ul>
+  </div>
+  <div class="dropmenudiv_d" id="dropmenu2_d">
+    <div class="dropdown2">
+      <ul>
+        <li><a href="#">Redeem</a></li>
+        <li><a href="#">Refer A Friend</a></li>
+        <li><a href="#">Refer A Business</a></li>
+        <li><a href="#">My Account</a></li>
+      </ul>
+    </div>
+  </div>
+  <script type="text/javascript">
+//SYNTAX: tabdropdown.init("menu_id", [integer OR "auto"])
+tabdropdown.init("dropdownmenuTop", "auto")
+</script> 
+</header>
+<!-- /header --> 
+
+<!-- slider -->
+<div class="gray_bg">
+  <div class="page_arrow">
+    <div class="head_outer">
+      <h1>Italian Cuisine</h1>
+    </div>
+    <div class="slider_home"> <a class="arrow-left" href="#"></a> <a class="arrow-right" href="#"></a>
+
+<div class="swiper-main">
+<div class="sm-free"></div>
+<div class="swiper-container swiper1">
+<div class="swiper-wrapper">
+
+
+<div class="swiper-slide">
+<article class="offer_box relative">
+<div class="border_radius2"></div>
+<div class="imgCol"> <img src="images/category-img2.jpg" width="225" height="320" alt=" " class="offerImg"></div>
+<div class="boxDes2">
+<div class="offer_details">
+<p><strong>VaVa Chic Women's Boutique</strong> </p>
+<p>Flip Flops</p>
+</div>
+<div class="priceOuter">
+<div class="priceLeft"> 40% OFF</div>
+<div class="view"> <a href="#" class="viewButton">view</a> </div>
+</div>
+</div>
+<div class="bottomStrip"><img src="images/bottom-strip3.png" width="225" height="7" alt=" "></div>
+</article>
+</div>
+ 
+
+<div class="swiper-slide">
+<article class="offer_box relative">
+<div class="border_radius2"></div>
+<div class="imgCol"> <img src="images/category-img2.jpg" width="225" height="320" alt=" " class="offerImg"></div>
+<div class="boxDes2">
+<div class="offer_details">
+<p><strong>VaVa Chic Women's Boutique</strong> </p>
+<p>Flip Flops</p>
+</div>
+<div class="priceOuter">
+<div class="priceLeft"> 40% OFF</div>
+<div class="view"> <a href="#" class="viewButton">view</a> </div>
+</div>
+</div>
+<div class="bottomStrip"><img src="images/bottom-strip3.png" width="225" height="7" alt=" "></div>
+</article>
+</div>
+
+<div class="swiper-slide">
+<article class="offer_box relative">
+<div class="border_radius2"></div>
+<div class="imgCol"> <img src="images/category-img2.jpg" width="225" height="320" alt=" " class="offerImg"></div>
+<div class="boxDes2">
+<div class="offer_details">
+<p><strong>VaVa Chic Women's Boutique</strong> </p>
+<p>Flip Flops</p>
+</div>
+<div class="priceOuter">
+<div class="priceLeft"> 40% OFF</div>
+<div class="view"> <a href="#" class="viewButton">view</a> </div>
+</div>
+</div>
+<div class="bottomStrip"><img src="images/bottom-strip3.png" width="225" height="7" alt=" "></div>
+</article>
+</div>
+
+
+</div>
+</div>
+</div>
+      <div class="pagination pagination1"></div>
+    </div>
+  </div>
+</div>
+<!-- /slider --> 
+
+<!-- search -->
+<div class="search_col">
+  <div class="topText">
+    <div class="textgradient"></div>
+    <p> FREE Savings in the<br />
+      <strong>FORT LAUDERDALE</strong> area!</p>
+  </div>
+  <div class="search_box">
+    <p>Choose Coffee Shop, Beauty Salon, etc</p>
+    <p>
+      <select name="" class="selectmenu1">
+        <option>What?</option>
+      </select>
+    </p>
+    <p><strong>AND</strong> Choose a City or Area</p>
+    <p>
+      <select name="" class="selectmenu1">
+        <option>Where?</option>
+      </select>
+    </p>
+    <p><strong>OR</strong> Fill in a Business Name</p>
+    <p>
+      <input name="" type="text" class="input1">
+    </p>
+    <p>
+      <input name="" type="image" src="images/search-button.png" alt="search">
+    </p>
+  </div>
+</div>
+<!-- /search --> 
+
+<!-- tabs -->
+<div class="tabs_outer">
+  <div class="tab1">TODAY'S FREEBIE </div>
+  <div class="freebie_tab" style="display:none;">
+    <div class="box1">
+      <div class="freebie_img"><img src="images/freebie-img.jpg" width="265" height="196" alt=" " /></div>
+      <div class="freebie_des">
+        <h1>GOGA Studios</h1>
+        <div class="freebie_address"> 3131 SW College Road Suite 301<br />
+          Ocala, Florida 34474<br />
+          (352) 304-5571 </div>
+        <p> <strong>Mention the code word "WIGGLE"</strong>and <br />
+          Receive a Free Whole Body Vibration Session. </p>
+        <ul>
+          <li>Not valid with any other offer.</li>
+          <li>Not transferrable.</li>
+          <li>Not redeemable for cash.</li>
+          <li>Must mention this promotion. Call for details. </li>
+          <li>Good for first time customers.</li>
+        </ul>
+        <div class="social_icons"> <a href="#"><img src="images/facebook-icon.png" width="40" height="40" alt="facebook"></a> <a href="#"><img src="images/twitter-icon.png" width="40" height="40" alt="twitter"></a> <a href="#"><img src="images/pinterest-icon.png" width="40" height="40" alt="pinterest"></a> </div>
+      </div>
+    </div>
+  </div>
+  <div class="tab2">TODAY'S BIG DEAL</div>
+  <div class="bigdeal_tab" style="display:none;">
+    <div class="box2 clearfix">
+      <div class="bigdeal_img"><img src="images/big-deal-img.jpg" width="265" height="196" alt=" " /></div>
+      <div class="bigdeal_des clearfix">
+        <h1>Color, Cut and Deep <br />
+          Conditioning with Style </h1>
+        <p>$60 for a Color, Cut and Deep Conditioning with a Style at Planet Cosmo</p>
+        <div class="savings clearfix">
+          <div class="savingLeft">40</div>
+          <div class="savingRight"> <strong>%</strong><br>
+            SAVINGS! </div>
+        </div>
+        <div class="dealprice_outer clearfix">
+          <div class="dealPrice"> $60.00
+            <div class="regularPrice">Reg. <span>$100 </span></div>
+          </div>
+          <div class="viewButton01"><a href="#"><img src="images/view-button.png" width="98" height="36" alt="view" /></a></div>
+        </div>
+        <p>TIME LEFT TO BUY</p>
+        <div class="countdown_bg">
+          <p><strong>1 day  2:56:15</strong></p>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="tab3">Contest</div>
+  <div class="contest_tab" style="display:none;">
+    <div class="box3">
+      <p>Using the Hello Gorgeous Salon's merchant page on Zuni.com, tell us how much you can save on a haircut.</p>
+      <div class="contest_form">
+        <table>
+          <tr>
+            <td><textarea name="" cols="5" rows="4" class="textarea01">Write Your Answer Here:</textarea></td>
+          </tr>
+          <tr>
+            <td> Prizes are mailed to winners weekly. Please include your address in ttophe box below. </td>
+          </tr>
+          <tr>
+            <td><input name="" type="text" class="input01" value="Street Address"></td>
+          </tr>
+          <tr>
+            <td><input name="" type="text" class="input01" value="City"></td>
+          </tr>
+          <tr>
+            <td><input name="" type="text" class="input01" value="Florida"></td>
+          </tr>
+          <tr>
+            <td><input name="" type="text" class="input01" value="Pin Code"></td>
+          </tr>
+          <tr>
+            <td> By Clicking the submit button you are agreeing to our <a href="#">"Terms of Use"</a> and <a href="#">"Contest Rules"</a>. </td>
+          </tr>
+          <tr>
+            <td class="submitButton_small"><input name="" type="image" src="images/submit-small.png" alt="submit"></td>
+          </tr>
+        </table>
+      </div>
+      <div class="social_icons"> <a href="#"><img src="images/facebook-icon.png" width="40" height="40" alt="facebook"></a> <a href="#"><img src="images/twitter-icon.png" width="40" height="40" alt="twitter"></a> <a href="#"><img src="images/pinterest-icon.png" width="40" height="40" alt="pinterest"></a> </div>
+      <div class="winners_list">
+        <h2>Winners List</h2>
+        <table>
+          <tr>
+            <th scope="row"> Chelsea m. <br>
+              $25 Zuni Bucks </th>
+            <td> 02/14/2013</td>
+          </tr>
+          <tr>
+            <th scope="row"> Chelsea m. <br>
+              $25 Zuni Bucks </th>
+            <td> 02/14/2013</td>
+          </tr>
+          <tr>
+            <th scope="row"> Chelsea m. <br>
+              $25 Zuni Bucks </th>
+            <td> 02/14/2013</td>
+          </tr>
+          <tr>
+            <th scope="row"> Chelsea m. <br>
+              $25 Zuni Bucks </th>
+            <td> 02/14/2013</td>
+          </tr>
+          <tr>
+            <th scope="row"> Chelsea m. <br>
+              $25 Zuni Bucks </th>
+            <td> 02/14/2013</td>
+          </tr>
+        </table>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- /tabs --> 
+
+<!-- nav -->
+<div class="nav_menu clearfix">
+  <ul>
+    <li class="redeemTab"> <a href="#"><span class="redeem"></span><br />
+      Redeem</a>
+      <div class="redeemdropdown">
+        <p> Where would you like to spend your Zuni Bucks? </p>
+        <div class="totalBuck">tOTAL bUCK lEFT : <strong>$200</strong></div>
+      </div>
+    </li>
+    <li class="link2"><a href="#"><span class="refer_friend"></span><br />
+      Refer A<br />
+      Friend</a></li>
+    <li class="link3"><a href="#"><span class="refer_business"></span><br />
+      Refer A<br />
+      Business</a></li>
+    <li class="link4"><a href="#"><span class="myaccount"></span><br />
+      My<br />
+      Account</a></li>
+  </ul>
+</div>
+<!-- /nav --> 
+
+<!-- footer links -->
+<div class="footer_links clearfix">
+  <ul class="clearfix">
+    <li><a href="#">Terms of Use</a></li>
+    <li><a href="#">Privacy</a></li>
+    <li><a href="#">Contact Us</a></li>
+    <li><a href="#">About Us</a></li>
+  </ul>
+</div>
+<!-- /footer links --> 
+
+<!-- footer -->
+<footer id="splashfooter"> Copyright &copy; 2013 jtwmediagroup, llc. All rights reserved. </footer>
+<!-- /footer -->
+
+</body>
+</html>

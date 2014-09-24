@@ -1,0 +1,979 @@
+@charset "utf-8";
+
+body{
+	margin:0px;
+	padding:0px;
+}
+
+ 
+
+
+
+#top_part{
+	width:100%;
+	background:url(../img/profile/main_bg.jpg) top repeat-x #fff;
+	padding:20px 0;
+}
+
+#top_part2{
+	width:100%;
+	background:url(../img/profile/main_bg2.jpg) top repeat-x #fff;
+	padding:20px 0;
+}
+
+.wrapper{
+	width:986px;
+	margin:0 auto;
+}
+	
+
+.admintop{
+	width:960px;
+	margin:0 auto;
+	background:url(../img/profile/admintop_bg.jpg);
+	height:49px;	
+	padding:0px 0 0 0px;	
+}
+.admintop_left{
+	margin:0px;
+	padding:3px 0 0 20px;
+	font:28px "Helvetica Neue"; 
+	color:#000000; 
+	text-transform:uppercase;
+	float:left;
+	line-height:35px;	
+}
+.admintop_bold{
+	/*font:28px "Helvetica Neue"; 
+	color:#930100;
+	font-weight:bold;
+	padding:1px 0 0 8px;*/
+	font: 28px/28px "Helvetica Neue";
+color: #930100;
+font-weight: bold;
+padding: 6px 0 0 8px;
+}
+
+.admintop p{
+	/*margin:0px;
+	padding:10px 20px 0 0;
+	float:right;
+	font:20px Arial, Helvetica, sans-serif;
+	color:#000;*/
+	margin: 0px;
+padding: 1px 20px 0 0;
+float: right;
+font: 20px/20px Arial, Helvetica, sans-serif;
+color: black;
+}
+.admintop p span{
+	color:#b00104;
+}
+
+
+/*-------container ---------*/
+
+.container{
+	width:986px;
+	margin:0 auto;
+	background:url(../img/profile/container_topbg.png) top center no-repeat;
+	padding:64px 0 0 0;
+}
+
+
+
+
+
+.container_indent{
+	width:960px;
+	margin:0 12px;
+	background:url(../img/profile/container_indent_bg.jpg) top repeat-x #f3f3f3;
+	border-bottom:1px solid #b3b3b3;
+	border-left:1px solid #b3b3b3;	
+	border-right:1px solid #b3b3b3;
+	padding:5px 0 0 0;			
+	
+}
+	
+
+
+
+
+/*-------------admin menu--------------------*/
+
+.admin_menu{
+	width:770px;
+	margin:0 auto;
+	margin-top:50px;
+	margin-bottom:80px;	
+	background:url(../img/profile/admin_menu_bg.jpg) top left no-repeat;
+	height:354px;
+}
+
+.admin_menu h2{
+	margin:0px;
+	padding:40px 0 0 30px;
+	font:22px Arial, Helvetica, sans-serif;
+	color:#870106;
+}
+
+
+
+.admin_menu_indent{
+	padding:45px 0 0 10px;
+	overflow:hidden;
+}
+
+.admin_menu1{
+	width:914px;
+	margin:0 auto;
+	margin-top:50px;
+	margin-bottom:80px;	
+	background:url(../img/profile/admin_menu_bg_user.jpg) top left no-repeat;
+	
+}
+
+.admin_menu1 h2{
+	margin:0px;
+	padding:40px 0 0 30px;
+	font:22px Arial, Helvetica, sans-serif;
+	color:#870106;
+}
+
+
+
+.admin_menu_indent1{
+	padding:30px 0 40px 35px;
+	overflow:hidden;
+}
+
+.spend{
+	width:132px;
+	float:left;
+	margin:0 28px;
+}
+
+.spend p{
+	margin:0px;
+	text-align:center;
+	font:14px Arial, Helvetica, sans-serif;
+	color:#000000;
+	text-transform:uppercase;
+	padding:5px 0 0 0;
+}
+
+
+.usermenu_box{
+	width:132px;
+	float:left;
+	
+	padding:0 30px 15px 11px;
+}
+
+.usermenu_box p{
+	margin:0px;
+	text-align:center;
+	font:12px Arial, Helvetica, sans-serif;
+	color:#000000;
+	text-transform:uppercase;
+	padding:5px 0 0 0;
+}
+
+
+
+/*------------------ footer css --------------------*/
+
+.footer_outer{width:100%; background:url(../img/profile/footer_bg.jpg) top repeat-x #6d0008; height:237px;}
+.footer{width:986px; margin:0 auto; overflow:hidden;}
+.footer h5{font:bold 16px Arial, Helvetica, sans-serif; color:#fff; text-transform:uppercase; padding:0 0 8px 0;}
+.footer ul{margin:0px; padding:0px;}
+.footer li{list-style:none; font:14px Arial, Helvetica, sans-serif; color:#fff; background:url(../img/profile/links_arrow.png) 0 6px no-repeat; padding:0 0 10px 12px;}
+.footer li a{font:14px Arial, Helvetica, sans-serif; color:#fff; text-decoration:none;}
+.footer li a:hover{font:14px Arial, Helvetica, sans-serif; color:#fff; text-decoration:underline;}
+
+.footer_links{width:683px; float:left; background:url(../img/profile/footer_glow.jpg) top left no-repeat; height:237px; overflow:hidden;}
+.links_col{width: 181px;
+float: left;
+padding: 0 0 0 249px;
+margin: 29px 0 0 0;
+background: url(../img/profile/bottom_divider.jpg) top right repeat-y;
+height: 175px;}
+.links_col2{width:178px; float:left; padding:0 0 0 19px; margin:29px 0 0 0; height:175px; background:url(../img/profile/bottom_divider.jpg) top right repeat-y;}
+.links_col3{width: 140px;
+float: left;
+padding: 0 0 0 75px;
+margin: 29px 0 0 0;
+height: 175px;}
+
+
+
+
+.footerbox_outer{width:250px; height:314px; float:left; }
+.footer_box{width:228px; background:url(../img/profile/footer_box.jpg) top no-repeat; height:314px; position:absolute; padding:0 12px 0 10px;}
+.footer_box ul{margin:0px; padding:12px 0 0 0;}
+.footer_box li{list-style:none; font:18px "Helvetica Neue"; color:#000000; font-weight:500; background:url(../img/profile/bottom_divider2.jpg) bottom repeat-x; padding:13px 0 5px 0;}
+.footer_box li a{font:18px "Helvetica Neue"; color:#000000; font-weight:500; text-decoration:none;}
+.footer_box li a:hover{font:18px "Helvetica Neue"; color:#000000; font-weight:500; text-decoration:none;}
+.footer_box li img{vertical-align:middle; padding:0 12px 0 4px;}
+
+.copyright{width:986px; overflow:hidden; position:absolute; margin:-48px 0 0 0; padding:0 0 30px 0;}
+.copyright p{text-align:center; font:11px "Trebuchet MS", Arial, Helvetica, sans-serif; color:#000000;}
+
+
+
+
+
+
+/*------header------------*/
+#header{
+	width:960px;
+	margin:0px auto;
+	height:178px;
+	margin-top:10px;
+	background:url(../img/profile/header_bg.jpg) top center no-repeat;
+}
+
+.header_indent{
+	padding:15px 0 0 10px;
+	overflow:hidden;
+}
+
+
+.header_indent ul{margin:0px; padding: 0px 0 0 5px;}
+.header_indent li{list-style:none; float:left; font:12px Arial, Helvetica, sans-serif; color:#000000; text-align:center; text-transform:uppercase;margin:0 1px 0 0px;font-weight: bold;}
+.header_indent li a{font:12px Arial, Helvetica, sans-serif; color:#000000; text-decoration:none; display:block; }
+.header_indent li a:hover{font:12px Arial, Helvetica, sans-serif; color:#000000; text-decoration:none;}
+
+.header_indent li img{padding:0 0 5px 0;}
+
+ul.header_list1 li{margin:0px 10px; font-weight:bold;}
+ul.header_list2 li{margin:0px 50px; font-weight:bold;}
+
+.header_indent01{
+	padding:15px 0 0 10px;
+	overflow:hidden;
+}
+.header_indent01 ul{margin:0px; padding: 0px 0 0 5px;}
+.header_indent01 li{list-style:none; float:left; font:12px Arial, Helvetica, sans-serif; color:#000000; text-align:center; text-transform:uppercase;margin:0 12px 0 11px;font-weight: bold;}
+.header_indent01 li a{font:12px Arial, Helvetica, sans-serif; color:#000000; text-decoration:none; display:block; }
+.header_indent01 li a:hover{font:12px Arial, Helvetica, sans-serif; color:#000000; text-decoration:none;}
+
+
+
+
+/*--------------spend page------------*/
+
+.container2{width:986px; padding:6px 0 0px 0;}
+
+.topstrip, .bottomstrip{width:986px;}
+.inner_mid{width:986px; background:url(../img/profile/inner_containerbg.png) top;}
+
+.container_shadow{width:906px; background:url(../img/profile/inner_shadow.png) top no-repeat; padding:1px 40px}
+.container_shadow h1{font:600 18px "Myriad Pro"; color:#920c08; text-transform:uppercase; padding:0px 0 15px 0;}
+.container_shadow h2{font:22px Arial, Helvetica, sans-serif; color:#000; padding:0 0 18px 0;}
+
+.container_shadow h4{font:bold 20px Arial, Helvetica, sans-serif; color:#fff; text-transform:uppercase;} 
+
+.container_shadow h4 a{font:bold 20px Arial, Helvetica, sans-serif; color:#fff; background:url(../img/profile/head_strip.jpg) top repeat-x; border:1px solid #000; padding:7px 20px 3px 20px; width:auto; overflow:hidden; text-decoration:none;} 
+.box_outer{  padding:22px 0 0 30px; overflow:hidden;}
+.box_outer ul{margin:0px; padding:10px 0 0 0;}
+.box_outer li{list-style:none; float:left;}
+
+.gift_box{width:206px; border:1px dashed #888888; background:#fff;}
+.gift_img{width:199px; padding:3px;}
+.gift_title{width:191px; border-bottom:1px solid #d3d3d3; padding:5px 5px 6px 10px;}
+.gift_title h6{font:13px Arial, Helvetica, sans-serif; color:#8f0006;}
+.price_outer3{width:188px; overflow:hidden; padding:8px 9px;}
+.price{width:110px; float:left;}
+.price p{font:20px Arial, Helvetica, sans-serif; color:#212121;}
+.select_button{width:72px; float:right;}
+li.padl{padding-left:100px;}
+
+.pagination{width:962px; margin:0 auto; padding:25px 0 0 0; overflow:hidden;}
+.pagination ul{float:right; margin:0px; padding:0px;}
+.pagination li{list-style:none; font:12px Arial, Helvetica, sans-serif; color:#000; float:left; padding:0 4px;}
+.pagination li a{font:12px Arial, Helvetica, sans-serif; color:#000; text-decoration:none;}
+.pagination li a:hover{font:12px Arial, Helvetica, sans-serif; color:#000; text-decoration:underline;}
+
+.pagination li span a{font:12px Arial, Helvetica, sans-serif; color:#4c4c4c; text-decoration:none;padding:2px 4px;}
+.pagination li span a:hover{font:12px Arial, Helvetica, sans-serif; color:#4c4c4c; text-decoration:underline;}
+.pagination li span.select a{font:12px Arial, Helvetica, sans-serif; color:#fff; text-decoration:none; background:#000000;}
+
+
+
+
+
+/*-------------- Content box------------*/
+
+.content_box{
+	border:9px solid #757575;
+	background:#676767;
+	padding:1px;
+	margin-bottom:10px;
+}
+.content_bindent{
+	background:url(../img/profile/content_bg.jpg) top repeat-x #c6c6c6;
+	border:1px solid #fff;
+	padding:20px;
+}
+
+
+/*-----------vip------------------*/
+
+.vip_box{
+	background:#eeeeee;
+}
+
+.vip_box th{
+	border-top:1px solid #dfdfdf;
+	border-bottom:1px solid #dfdfdf;	
+	background:#930100;
+	padding:15px 20px;
+	font:16px Arial, Helvetica, sans-serif;
+	color:#ffffff;
+}
+
+.vip_box td{
+	border-bottom:1px solid #dfdfdf;
+	padding:15px 20px;
+	font:16px/16px Arial, Helvetica, sans-serif;
+	color:#000000;
+}
+
+.vip_box td h6{
+	margin:0px;
+	padding:0px;
+	font:bold 16px/16px Arial, Helvetica, sans-serif;
+	color:#000000;
+}
+
+.vip_box td p{
+	margin:0px;
+	padding:8px 0 0 0;
+	font:13px/16px Arial, Helvetica, sans-serif;
+	color:#000000;
+}
+
+h2.order_histext{
+	margin:0px;
+    color: #1b1616;
+    font: 600 23px "Myriad Pro";
+    padding:0 0 20px 0;
+    text-transform: uppercase;
+}
+
+h2.order_histext2{
+	margin:0px;
+    color: #870106;
+    font:22px Arial, Helvetica, sans-serif;
+    padding:0 0 10px 30px;
+}
+
+
+/*---------my offer ---------*/
+
+tr.myoffer{
+	background:#dfdfdf;
+}
+
+
+tr.myoffer td{
+	border-bottom:1px solid #cbcbcb;
+	padding:10px 20px;
+	font:16px/16px Arial, Helvetica, sans-serif;
+	color:#000000;
+}
+
+
+.newoffer_form{ padding:0 30px; background:#fff;}
+
+.search_input_combo {
+font: bold 16px "Trebuchet MS";
+height: 20px;
+width: 229px;
+border: 0px;
+color: #870B0B;
+padding: 0px 0px 0px 4px;
+margin: 4px 1px 5px 10px;
+}
+table.form_inner{padding:15px 0 0 0;}
+table.form_inner td{font:14px Arial, Helvetica, sans-serif; color:#393a3a; padding:0 8px 10px 0;}
+table.form_inner td a{font:14px Arial, Helvetica, sans-serif; color:#f7941d; text-decoration:underline;}
+table.form_inner td a:hover{font:14px Arial, Helvetica, sans-serif; color:#f7941d; text-decoration:none;}
+
+.input_outer{width:316px; height:37px; background:url(../img/front/inputbg_buz.png) top no-repeat;}
+.input_outer input{width:294px; border:0px; font:13px Arial, Helvetica, sans-serif; color:#000; margin:10px 0 0 8px;}
+
+.input_outer_edited{width:316px; height:37px; background:url(../img/profile/input_bg.png) top no-repeat;}
+.input_outer_edited input{width:294px; border:0px; font:13px Arial, Helvetica, sans-serif; color:#000; margin:10px 0 0 8px;}
+
+.textarea_outer{width:316px; height:80px; background:url(../img/profile/textarea_01.png) top no-repeat;}
+.textarea_outer textarea{width:300px; border:0px; height:60px; font:13px Arial, Helvetica, sans-serif; color:#000; margin:10px 0 0 8px;}
+
+
+.textarea_outer2{width:316px; height:130px; background:url(../img/profile/textarea_02.png) top no-repeat;}
+.textarea_outer2 textarea{width:300px; border:0px; height:110px; font:13px Arial, Helvetica, sans-serif; color:#000; margin:10px 0 0 8px;}
+
+
+.submit_bt{
+	padding:15px 0 0 230px;
+}
+
+
+
+/*--------Ishop Bucks--------------*/
+
+.bucks_page{
+	width:770px;
+	margin:0 auto;
+	background:url(../img/profile/bucks_bstrip.png) bottom center no-repeat;
+	padding-bottom:3px;	
+	
+}
+ .bucks_indent{
+	 background:#fff;
+	 border:1px dashed #797979;
+	 margin:0 25px 25px 25px;
+ }
+
+.bucks_top{
+	padding:10px;
+	overflow:hidden;
+}
+.bucks_top img{
+	padding:0 15px 0 0;
+	float:left;
+}
+.bucks_top p{
+	margin:0px;
+	padding:10px 0 0 0;
+	font:13px/18px Arial, Helvetica, sans-serif;
+	color:#212121;	
+}
+
+.bucks_bottom{
+	padding:10px;
+	border-top:1px solid #d3d3d3;
+	overflow:hidden;
+	font:13px Arial, Helvetica, sans-serif;
+	color:#8f0006;
+}
+.bucks_bottom span{
+	font:18px/25px Arial, Helvetica, sans-serif;
+	color:#212121;
+}
+
+.bucks_print_bt{
+	padding:8px 20px;
+	float:right;
+}
+	
+/*--------Refer a Friend-------------*/	
+	
+.refer_friend{	
+    padding:0 0 20px 0;
+}
+
+/*-----------profile saving offer----------*/
+.flash_msg_div
+{
+width:auto;
+height:auto;
+background:#C80302;
+color:#FFFFFF;
+font-weight:bold;
+padding:5px;
+text-align:center;
+margin:0px 0px 10px 0px; 
+}
+#more_link a:link
+{
+color:#4C4C4C;
+ text-decoration:none;
+  font-size:14px;
+}
+#more_link a:hover
+{
+color:#4C4C4C;
+ text-decoration:underline;
+  font-size:14px;
+}
+#more_link a:visited
+{
+color:#4C4C4C;
+ text-decoration:none;
+  font-size:14px;
+}
+/*--------------------- css for popup ------------------*/
+
+body.transparent{background:none;}
+.popup_outer{width:674px; margin:0 auto;}
+.popup_top, .popup_bottom{width:674px;}
+.popup_mid{width:556px; background:url(../img/front/popup_mid.jpg) top; padding:0 59px;}
+.popup_indent{overflow:hidden; padding:0 12px;}
+.popup_indent h1{font:600 46px "Myriad Pro"; color:#920c08; text-transform:uppercase; padding:20px 0;}
+.popup_indent h1 img{vertical-align:middle; padding:0 18px 0 0;}
+
+.popup_indent2{border-top:1px solid #e5e5e5; border-bottom:1px solid #e5e5e5; background:#efefef; width:556px; padding:10px 0; overflow:hidden;}
+.block1{width:153px; float:left; background:#fff; border:1px solid #c4c3c3; margin:0 0 0 9px; padding:12px 9px;}
+.block1 h6{font:600 22px "Myriad Pro"; color:#0f0f0f; margin:0px; padding:5px 0 0 0; text-align:center;} 
+.block1 h5{font:600 38px "Myriad Pro";  color:#920c08; padding:8px 0 0 0; text-align:center;}
+
+table.form_inner{padding:15px 0 0 0;}
+table.form_inner td{font:14px Arial, Helvetica, sans-serif; color:#393a3a; padding:0 8px 10px 0;}
+table.form_inner td a{font:14px Arial, Helvetica, sans-serif; color:#f7941d; text-decoration:underline;}
+table.form_inner td a:hover{font:14px Arial, Helvetica, sans-serif; color:#f7941d; text-decoration:none;}
+
+table.form_inner2 td{font:12px Arial, Helvetica, sans-serif; color:#393a3a; padding:0 4px 10px 0;}
+table.form_inner3 td{font:13px Arial, Helvetica, sans-serif; color:#230202; text-transform:uppercase;  padding:0 8px 10px 0;}
+table.form_inner4 td{font:14px Arial, Helvetica, sans-serif; color:#030303; padding:20px 6px 0 0;}
+table.form_inner4 td td{padding:18px 6px 0 0;}
+
+
+
+table.form_inner td span{font:16px Arial, Helvetica, sans-serif; color:#920c08;}
+table.form_inner td strong{font:bold 16px Arial, Helvetica, sans-serif; color:#920c08;}
+table.form_inner td span.red{color:#dd4207; font:14px Arial, Helvetica, sans-serif;}
+table.form_inner td span.small{font:11px Arial, Helvetica, sans-serif; color:#989897;}
+
+table.form_inner td h4{font:16px Arial, Helvetica, sans-serif; color:#000000; padding:6px 0 10px 0;}
+table.form_inner td h4 a{font:16px Arial, Helvetica, sans-serif; color:#f7941d; text-decoration:underline;}
+table.form_inner td h4 a:hover{font:16px Arial, Helvetica, sans-serif; color:#f7941d; text-decoration:none;}
+table.form_inner td h3{font:bold 16px Arial, Helvetica, sans-serif; color:#000000; padding:6px 0 10px 0;}
+
+.input_01{font:13px Arial, Helvetica, sans-serif; color:#030303; border:0px; border-bottom:1px solid #030303; width:492px;}
+.input_02{font:13px Arial, Helvetica, sans-serif; color:#030303; border:0px; border-bottom:1px solid #030303; width:292px;}
+
+
+table.form_inner td.text_02{font:12px Arial, Helvetica, sans-serif; color:#393a3a;}
+
+h5.head_01{font:600 38px "Myriad Pro"; color:#920c08; text-align:center; text-transform:uppercase; padding:12px 0 0 0;}
+h5.head_02{font:600 35px "Myriad Pro"; color:#920c08; text-align:center; text-transform:uppercase; padding:12px 0 0 0;}
+h5.head_03{font:600 30px "Myriad Pro"; color:#920c08; text-transform:uppercase;}
+h5.head_03 a{font:600 30px "Myriad Pro"; color:#920c08; text-decoration:none;}
+h5.head_03 span{font:600 14px "Myriad Pro"; color:#4e4e4e; text-transform:none;}
+
+h1.head_04{font:600 30px "Myriad Pro"; color:#000; padding:12px 0 0 0;}
+h1.head_05{font:600 48px "Myriad Pro"; color:#920c08; text-align:center; text-transform:uppercase; padding:12px 0 0 0;}
+
+
+p.text_01{font:600 22px "Myriad Pro"; color:#1b1616; text-align:center; padding:8px 0 0 0;}
+p.text_02{font:400 36px "Myriad Pro"; color:#930100; text-align:center; padding:8px 0 0 0;}
+p.text_02 strong{font:600 49px "Myriad Pro"; color:#930100; text-align:center;}
+p.text_03{font:bold 15px "Trebuchet MS", Arial, Helvetica, sans-serif; color:#230202; text-transform:uppercase; padding:0 0 8px 12px;} 
+p.text_04{font:14px Arial, Helvetica, sans-serif; color:#484747; padding:8px 0 0 12px;}
+p.text_06{font:bold 16px Arial, Helvetica, sans-serif; color:#000; padding:8px 0 18px 0;}
+p.text_07{font:27px "Helvetica Neue"; color:#000; text-transform:uppercase;}
+p.text_08{font:bold 15px/22px Arial, Helvetica, sans-serif; color:#230202; padding:10px 0 0 0;}
+p.text_08 span{font:bold 15px/22px Arial, Helvetica, sans-serif; color:#960a0a; text-transform:uppercase;}
+.text_09{font:23px Arial, Helvetica, sans-serif; color:#930100;}
+.text_09 span{font:23px "Helvetica Neue"; color:#1b1616;}
+
+p.text_10{font:600 26px "Myriad Pro"; color:#1b1616; padding:8px 0 0 0; text-align:center;}
+
+
+.popup_outer2{width:728px; background:#efefef; border:8px solid #ffffff;}
+.popup_outer3{width:911px; background:#efefef; border:8px solid #ffffff;}
+.stroke{border:1px solid #e1e1e1; overflow:visible;}
+.popup_container{width:629px; margin:0 auto; padding:20px 0;}
+.popp_top2{width:629px; height:9px; background:url(../img/popup_top2.jpg) bottom no-repeat;}
+.popup_bottom2{width:629px; height:9px;background:url(../img/popup_bottom2.jpg) top no-repeat;}
+.popup_mid2{width:629px; background:url(../img/front/popup_mid2.jpg) top;}
+
+.popup_top3{background:url(../img/front/popup_top3.jpg) top no-repeat; width:674px; height:89px;}
+.popup_top3 h5{font:bold 21px Arial, Helvetica, sans-serif; color:#920c08; text-align:center; padding:40px 0 0 0;}
+
+.logo_small{width:122px; height:122px; position:absolute; margin:-50px 0 0 12px;}
+
+.popup_content{width:auto; overflow:hidden; padding:22px 0 0 0;}
+.popup_sidebar{width:192px; float:left; padding:0 0 0 12px;}
+.schedule_col{width:316px; float:left; padding:0 0 0 3px;}
+.popup_coupon{width:192px;}
+.inner_banner{width:192px; text-align:center; padding:17px 0 0 0;}
+
+.schedule_box{width:316px; padding:0 0 25px 0;}
+.schedule_box p{font:14px/20px Arial, Helvetica, sans-serif; color:#930100; text-transform:uppercase;}
+.top_crv, .bottom_crv{width:316px;}
+.schedule_mid{width:280px; background:url(../img/front/mid_bg.jpg) top; padding:6px 18px; overflow:hidden;}
+.calendar_img{width:55px; float:left;}
+.schedule_des{width:220px; float:right;}
+.calendar_img2{width:55px; float:left; padding:25px 0 30px 0;}
+.schedule_des2{width:220px; float:right; padding:27px 0 30px 0;}
+
+.free_coffee{width:336px; float:left;}
+.daily_deal{width:350px; float:right;}
+.daily_deal p{font:17px/18px "Trebuchet MS", Arial, Helvetica, sans-serif; color:#333333;}
+.daily_deal p span{font:bold 22px "Trebuchet MS", Arial, Helvetica, sans-serif; color:#920c08; text-transform:uppercase; letter-spacing:-1px;}
+
+.popup_container2{width:auto; padding:15px 0;}
+.left_img{width:187px; float:left; padding:0 0 8px 0;}
+.right_buttons{width:107px; float:right; padding:45px 0 0 0;}
+
+.popup_left{width:337px; float:left;}
+.ishop_logo{width:337px; text-align:center;}
+.order_banner{width:337px; padding:38px 0 0 0;}
+.popup_left p{font:14px/18px Arial, Helvetica, sans-serif; color:#000000; padding:18px 0 0 0;}
+
+
+.popup_right{width:489px; float:left; padding:0 0 0 20px;}
+.steps{width:489px; border-top:1px solid #cfcfcf; border-bottom:1px solid #cfcfcf; padding:14px 0; margin:35px 0 0 0; overflow:hidden;}
+.steps_bg{width:158px; background:url(../img/front/steps_bg.png) top no-repeat; height:85px;}
+.steps_bg p{font:24px "Helvetica Neue"; color:#fff; text-align:center; padding:34px 0 0 0; text-transform:uppercase;}
+
+.discount_form{width:489px; padding:24px 0 0 0;}
+.bottom_crv3{width:489px;}
+.top_crv3{width:489px; background:url(../img/front/top_crv2.jpg) top no-repeat; height:57px;} 
+.top_crv3 p{font:bold 21px Arial, Helvetica, sans-serif; color:#920c08; text-transform:uppercase; padding:14px 0 0 15px;} 
+.form_indent{width:459px; background:url(../img/front/mid_bg2.jpg) top; padding:0 15px;}
+
+.order_banner2{width:677px; padding:26px 0 0 0; margin:0 auto;}
+
+.popup_content2{width:677px; margin:0 auto; overflow:hidden;}
+ 
+h2.head_02{font:600 30px "Myriad Pro"; color:#920c08; text-transform:uppercase; padding:28px 0 0 0;} 
+p.text_05{font:600 22px "Myriad Pro"; color:#1b1616; padding:14px 0 0 0;}
+h3.head_01{font:600 23px "Myriad Pro"; color:#920c08; text-transform:uppercase; padding:35px 0 0 0;}
+
+.popup_content3{width:auto; padding:14px 20px; overflow:hidden;}
+
+/*--------------------- css for popup ------------------*/
+
+body.transparent{background:none;}
+.popup_outer{width:674px; margin:0 auto;}
+.popup_top, .popup_bottom{width:674px;}
+.popup_mid{width:556px; background:url(../img/front/popup_mid.jpg) top; padding:0 59px;}
+.popup_indent{overflow:hidden; padding:0 12px;}
+.popup_indent h1{font:600 46px "Myriad Pro"; color:#920c08; text-transform:uppercase; padding:20px 0;}
+.popup_indent h1 img{vertical-align:middle; padding:0 18px 0 0;}
+
+.popup_indent2{border-top:1px solid #e5e5e5; border-bottom:1px solid #e5e5e5; background:#efefef; width:556px; padding:10px 0; overflow:hidden;}
+.block1{width:153px; float:left; background:#fff; border:1px solid #c4c3c3; margin:0 0 0 9px; padding:12px 9px;}
+.block1 h6{font:600 22px "Myriad Pro"; color:#0f0f0f; margin:0px; padding:5px 0 0 0; text-align:center;} 
+.block1 h5{font:600 38px "Myriad Pro";  color:#920c08; padding:8px 0 0 0; text-align:center;}
+
+table.form_inner{padding:15px 0 0 0;}
+table.form_inner td{font:14px Arial, Helvetica, sans-serif; color:#393a3a; padding:0 8px 10px 0;}
+table.form_inner td a{font:14px Arial, Helvetica, sans-serif; color:#f7941d; text-decoration:underline;}
+table.form_inner td a:hover{font:14px Arial, Helvetica, sans-serif; color:#f7941d; text-decoration:none;}
+
+table.form_inner2 td{font:12px Arial, Helvetica, sans-serif; color:#393a3a; padding:0 4px 10px 0;}
+table.form_inner3 td{font:13px Arial, Helvetica, sans-serif; color:#230202; text-transform:uppercase;  padding:0 8px 10px 0;}
+table.form_inner4 td{font:14px Arial, Helvetica, sans-serif; color:#030303; padding:20px 6px 0 0;}
+table.form_inner4 td td{padding:18px 6px 0 0;}
+
+
+
+table.form_inner td span{font:16px Arial, Helvetica, sans-serif; color:#920c08;}
+table.form_inner td strong{font:bold 16px Arial, Helvetica, sans-serif; color:#920c08;}
+table.form_inner td span.red{color:#dd4207; font:14px Arial, Helvetica, sans-serif;}
+table.form_inner td span.small{font:11px Arial, Helvetica, sans-serif; color:#989897;}
+
+table.form_inner td h4{font:16px Arial, Helvetica, sans-serif; color:#000000; padding:6px 0 10px 0;}
+table.form_inner td h4 a{font:16px Arial, Helvetica, sans-serif; color:#f7941d; text-decoration:underline;}
+table.form_inner td h4 a:hover{font:16px Arial, Helvetica, sans-serif; color:#f7941d; text-decoration:none;}
+table.form_inner td h3{font:bold 16px Arial, Helvetica, sans-serif; color:#000000; padding:6px 0 10px 0;}
+
+.input_01{font:13px Arial, Helvetica, sans-serif; color:#030303; border:0px; border-bottom:1px solid #030303; width:492px;}
+.input_02{font:13px Arial, Helvetica, sans-serif; color:#030303; border:0px; border-bottom:1px solid #030303; width:292px;}
+
+
+table.form_inner td.text_02{font:12px Arial, Helvetica, sans-serif; color:#393a3a;}
+
+h5.head_01{font:600 38px "Myriad Pro"; color:#920c08; text-align:center; text-transform:uppercase; padding:12px 0 0 0;}
+h5.head_02{font:600 35px "Myriad Pro"; color:#920c08; text-align:center; text-transform:uppercase; padding:12px 0 0 0;}
+h5.head_03{font:600 30px "Myriad Pro"; color:#920c08; text-transform:uppercase;}
+h5.head_03 a{font:600 30px "Myriad Pro"; color:#920c08; text-decoration:none;}
+h5.head_03 span{font:600 14px "Myriad Pro"; color:#4e4e4e; text-transform:none;}
+
+h1.head_04{font:600 30px "Myriad Pro"; color:#000; padding:12px 0 0 0;}
+h1.head_05{font:600 48px "Myriad Pro"; color:#920c08; text-align:center; text-transform:uppercase; padding:12px 0 0 0;}
+
+
+p.text_01{font:600 22px "Myriad Pro"; color:#1b1616; text-align:center; padding:8px 0 0 0;}
+p.text_02{font:400 36px "Myriad Pro"; color:#930100; text-align:center; padding:8px 0 0 0;}
+p.text_02 strong{font:600 49px "Myriad Pro"; color:#930100; text-align:center;}
+p.text_03{font:bold 15px "Trebuchet MS", Arial, Helvetica, sans-serif; color:#230202; text-transform:uppercase; padding:0 0 8px 12px;} 
+p.text_04{font:14px Arial, Helvetica, sans-serif; color:#484747; padding:8px 0 0 12px;}
+p.text_06{font:bold 16px Arial, Helvetica, sans-serif; color:#000; padding:8px 0 18px 0;}
+p.text_07{font:27px "Helvetica Neue"; color:#000; text-transform:uppercase;}
+p.text_08{font:bold 15px/22px Arial, Helvetica, sans-serif; color:#230202; padding:10px 0 0 0;}
+p.text_08 span{font:bold 15px/22px Arial, Helvetica, sans-serif; color:#960a0a; text-transform:uppercase;}
+.text_09{font:23px Arial, Helvetica, sans-serif; color:#930100;}
+.text_09 span{font:23px "Helvetica Neue"; color:#1b1616;}
+
+p.text_10{font:600 26px "Myriad Pro"; color:#1b1616; padding:8px 0 0 0; text-align:center;}
+
+
+.popup_outer2{width:728px; background:#efefef; border:8px solid #ffffff;}
+.popup_outer3{width:911px; background:#efefef; border:8px solid #ffffff;}
+.stroke{border:1px solid #e1e1e1; overflow:visible;}
+.popup_container{width:629px; margin:0 auto; padding:20px 0;}
+.popp_top2, .popup_bottom2{width:629px;}
+.popup_mid2{width:629px; background:url(../img/front/popup_mid2.jpg) top;}
+
+.popup_top3{background:url(../img/front/popup_top3.jpg) top no-repeat; width:674px; height:89px;}
+.popup_top3 h5{font:bold 21px Arial, Helvetica, sans-serif; color:#920c08; text-align:center; padding:40px 0 0 0;}
+
+.logo_small{width:122px; height:122px; position:absolute; margin:-50px 0 0 12px;}
+
+.popup_content{width:auto; overflow:hidden; padding:22px 0 0 0;}
+.popup_sidebar{width:192px; float:left; padding:0 0 0 12px;}
+.schedule_col{width:316px; float:left; padding:0 0 0 3px;}
+.popup_coupon{width:192px;}
+.inner_banner{width:192px; text-align:center; padding:17px 0 0 0;}
+
+.schedule_box{width:316px; padding:0 0 25px 0;}
+.schedule_box p{font:14px/20px Arial, Helvetica, sans-serif; color:#930100; text-transform:uppercase;}
+.top_crv, .bottom_crv{width:316px;}
+.schedule_mid{width:280px; background:url(../img/front/mid_bg.jpg) top; padding:6px 18px; overflow:hidden;}
+.calendar_img{width:55px; float:left;}
+.schedule_des{width:220px; float:right;}
+.calendar_img2{width:55px; float:left; padding:25px 0 30px 0;}
+.schedule_des2{width:220px; float:right; padding:27px 0 30px 0;}
+
+.free_coffee{width:336px; float:left;}
+.daily_deal{width:350px; float:right;}
+.daily_deal p{font:17px/18px "Trebuchet MS", Arial, Helvetica, sans-serif; color:#333333;}
+.daily_deal p span{font:bold 22px "Trebuchet MS", Arial, Helvetica, sans-serif; color:#920c08; text-transform:uppercase; letter-spacing:-1px;}
+
+.popup_container2{width:auto; padding:15px 0;}
+.left_img{width:187px; float:left; padding:0 0 8px 0;}
+.right_buttons{width:107px; float:right; padding:45px 0 0 0;}
+
+.popup_left{width:337px; float:left;}
+.ishop_logo{width:337px; text-align:center;}
+.order_banner{width:337px; padding:38px 0 0 0;}
+.popup_left p{font:14px/18px Arial, Helvetica, sans-serif; color:#000000; padding:18px 0 0 0;}
+
+
+.popup_right{width:489px; float:left; padding:0 0 0 20px;}
+.steps{width:489px; border-top:1px solid #cfcfcf; border-bottom:1px solid #cfcfcf; padding:14px 0; margin:35px 0 0 0; overflow:hidden;}
+.steps_bg{width:158px; background:url(../img/front/steps_bg.png) top no-repeat; height:85px;}
+.steps_bg p{font:24px "Helvetica Neue"; color:#fff; text-align:center; padding:34px 0 0 0; text-transform:uppercase;}
+
+.discount_form{width:489px; padding:24px 0 0 0;}
+.bottom_crv3{width:489px;}
+.top_crv3{width:489px; background:url(../img/front/top_crv2.jpg) top no-repeat; height:57px;} 
+.top_crv3 p{font:bold 21px Arial, Helvetica, sans-serif; color:#920c08; text-transform:uppercase; padding:14px 0 0 15px;} 
+.form_indent{width:459px; background:url(../img/front/mid_bg2.jpg) top; padding:0 15px;}
+
+.order_banner2{width:677px; padding:26px 0 0 0; margin:0 auto;}
+
+.popup_content2{width:677px; margin:0 auto; overflow:hidden;}
+ 
+h2.head_02{font:600 30px "Myriad Pro"; color:#920c08; text-transform:uppercase; padding:28px 0 0 0;} 
+p.text_05{font:600 22px "Myriad Pro"; color:#1b1616; padding:14px 0 0 0;}
+h3.head_01{font:600 23px "Myriad Pro"; color:#920c08; text-transform:uppercase; padding:35px 0 0 0;}
+
+.popup_content3{width:auto; padding:14px 20px; overflow:hidden;}
+
+ul.list1{margin:0px; padding:0px;}
+ul.list1 li{list-style:none; float:left; padding:0 21px 0 0; font:12px Arial, Helvetica, sans-serif; color:#393a3a; text-align:center; text-transform:uppercase;}
+ul.list1 li a{font:12px Arial, Helvetica, sans-serif; color:#393a3a; text-decoration:none;}
+ul.list1 li a:hover{font:12px Arial, Helvetica, sans-serif; color:#393a3a; text-decoration:none;}
+
+ul.list1 li img{padding:0 0 10px 0;}
+
+.premier_head{width:300px; float:left; background:#e7e7e7; padding:10px;}
+.premier_head h1{font:52px "Helvetica Neue"; color:#960a0a; text-transform:none; padding:0px;}
+.premier_head h1 span{font:24px "Helvetica Neue"; color:#1b1616;}
+
+.ishop_logo2{width:120px; float:right;}
+
+ul.liststyle2{margin:0px; padding:12px 45px 0 0; float:left;}
+ul.liststyle2 li{list-style:none; font:16px Arial, Helvetica, sans-serif; color:#1b0202; background:url(../img/front/arrow.jpg) 0 5px no-repeat; padding:0 0 10px 14px;}
+ul.liststyle2 li a{font:16px Arial, Helvetica, sans-serif; color:#1b0202; text-decoration:none;}
+ul.liststyle2 li a:hover{font:16px Arial, Helvetica, sans-serif; color:#1b0202; text-decoration:underline;}
+
+.form_indent2{padding:22px 8px; width:auto; overflow:hidden;}
+.form_indent2 h2{font:22px "Myriad Pro"; color:#010101; border-bottom:1px solid #dadad8; padding:0 0 5px 0; margin:0 0 8px 0; text-transform:uppercase;}
+
+.special_discount{width:447px; float:left;}
+
+.print_data{padding:16px 0 0 0;}
+.print_data th{font:16px Arial, Helvetica, sans-serif; color:#4c4c4c; text-transform:uppercase; padding:0 0 4px 0;}
+.print_data th a{font:16px Arial, Helvetica, sans-serif; color:#4c4c4c; text-decoration:underline;}
+.print_data th a:hover{font:16px Arial, Helvetica, sans-serif; color:#4c4c4c; text-decoration:none;}
+
+.print_data th span{font:16px Arial, Helvetica, sans-serif; color:#aa0d0a;}
+.print_data th span a{font:16px Arial, Helvetica, sans-serif; color:#aa0d0a; text-decoration:underline;}
+.print_data th span a:hover{font:16px Arial, Helvetica, sans-serif; color:#aa0d0a; text-decoration:none;}
+
+
+.print_data td{font:14px Arial, Helvetica, sans-serif; color:#4c4c4c; background:url(../img/front/alt_bg.jpg) top left no-repeat; height:27px; vertical-align:middle; padding:0 0 0 12px;}
+.print_data td strong{font:bold 14px Arial, Helvetica, sans-serif; color:#aa0d0a;}
+.print_data td td{background:none; padding:0px; height:inherit;}
+
+.padl20{margin-left:20px;}
+
+.packages_outer{width:539px; padding:25px 0 0 0; overflow:hidden; margin:0 0 0 32px;}
+.premier_package{width:251px; float:left;}
+.head_col{width:auto; background:url(../img/front/gray_bg2.jpg) bottom repeat-x #e7e7e7; height:86px;}
+.head_col h1{font:45px "Helvetica Neue"; color:#1b1616; padding:12px 0 0 16px; text-transform:none; height: 45px;}
+.head_col h2 span{color: #1B1616;
+    font: 20px "Helvetica Neue";
+    height: 20px;
+    margin: 0;
+    padding: 0 0 0 16px;}
+
+ul.liststyle3{margin:0px; padding:12px 45px 0 6px;}
+ul.liststyle3 li{list-style:none; font:16px Arial, Helvetica, sans-serif; color:#230202; background:url(../img/front/arrow.jpg) 0 5px no-repeat; padding:0 0 7px 11px;}
+ul.liststyle3 li a{font:16px Arial, Helvetica, sans-serif; color:#230202; text-decoration:none;}
+ul.liststyle3 li a:hover{font:16px Arial, Helvetica, sans-serif; color:#230202; text-decoration:underline;}
+ul.liststyle3 li strong{font:bold 16px Arial, Helvetica, sans-serif; color:#230202;}
+
+.price1{width:251px; padding:25px 0 0 0;}
+.submit{width:auto; padding:25px 0 30px 60px;}
+
+.price2{width:251px; padding:25px 0 0 0;}
+.submit2{width:auto; padding:25px 0 30px 60px;}
+
+
+.featured_package{width:282px; float:left; border-left:1px solid #dadad8;}
+.bdrlft{border-left:1px solid #fff;}
+.packages_content{width:auto; padding:0 0 0 10px;}
+
+.login_strip{width:auto; margin:12px 0 0 0;}
+.login_strip p{font:13px Arial, Helvetica, sans-serif; color:#696363;}
+.login_strip p a{font:13px Arial, Helvetica, sans-serif; color:#696363; text-decoration:none; background:#e2e0e0; padding:4px 14px;}
+.login_strip p a:hover{font:13px Arial, Helvetica, sans-serif; color:#696363; text-decoration:none;}
+
+span.red2{color:#920c08; font:14px Arial, Helvetica, sans-serif;}
+
+.packages_content h4{font:400 18px "Myriad Pro"; color:#000000; padding:25px 0 10px 0;}
+.packages_content h4 a{font:400 18px "Myriad Pro"; color:#000000; text-decoration:none;}
+.packages_content h4 a:hover{font:400 18px "Myriad Pro"; color:#000000; text-decoration:none;}
+.packages_content img{vertical-align:middle;}
+ 
+.click_here{margin:10px 0 0 0;}
+a.click_here{font:13px Arial, Helvetica, sans-serif; color:#920c08; text-decoration:underline;}
+a.click_here:hover{font:13px Arial, Helvetica, sans-serif; color:#920c08; text-decoration:none;}
+
+.ishop_logo3{width:569px; overflow:hidden; margin:0 0 0 17px; border-top:1px solid #dadad8; height:120px;}
+.logo_indent{width:120px; height:120px; position:absolute; margin:-8px 0 0 430px;}
+
+.pro_details{width:644px; float:left;}
+.pro_details h1{font:900 34px "Helvetica Neue LT Std"; color:#930100; padding:4px 0 0 0; text-transform:uppercase;}
+.pro_details h1 span{font:900 26px "Helvetica Neue LT Std"; color:#000; text-transform:none;}
+
+.details_indent{width:644px; overflow:hidden;}
+
+.counter_outer{width:359px; overflow:hidden; float:left;}
+.buy_button{width:359px; padding:12px 0 0 0;}
+.counter_indent{width:359px; overflow:hidden; padding:10px 0 0 0;}
+.left_img2{width:92px; float:left;}
+.counter_indent2{width:260px; float:right; padding:7px 0 0 0;}
+.counter_indent2 h5{font:900 79px "Helvetica Neue LT Std"; color:#9a1211; text-transform:uppercase;}
+.counter_indent2 h6{font:15px Arial, Helvetica, sans-serif; color:#9a1211; position:relative; margin:-12px 0 0 0;}
+
+.couter_bg{width:139px; background:url(../img/front/counter_bg.jpg) top no-repeat; height:45px; float:left; margin:13px 0 0 0;}
+.couter_bg ul{margin:0px; padding:6px 0 0 15px;}
+.couter_bg li{list-style:none; font:bold 20px Arial, Helvetica, sans-serif; color:#f0eff1; float:left; padding:0 24px 0 0;}
+.couter_bg li.last{padding-right:0px;}
+
+
+.bought{width:105px; height:32px; background:url(../img/front/bought_bg.jpg) top no-repeat; float:right; margin:14px 0 0 0;}
+.bought p{font:bold 17px Arial, Helvetica, sans-serif; color:#910606; text-align:center; padding:4px 0 0 0;}
+
+.price_outer{width:260px; float:right; overflow:hidden; padding:22px 0 0 0;}
+table.price_data td{font:bold 24px Arial, Helvetica, sans-serif; color:#1c1c1c; padding:7px 12px 7px 0;}
+table.price_data td b{font:bold 24px Arial, Helvetica, sans-serif; color:#1c1c1c; text-decoration:line-through;}
+table.price_data td span{font:25px Arial, Helvetica, sans-serif; color:#810006;}
+table.price_data td strong{font:bold 30px Arial, Helvetica, sans-serif; color:#1c1c1c; text-transform:uppercase;}
+table.price_data td.bdrbottom{border-bottom:1px solid #cbcaca;}
+
+.pro_img2{width:263px; float:right;}
+
+.purchase_item{width:986px;}
+
+.current_discount{width:986px; padding:5px 0 0 0;}
+.top_head2{width:986px;}
+.bottom_strip4{width:986px;}
+.mid_bg3{background:url(../img/front/mid_bg3.png) top; width:906px; padding:0 38px 0 42px;}
+.black_bg{width:896px; background:#000; padding:11px 10px 0 0; overflow:hidden;}
+
+.discount_box{width:418px; height:190px; float:left; margin:0 0 10px 10px; background:#ebebeb; overflow:hidden; padding:18px 8px 0 12px;}
+
+
+.proimg_small{width:100px; float:right;}
+
+
+
+
+.discount_box h1{font:900 16px "Helvetica Neue LT Std"; color:#930100; padding:4px 0 0 0; text-transform:uppercase;}
+.discount_box h1 span{font:900 12px "Helvetica Neue LT Std"; color:#000; text-transform:none;}
+
+.details_indent2{width:318px; float:left;}
+.counter_outer2{width:318px; overflow:hidden; float:left;}
+.buy_button2{width:318px; padding:8px 0 0 0;}
+.counter_indent3{width:183px; overflow:hidden; padding:4px 0 0 0; float:left;}
+.left_img3{width:45px; float:left;}
+.counter_indent4{width:138px; float:right; padding:7px 0 0 0;}
+.counter_indent4 h5{font:900 38px "Helvetica Neue LT Std"; color:#9a1211; text-transform:uppercase;}
+.counter_indent4 h6{font:7px Arial, Helvetica, sans-serif; color:#9a1211; padding:0 0 0 2px; margin:-2px 0 0 0;}
+
+.couter_bg2{width:101px; background:url(../img/front/counter_bg2.jpg) top no-repeat; height:33px; margin:5px 0 0 8px;}
+.couter_bg2 ul{margin:0px; padding:3px 0 0 0;}
+.couter_bg2 li{list-style:none; font:bold 15px Arial, Helvetica, sans-serif; color:#f0eff1; float:left; padding:0 5px 0 10px;}
+.couter_bg2 li.last{padding-right:0px;}
+ 
+.price_outer2{width:120px; float:right; overflow:hidden; padding:0 12px 0 0;}
+table.price_data2 td{font:bold 11px Arial, Helvetica, sans-serif; color:#1c1c1c; padding:4px 6px 4px 0;}
+table.price_data2 td b{font:bold 11px Arial, Helvetica, sans-serif; color:#1c1c1c; text-decoration:line-through;}
+table.price_data2 td span{font:12px Arial, Helvetica, sans-serif; color:#810006;}
+table.price_data2 td strong{font:bold 15px Arial, Helvetica, sans-serif; color:#1c1c1c; text-transform:uppercase;}
+table.price_data2 td.bdrbottom{border-bottom:1px solid #cbcaca;}
+
+.view_discount{width:986px; padding:18px 0 0 0; text-align:center;}
+.padr12{margin-right:12px;}
+
+.location_img{width:516px; float:left;}
+.address_col{width:394px; height:246px; background:url(../img/front/location_bg.jpg) bottom no-repeat; float:right;}
+.address_col h2{font:37px "Helvetica Neue"; color:#000000; text-align:center; text-transform:uppercase; padding:45px 0 0 0;}
+.address_col p{font:26px "Helvetica Neue"; color:#000000; text-align:center; text-transform:uppercase;}
+
+.market_place{width:986px;}
+.top_strip4{width:986px;}
+.bottom_nav{width:986px; background:url(../img/front/bottom_nav_bg.jpg) top no-repeat; height:133px; overflow:hidden;}
+.bottom_nav ul{margin:0px; padding:11px 0 0 14px;}
+.bottom_nav li{list-style:none; font:18px "Helvetica Neue)"; color:#342f2f; float:left; padding:10px 24px; text-transform:uppercase; background:url(../img/front/links_divider.jpg) top right no-repeat;} 
+.bottom_nav li a{font:18px "Helvetica Neue)"; color:#342f2f; text-decoration:none;}
+
+.bottom_nav li img{vertical-align:middle; padding:0 0 0 4px;}
+.bottom_nav li.last{background:none; padding-right:0px;}
+
+
+.mid_bg4{width:986px; background:url(../img/front/mid_bg4.jpg) top; overflow:hidden;}
+
+.left_content2{width:633px; float:left;}
+.top_head3{width:633px;}
+.coupons_outer{width:600px; padding:2px 0 0 33px;}
+.coupon_img2{width:600px;}
+.buttons{width:600px; overflow:hidden; padding:18px 0 0 0;}
+.buttons ul{margin:0px; padding:0 0 0 100px;}
+.buttons li{list-style:none; float:left; padding:0 0 0 40px;}
+
+
+
+.right_scroller{width:305px; float:right; margin:10px 30px 0 0; height:440px; overflow:auto;}
+.right_scroller ul{margin:0px; padding:0;}
+.right_scroller li{list-style:none; line-height:0px; padding:0 0 12px 0;} 
+
+.popp_top2 {
+    background: url(../img/popup_top2.jpg) no-repeat scroll center bottom transparent;
+    height: 9px;
+    width: 629px;
+}
+a.close_button {
+    background: url(../img/close.png) no-repeat scroll center top transparent;
+    display: block;
+    float: right;
+    height: 26px;
+    margin: 15px 20px 0 0;
+    width: 30px;
+}
+.popup_bottom2 {
+    background: url(../img/popup_bottom2.jpg) no-repeat scroll center top transparent;
+    height: 9px;
+    width: 629px;
+}

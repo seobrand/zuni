@@ -1,0 +1,1 @@
+<?php define('PER_PAGE_RECORD', '50');?>

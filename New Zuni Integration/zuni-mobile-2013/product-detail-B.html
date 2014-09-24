@@ -1,0 +1,221 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width, minimum-scale=1, maximum-scale=1">
+<title>Welcome - Zuni</title>
+<link href="css/reset.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="css/idangerous.swiper.css">
+<link href="css/style.css" rel="stylesheet" type="text/css">
+<link href="css/font-face.css" rel="stylesheet" type="text/css">
+<script src="js/jquery.min.js"></script>
+<script  src="js/idangerous.swiper-1.9.1.min.js"></script>
+<!-- Swiper Scrollbar plugin -->
+<script  src="js/idangerous.swiper.scrollbar-1.2.js"></script>
+<script>
+
+$(function(){
+	
+	//Main Swiper
+	var swiper = new Swiper('.swiper2', {
+		//pagination : '.pagination1',
+		loop:true,
+		grabCursor: true
+	});
+	
+	
+	//Navigation arrows
+	$('.arrow-left').click(function(e) {
+        e.preventDefault()
+		swiper.swipePrev()
+    });
+	$('.arrow-right').click(function(e) {
+        e.preventDefault()
+		swiper.swipeNext()
+    });
+    
+})
+</script>
+<script src="js/jquery.tabify.js"></script>
+<script src="js/script.js"></script>
+<script src="js/dropdowntabs.js"></script>
+<script>
+$(document).ready(function(){
+	$('.product_tabs').tabify();
+	});
+</script>
+</head>
+
+<body>
+
+<!-- header -->
+<header class="header">
+  <div class="logo"><a href="index.html"><img src="images/logo.png" width="147" height="66" alt="zuni"></a></div>
+  <div class="top_right clearfix" id="dropdownmenuTop">
+    <ul class="clearfix">
+      <li>
+        <div id="dropdown2"><a href="#" data="dropmenu2_d">Welcome Audrey</a></div>
+      </li>
+    </ul>
+  </div>
+  <div class="dropmenudiv_d" id="dropmenu2_d">
+    <div class="dropdown2">
+      <ul>
+        <li><a href="#">Redeem</a></li>
+        <li><a href="#">Refer A Friend</a></li>
+        <li><a href="#">Refer A Business</a></li>
+        <li><a href="#">My Account</a></li>
+      </ul>
+    </div>
+  </div>
+  <script type="text/javascript">
+//SYNTAX: tabdropdown.init("menu_id", [integer OR "auto"])
+tabdropdown.init("dropdownmenuTop", "auto")
+</script> 
+</header>
+<!-- /header --> 
+
+<!-- nav -->
+<div class="nav_inner clearfix">
+  <ul class="clearfix">
+    <li><a href="#">Redeem</a></li>
+    <li class="link2"><a href="#">Refer A<br>
+      Friend</a></li>
+    <li class="link3"><a href="#"> Refer A<br>
+      Business </a></li>
+    <li class="link4"><a href="#"> My<br>
+      Account </a></li>
+  </ul>
+</div>
+<!-- /nav --> 
+
+<!-- container -->
+<div class="product_details clearfix">
+  <h1>paddock park animal
+    care center</h1>
+  <div class="productImg"><img src="images/product-img.jpg" width="251" height="182" alt=" "></div>
+  <div class="product_des">
+    <h2><span>20% OFF</span> bOARDING</h2>
+    <p>20% Off Boarding - Any length of stay.</p>
+    <ul>
+      <li>Expires: 03/31/2013</li>
+      <li>Not valid with any other offer.</li>
+      <li>Non-transferable / Not for resale / Not redeemable for cash.</li>
+    </ul>
+    <div class="product_buttons"> <a href="#"><img src="images/email-button.png" width="112" height="37" alt="email"></a> <a href="#"><img src="images/print-button.png" width="112" height="37" alt="print"></a></div>
+    <div class="offers_list">
+      <ul>
+        <li>
+          <div class="offerBox2"> <a href="#">
+            <p>Rabies Vaccine</p>
+            <strong>$5<sup>Off</sup></strong>
+            <div class="red_arrow">read more</div>
+            </a> </div>
+        </li>
+        <li>
+          <div class="offerBox2"> <a href="#">
+            <p>Boarding</p>
+            <strong>20%<sup>Off</sup></strong>
+            <div class="red_arrow">read more</div>
+            </a> </div>
+        </li>
+        <li>
+          <div class="offerBox2"> <a href="#">
+            <p>Dental Cleaning</p>
+            <strong>20%<sup>Off</sup></strong>
+            <div class="red_arrow">read more</div>
+            </a> </div>
+        </li>
+      </ul>
+    </div>
+  </div>
+</div>
+<div class="deal_des2">
+  <h3>Map &amp; Locations</h3>
+  <div class="deal_logo"> <img src="images/deal-logo.jpg" width="56" height="76" alt=" "></div>
+  <div class="deal_map">
+    <iframe width="100%" height="180" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=2030+S+Pine+Ave,+Ocala,+FL+34471,+United+States&amp;sll=29.167508,-82.137817&amp;sspn=0.007485,0.009645&amp;ie=UTF8&amp;hq=&amp;hnear=2030+S+Pine+Ave,+Ocala,+Marion,+Florida+34471&amp;t=m&amp;z=14&amp;ll=29.167508,-82.137817&amp;output=embed"></iframe>
+  </div>
+  <div class="dealAddress">
+    <p><strong>Address:</strong> 2030 S Pine Ave, Ocala, FL 34471, <br>
+      United States<br>
+      <strong>Phone:</strong>+1 352-622-4777<br>
+      <strong>Hours:</strong> Tuesday hours 11:00 am–9:00 pm <br>
+      <strong>Menu:</strong> allmenus.com<br>
+      <strong>Website:</strong> <a href="#">www.xyz.com</a> </p>
+  </div>
+</div>
+<div class="tabs_outer1">
+  <ul class="clearfix product_tabs">
+    <li><a href="#description">Description</a></li>
+    <li class="active"><a href="#pictures">Pictures</a></li>
+    <li><a href="#videos">Videos</a></li>
+  </ul>
+  <div class="clear"></div>
+  <div class="tabs_des">
+    <div id="description">
+      <p>20% Off Boarding - Any length of stay.</p>
+      <ul>
+        <li>Expires: 03/31/2013</li>
+        <li>Not valid with any other offer.</li>
+        <li>Non-transferable / Not for resale / Not redeemable for cash.</li>
+      </ul>
+    </div>
+    <div id="pictures" style="display:block;">
+      <div class="images_slider"> <a class="arrow-left" href="#"></a> <a class="arrow-right" href="#"></a>
+        <div class="swiper-main">
+          <div class="sm-free"></div>
+          <div class="swiper-container swiper2">
+            <div class="swiper-wrapper">
+              <div class="swiper-slide">
+                <ul>
+                  <li><img src="images/pic1.jpg" width="165" height="135" alt=" "><br>
+                    Lorem ipsum </li>
+                </ul>
+              </div>
+              <div class="swiper-slide">
+                <ul>
+                  <li><img src="images/pic1.jpg" width="165" height="135" alt=" "><br>
+                    Lorem ipsum </li>
+                </ul>
+              </div>
+              <div class="swiper-slide">
+                <ul>
+                  <li><img src="images/pic1.jpg" width="165" height="135" alt=" "><br>
+                    Lorem ipsum </li>
+                </ul>
+              </div>
+              <div class="swiper-slide">
+                <ul>
+                  <li><img src="images/pic1.jpg" width="165" height="135" alt=" "><br>
+                    Lorem ipsum </li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="videos"> Videos </div>
+  </div>
+</div>
+
+<!-- /container --> 
+
+<!-- footer links -->
+<div class="footer_links clearfix">
+  <ul class="clearfix">
+    <li><a href="#">Terms of Use</a></li>
+    <li><a href="#">Privacy</a></li>
+    <li><a href="#">Contact Us</a></li>
+    <li><a href="#">About Us</a></li>
+  </ul>
+</div>
+<!-- /footer links --> 
+
+<!-- footer -->
+<footer id="splashfooter"> Copyright &copy; 2013 jtwmediagroup, llc. All rights reserved. </footer>
+<!-- /footer -->
+
+</body>
+</html>
